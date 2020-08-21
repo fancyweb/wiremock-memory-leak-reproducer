@@ -1,0 +1,18 @@
+{
+  "id" : "f0f4125b-54f6-35c6-b861-3510132bf930",
+  "request" : {
+    "url" : "/594/595/596/597",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-594-595-596-597-WreWh.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "31e5845807b70590fff937b9d8fadcab",
+      "Date" : "Fri, 21 Aug 2020 15:44:20 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "f0f4125b-54f6-35c6-b861-3510132bf930"
+}

@@ -1,0 +1,18 @@
+{
+  "id" : "f1a6aa00-9389-3109-b9fd-c45a8fe500e5",
+  "request" : {
+    "url" : "/1815/1816/1817/1818",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-1815-1816-1817-1818-uFogy.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "ac0b19400321dfe47485781c447f7478",
+      "Date" : "Fri, 21 Aug 2020 15:49:05 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "f1a6aa00-9389-3109-b9fd-c45a8fe500e5"
+}

@@ -1,0 +1,18 @@
+{
+  "id" : "f67ffec4-4e04-359b-b357-628386007115",
+  "request" : {
+    "url" : "/1944/1945/1946/1947",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-1944-1945-1946-1947-y2Tsl.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "70fc6256170dfb638bbada075d6c2bce",
+      "Date" : "Fri, 21 Aug 2020 15:43:05 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "f67ffec4-4e04-359b-b357-628386007115"
+}

@@ -1,0 +1,18 @@
+{
+  "id" : "440f9653-ca51-32ae-b1ca-13e6bf187464",
+  "request" : {
+    "url" : "/3874/3875/3876/3877",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-3874-3875-3876-3877-SMacW.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "3ec9eb9129cc9ff06d6198eb566e41a8",
+      "Date" : "Fri, 21 Aug 2020 15:44:35 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "440f9653-ca51-32ae-b1ca-13e6bf187464"
+}

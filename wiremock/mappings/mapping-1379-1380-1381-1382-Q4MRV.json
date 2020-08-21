@@ -1,0 +1,18 @@
+{
+  "id" : "b9454eea-06d9-36e7-b87c-9b32aa77c7c8",
+  "request" : {
+    "url" : "/1379/1380/1381/1382",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-1379-1380-1381-1382-Q4MRV.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "fd4aa8df6a275e95e2aef9396103a6a4",
+      "Date" : "Fri, 21 Aug 2020 15:48:55 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "b9454eea-06d9-36e7-b87c-9b32aa77c7c8"
+}

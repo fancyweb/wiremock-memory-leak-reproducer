@@ -1,0 +1,18 @@
+{
+  "id" : "bdbab8e8-f22b-3110-b0d1-fe967b496147",
+  "request" : {
+    "url" : "/9600/9601/9602/9603",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-9600-9601-9602-9603-raLTJ.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "cfda5f6b8f2f524fa297ccb931dccd4c",
+      "Date" : "Fri, 21 Aug 2020 15:44:14 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "bdbab8e8-f22b-3110-b0d1-fe967b496147"
+}

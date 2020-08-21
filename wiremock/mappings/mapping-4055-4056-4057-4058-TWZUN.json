@@ -1,0 +1,18 @@
+{
+  "id" : "4e5319be-8570-3642-a76a-0e31333aa8ae",
+  "request" : {
+    "url" : "/4055/4056/4057/4058",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-4055-4056-4057-4058-TWZUN.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "791253082d9fffb6baf12d4f03d35676",
+      "Date" : "Fri, 21 Aug 2020 15:54:49 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "4e5319be-8570-3642-a76a-0e31333aa8ae"
+}

@@ -1,0 +1,18 @@
+{
+  "id" : "becb088f-360a-3b63-8476-1c0845231cc0",
+  "request" : {
+    "url" : "/1928/1929/1930/1931",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-1928-1929-1930-1931-kldXn.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "76b6c6cd8286dec120f1cf2d62056e48",
+      "Date" : "Fri, 21 Aug 2020 15:43:05 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "becb088f-360a-3b63-8476-1c0845231cc0"
+}

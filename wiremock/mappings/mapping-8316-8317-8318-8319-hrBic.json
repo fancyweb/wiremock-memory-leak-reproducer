@@ -1,0 +1,18 @@
+{
+  "id" : "e16487e2-dd66-36e0-9395-097ad9183ef9",
+  "request" : {
+    "url" : "/8316/8317/8318/8319",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-8316-8317-8318-8319-hrBic.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "7518f1ae1920d4ebfcfa47a9370cf9e7",
+      "Date" : "Fri, 21 Aug 2020 15:44:58 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "e16487e2-dd66-36e0-9395-097ad9183ef9"
+}

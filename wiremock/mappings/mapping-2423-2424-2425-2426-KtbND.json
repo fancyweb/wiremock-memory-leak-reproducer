@@ -1,0 +1,18 @@
+{
+  "id" : "87109d48-cd96-3c50-9fcf-c93f3ee9f049",
+  "request" : {
+    "url" : "/2423/2424/2425/2426",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-2423-2424-2425-2426-KtbND.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "eee50e233efecd156d5cd2c90b79221f",
+      "Date" : "Fri, 21 Aug 2020 15:51:06 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "87109d48-cd96-3c50-9fcf-c93f3ee9f049"
+}

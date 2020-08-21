@@ -1,0 +1,18 @@
+{
+  "id" : "0401b32e-4419-3531-9845-8bdfee9da84b",
+  "request" : {
+    "url" : "/1969/1970/1971/1972",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-1969-1970-1971-1972-WbU8d.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "95baa374d9fc00d2ddad13a760bfb6a2",
+      "Date" : "Fri, 21 Aug 2020 15:50:39 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "0401b32e-4419-3531-9845-8bdfee9da84b"
+}

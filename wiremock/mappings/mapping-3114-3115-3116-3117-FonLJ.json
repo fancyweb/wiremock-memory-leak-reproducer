@@ -1,0 +1,18 @@
+{
+  "id" : "78230b9b-a81c-349d-a576-0e642b4f9ab9",
+  "request" : {
+    "url" : "/3114/3115/3116/3117",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-3114-3115-3116-3117-FonLJ.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "01df706834cfb877c88734f7dde0a921",
+      "Date" : "Fri, 21 Aug 2020 15:44:32 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "78230b9b-a81c-349d-a576-0e642b4f9ab9"
+}

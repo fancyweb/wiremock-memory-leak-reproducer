@@ -1,0 +1,18 @@
+{
+  "id" : "60eba924-ce65-39bd-9813-754f0d236787",
+  "request" : {
+    "url" : "/1206/1207/1208/1209",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-1206-1207-1208-1209-jedSW.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "c39defa41435f0a84ebd6e9652833491",
+      "Date" : "Fri, 21 Aug 2020 15:48:53 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "60eba924-ce65-39bd-9813-754f0d236787"
+}

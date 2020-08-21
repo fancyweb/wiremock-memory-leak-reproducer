@@ -1,0 +1,18 @@
+{
+  "id" : "cac4a78d-0c46-33a7-a59d-451884586844",
+  "request" : {
+    "url" : "/8833/8834/8835/8836",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-8833-8834-8835-8836-ILBET.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "d0eaa6c2b079378b5be98e8570a259b7",
+      "Date" : "Fri, 21 Aug 2020 15:57:07 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "cac4a78d-0c46-33a7-a59d-451884586844"
+}

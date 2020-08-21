@@ -1,0 +1,18 @@
+{
+  "id" : "5b8048aa-415e-3ce5-a680-1c9740cb8b19",
+  "request" : {
+    "url" : "/2242/2243/2244/2245",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-2242-2243-2244-2245-JluiP.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "5b5c14eec56c620373f72631f3bc5050",
+      "Date" : "Fri, 21 Aug 2020 15:44:28 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "5b8048aa-415e-3ce5-a680-1c9740cb8b19"
+}

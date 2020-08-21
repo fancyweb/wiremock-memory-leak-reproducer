@@ -1,0 +1,18 @@
+{
+  "id" : "e531356f-39a9-3051-9dac-0c5d120b09b7",
+  "request" : {
+    "url" : "/1962/1963/1964/1965",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-1962-1963-1964-1965-ZL9Tp.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "9883b52f75e504531e9a6736e9d4a83c",
+      "Date" : "Fri, 21 Aug 2020 15:44:26 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "e531356f-39a9-3051-9dac-0c5d120b09b7"
+}

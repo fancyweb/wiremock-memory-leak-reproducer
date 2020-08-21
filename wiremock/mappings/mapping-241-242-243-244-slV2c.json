@@ -1,0 +1,18 @@
+{
+  "id" : "abeaca08-372d-3c35-8b2f-23fcbfe303c0",
+  "request" : {
+    "url" : "/241/242/243/244",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-241-242-243-244-slV2c.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "887be7dd80014586cb845774ab78377c",
+      "Date" : "Fri, 21 Aug 2020 15:47:58 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "abeaca08-372d-3c35-8b2f-23fcbfe303c0"
+}

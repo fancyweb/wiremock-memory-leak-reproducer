@@ -1,0 +1,18 @@
+{
+  "id" : "241d6ffa-1df3-348c-9bad-212c37ee5284",
+  "request" : {
+    "url" : "/677/678/679/680",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-677-678-679-680-bzCMI.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "9fb2ef77fc0698da552cb5f75f17ae31",
+      "Date" : "Fri, 21 Aug 2020 15:48:19 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "241d6ffa-1df3-348c-9bad-212c37ee5284"
+}

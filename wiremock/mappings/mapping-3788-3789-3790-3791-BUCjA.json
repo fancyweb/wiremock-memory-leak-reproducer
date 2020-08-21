@@ -1,0 +1,18 @@
+{
+  "id" : "e098383c-20c2-3f55-b0ff-b313904047e7",
+  "request" : {
+    "url" : "/3788/3789/3790/3791",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-3788-3789-3790-3791-BUCjA.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "8dd368ac6b8f0b48836ec9679525c3e7",
+      "Date" : "Fri, 21 Aug 2020 15:43:21 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "e098383c-20c2-3f55-b0ff-b313904047e7"
+}

@@ -1,0 +1,18 @@
+{
+  "id" : "4577a35a-850c-3dbb-b55b-5607c70a4b7e",
+  "request" : {
+    "url" : "/1882/1883/1884/1885",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-1882-1883-1884-1885-Cyn8V.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "31147dc988865772f33ab59b0ea7f4f7",
+      "Date" : "Fri, 21 Aug 2020 15:44:26 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "4577a35a-850c-3dbb-b55b-5607c70a4b7e"
+}

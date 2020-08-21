@@ -1,0 +1,18 @@
+{
+  "id" : "1cdc97a9-508c-37ce-9ff0-dc4e38de7130",
+  "request" : {
+    "url" : "/8144/8145/8146/8147",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-8144-8145-8146-8147-poeIE.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "952533bebeff543567c626a9a5714626",
+      "Date" : "Fri, 21 Aug 2020 15:56:57 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "1cdc97a9-508c-37ce-9ff0-dc4e38de7130"
+}

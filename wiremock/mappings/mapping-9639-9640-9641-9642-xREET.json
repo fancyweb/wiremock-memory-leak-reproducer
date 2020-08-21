@@ -1,0 +1,18 @@
+{
+  "id" : "d796ba85-cd64-3470-a365-32d89d8190a9",
+  "request" : {
+    "url" : "/9639/9640/9641/9642",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-9639-9640-9641-9642-xREET.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "5f582d0cd3043ce5a847d6e312cc2599",
+      "Date" : "Fri, 21 Aug 2020 15:57:39 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "d796ba85-cd64-3470-a365-32d89d8190a9"
+}

@@ -1,0 +1,18 @@
+{
+  "id" : "b749ac3f-162a-393b-9fc8-cc519930a74e",
+  "request" : {
+    "url" : "/3238/3239/3240/3241",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-3238-3239-3240-3241-7SPFV.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "ff354a9f6fd9c037061fb11741d08ffe",
+      "Date" : "Fri, 21 Aug 2020 15:44:32 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "b749ac3f-162a-393b-9fc8-cc519930a74e"
+}

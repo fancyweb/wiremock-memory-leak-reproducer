@@ -1,0 +1,18 @@
+{
+  "id" : "67171ab7-eba4-3600-ba41-fb38c8c3952f",
+  "request" : {
+    "url" : "/6240/6241/6242/6243",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-6240-6241-6242-6243-mBUUI.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "1ddb5777fb3c00fc3fa786532db62a88",
+      "Date" : "Fri, 21 Aug 2020 15:43:45 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "67171ab7-eba4-3600-ba41-fb38c8c3952f"
+}

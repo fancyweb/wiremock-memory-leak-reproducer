@@ -1,0 +1,18 @@
+{
+  "id" : "30ebd8b7-37ef-313f-9f82-ef5722e42770",
+  "request" : {
+    "url" : "/6366/6367/6368/6369",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-6366-6367-6368-6369-MdsYS.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "a0015b401fdc60e9302c5e5476859690",
+      "Date" : "Fri, 21 Aug 2020 15:55:49 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "30ebd8b7-37ef-313f-9f82-ef5722e42770"
+}

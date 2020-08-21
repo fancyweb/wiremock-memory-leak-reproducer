@@ -1,0 +1,18 @@
+{
+  "id" : "c1d035da-f5fb-3ecc-a03e-f4ee84f02e7b",
+  "request" : {
+    "url" : "/4728/4729/4730/4731",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-4728-4729-4730-4731-KRErs.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "eb3383298d6e45e601431036dc63651f",
+      "Date" : "Fri, 21 Aug 2020 15:43:32 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "c1d035da-f5fb-3ecc-a03e-f4ee84f02e7b"
+}

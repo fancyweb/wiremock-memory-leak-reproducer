@@ -1,0 +1,18 @@
+{
+  "id" : "370ced7f-a22d-33cd-a17c-5bbf627c06ae",
+  "request" : {
+    "url" : "/1800/1801/1802/1803",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-1800-1801-1802-1803-NFJNX.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "d744053b06eace118ec41329a1b8a597",
+      "Date" : "Fri, 21 Aug 2020 15:43:04 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "370ced7f-a22d-33cd-a17c-5bbf627c06ae"
+}

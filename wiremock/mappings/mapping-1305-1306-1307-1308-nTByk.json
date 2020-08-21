@@ -1,0 +1,18 @@
+{
+  "id" : "e8441ada-31b6-3a29-8e96-fd51d519ddba",
+  "request" : {
+    "url" : "/1305/1306/1307/1308",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-1305-1306-1307-1308-nTByk.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "64bbd63929390ae71ca6a70b1c57bbb6",
+      "Date" : "Fri, 21 Aug 2020 15:48:40 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "e8441ada-31b6-3a29-8e96-fd51d519ddba"
+}

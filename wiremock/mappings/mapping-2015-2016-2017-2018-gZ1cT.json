@@ -1,0 +1,18 @@
+{
+  "id" : "191c2ebb-9d01-3eab-afad-eac859bef53b",
+  "request" : {
+    "url" : "/2015/2016/2017/2018",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-2015-2016-2017-2018-gZ1cT.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "5c49532b9de26e3e934320e62d0da78d",
+      "Date" : "Fri, 21 Aug 2020 15:51:20 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "191c2ebb-9d01-3eab-afad-eac859bef53b"
+}

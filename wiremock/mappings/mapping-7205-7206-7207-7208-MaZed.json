@@ -1,0 +1,18 @@
+{
+  "id" : "b63b6bb6-41ab-3e53-b6b3-c2f51446143e",
+  "request" : {
+    "url" : "/7205/7206/7207/7208",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-7205-7206-7207-7208-MaZed.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "2d70851587ff04abffde86534b1b8e72",
+      "Date" : "Fri, 21 Aug 2020 15:56:23 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "b63b6bb6-41ab-3e53-b6b3-c2f51446143e"
+}

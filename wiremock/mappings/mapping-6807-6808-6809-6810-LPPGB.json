@@ -1,0 +1,18 @@
+{
+  "id" : "58582695-611f-3a4c-a571-85c2144ce82b",
+  "request" : {
+    "url" : "/6807/6808/6809/6810",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-6807-6808-6809-6810-LPPGB.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "b54892fb3c8d17d03a72b70ce1e53f87",
+      "Date" : "Fri, 21 Aug 2020 15:56:05 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "58582695-611f-3a4c-a571-85c2144ce82b"
+}

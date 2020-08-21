@@ -1,0 +1,18 @@
+{
+  "id" : "7314ce8e-9704-3b26-ac46-053f08679d04",
+  "request" : {
+    "url" : "/9482/9483/9484/9485",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-9482-9483-9484-9485-SticX.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "d5925f7b3356a4ab102b0db49ded336f",
+      "Date" : "Fri, 21 Aug 2020 15:57:29 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "7314ce8e-9704-3b26-ac46-053f08679d04"
+}

@@ -1,0 +1,18 @@
+{
+  "id" : "b96aaada-9675-3165-9dd3-c1d59f0e8797",
+  "request" : {
+    "url" : "/3968/3969/3970/3971",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-3968-3969-3970-3971-kdbTG.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "ac1b08a9296a1376e3e851396ce6aa53",
+      "Date" : "Fri, 21 Aug 2020 15:54:45 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "b96aaada-9675-3165-9dd3-c1d59f0e8797"
+}

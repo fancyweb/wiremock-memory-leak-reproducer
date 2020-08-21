@@ -1,0 +1,18 @@
+{
+  "id" : "d6265d43-b13d-3742-8ff8-744b3482421e",
+  "request" : {
+    "url" : "/4813/4814/4815/4816",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-4813-4814-4815-4816-RcrGF.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "7ed6568a69cd68aa0612d5b41c2e058c",
+      "Date" : "Fri, 21 Aug 2020 15:55:07 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "d6265d43-b13d-3742-8ff8-744b3482421e"
+}

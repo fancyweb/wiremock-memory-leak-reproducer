@@ -1,0 +1,18 @@
+{
+  "id" : "2c5e390c-11bc-31d8-a38c-3bfa06937107",
+  "request" : {
+    "url" : "/1060/1061/1062/1063",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-1060-1061-1062-1063-DmSOZ.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "f573990530e1e82fd1110673f7622d13",
+      "Date" : "Fri, 21 Aug 2020 15:42:59 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "2c5e390c-11bc-31d8-a38c-3bfa06937107"
+}

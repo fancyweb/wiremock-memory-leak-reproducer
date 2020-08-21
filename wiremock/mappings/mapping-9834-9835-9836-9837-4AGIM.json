@@ -1,0 +1,18 @@
+{
+  "id" : "6b022763-dc74-3035-879a-7ffbb20de630",
+  "request" : {
+    "url" : "/9834/9835/9836/9837",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-9834-9835-9836-9837-4AGIM.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "d2aa2808313f6ad0f1905e158f2f7c8b",
+      "Date" : "Fri, 21 Aug 2020 15:44:16 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "6b022763-dc74-3035-879a-7ffbb20de630"
+}

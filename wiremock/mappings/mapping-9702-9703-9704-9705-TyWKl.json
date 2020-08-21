@@ -1,0 +1,18 @@
+{
+  "id" : "b9d4783e-02e6-35af-a0ee-0098e89da03d",
+  "request" : {
+    "url" : "/9702/9703/9704/9705",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-9702-9703-9704-9705-TyWKl.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "4fb3edce039f3e30da2d2c28aabacf21",
+      "Date" : "Fri, 21 Aug 2020 15:44:15 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "b9d4783e-02e6-35af-a0ee-0098e89da03d"
+}

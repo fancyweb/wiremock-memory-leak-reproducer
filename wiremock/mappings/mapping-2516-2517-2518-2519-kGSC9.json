@@ -1,0 +1,18 @@
+{
+  "id" : "0e7ca4ea-2679-32fd-8a14-65c26d361871",
+  "request" : {
+    "url" : "/2516/2517/2518/2519",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-2516-2517-2518-2519-kGSC9.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "fd622d588714c3055d5e6bded348ab1f",
+      "Date" : "Fri, 21 Aug 2020 15:43:09 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "0e7ca4ea-2679-32fd-8a14-65c26d361871"
+}

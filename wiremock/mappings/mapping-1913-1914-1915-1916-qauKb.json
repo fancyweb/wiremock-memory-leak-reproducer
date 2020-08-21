@@ -1,0 +1,18 @@
+{
+  "id" : "bb76355a-ae0c-38a8-a1a0-06b9aa9235e4",
+  "request" : {
+    "url" : "/1913/1914/1915/1916",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-1913-1914-1915-1916-qauKb.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "f92e7f6b8cc4a4de5faed66c1c3fa449",
+      "Date" : "Fri, 21 Aug 2020 15:49:07 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "bb76355a-ae0c-38a8-a1a0-06b9aa9235e4"
+}

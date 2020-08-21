@@ -1,0 +1,18 @@
+{
+  "id" : "e97ded3d-7c62-35e5-9b73-f78342e77a4d",
+  "request" : {
+    "url" : "/1069/1070/1071/1072",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-1069-1070-1071-1072-QMNOX.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "08de70535451f74f2b21a946e06aa44a",
+      "Date" : "Fri, 21 Aug 2020 15:48:34 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "e97ded3d-7c62-35e5-9b73-f78342e77a4d"
+}

@@ -1,0 +1,18 @@
+{
+  "id" : "98b44751-5c73-33f4-b047-f7bf04f016ac",
+  "request" : {
+    "url" : "/1313/1314/1315/1316",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-1313-1314-1315-1316-Tyg2r.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "f74c5e0ded3b5ee3f3e289efe72eb58b",
+      "Date" : "Fri, 21 Aug 2020 15:48:40 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "98b44751-5c73-33f4-b047-f7bf04f016ac"
+}

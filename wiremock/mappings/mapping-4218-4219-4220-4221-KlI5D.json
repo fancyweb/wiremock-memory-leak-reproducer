@@ -1,0 +1,18 @@
+{
+  "id" : "3ff4b14f-0e10-34b4-95ef-90c48886695a",
+  "request" : {
+    "url" : "/4218/4219/4220/4221",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-4218-4219-4220-4221-KlI5D.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "6ad01d4fe33c0e0f22d842fe56075720",
+      "Date" : "Fri, 21 Aug 2020 15:43:26 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "3ff4b14f-0e10-34b4-95ef-90c48886695a"
+}

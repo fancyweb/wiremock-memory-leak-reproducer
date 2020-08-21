@@ -1,0 +1,18 @@
+{
+  "id" : "fab47f16-2c4d-3f59-a69d-9180cb6d8df9",
+  "request" : {
+    "url" : "/1759/1760/1761/1762",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-1759-1760-1761-1762-GOLUS.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "f408739fb046dddaca125710c2b20ed8",
+      "Date" : "Fri, 21 Aug 2020 15:49:03 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "fab47f16-2c4d-3f59-a69d-9180cb6d8df9"
+}

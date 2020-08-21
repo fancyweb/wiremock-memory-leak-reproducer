@@ -1,0 +1,18 @@
+{
+  "id" : "a92cfa41-b81f-30e8-9e3e-9de2f0e172d5",
+  "request" : {
+    "url" : "/1975/1976/1977/1978",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-1975-1976-1977-1978-0SH82.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "270ef208a67e68100b9bc2fa9146b10c",
+      "Date" : "Fri, 21 Aug 2020 15:49:09 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "a92cfa41-b81f-30e8-9e3e-9de2f0e172d5"
+}

@@ -1,0 +1,18 @@
+{
+  "id" : "89390eb4-ff37-372a-80d6-92b8f1aea59c",
+  "request" : {
+    "url" : "/6118/6119/6120/6121",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-6118-6119-6120-6121-pank2.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "2322afe18644327a53c25343ad3cc959",
+      "Date" : "Fri, 21 Aug 2020 15:55:57 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "89390eb4-ff37-372a-80d6-92b8f1aea59c"
+}

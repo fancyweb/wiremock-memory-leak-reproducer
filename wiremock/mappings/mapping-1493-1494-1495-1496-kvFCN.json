@@ -1,0 +1,18 @@
+{
+  "id" : "f5901c48-e23f-3385-964f-7cde777fe82d",
+  "request" : {
+    "url" : "/1493/1494/1495/1496",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-1493-1494-1495-1496-kvFCN.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "1d3247dd3a3845bdb6c0d69467125271",
+      "Date" : "Fri, 21 Aug 2020 15:48:50 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "f5901c48-e23f-3385-964f-7cde777fe82d"
+}

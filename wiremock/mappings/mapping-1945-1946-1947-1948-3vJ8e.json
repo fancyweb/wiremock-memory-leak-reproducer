@@ -1,0 +1,18 @@
+{
+  "id" : "c2394f38-4aa1-3654-8923-3b0fa715c219",
+  "request" : {
+    "url" : "/1945/1946/1947/1948",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-1945-1946-1947-1948-3vJ8e.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "27d74a8452c54fcf554541c3508dcd1d",
+      "Date" : "Fri, 21 Aug 2020 15:49:08 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "c2394f38-4aa1-3654-8923-3b0fa715c219"
+}

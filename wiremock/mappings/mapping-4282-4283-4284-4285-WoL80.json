@@ -1,0 +1,18 @@
+{
+  "id" : "059490f1-2395-3a64-9ea6-86c592801cdb",
+  "request" : {
+    "url" : "/4282/4283/4284/4285",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-4282-4283-4284-4285-WoL80.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "a599f69b65a7c0c2b3fff8bbd80eefde",
+      "Date" : "Fri, 21 Aug 2020 15:44:37 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "059490f1-2395-3a64-9ea6-86c592801cdb"
+}

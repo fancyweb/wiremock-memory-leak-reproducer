@@ -1,0 +1,18 @@
+{
+  "id" : "f5d984ac-4908-3b62-a52d-e2e13eb7c562",
+  "request" : {
+    "url" : "/4024/4025/4026/4027",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-4024-4025-4026-4027-Ktm4m.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "ebd2f33eb3af8a2fbed79d800ae278dc",
+      "Date" : "Fri, 21 Aug 2020 15:54:55 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "f5d984ac-4908-3b62-a52d-e2e13eb7c562"
+}

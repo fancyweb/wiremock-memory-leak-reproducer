@@ -1,0 +1,18 @@
+{
+  "id" : "f0038ed8-c46d-3f61-b433-a442561ff8cc",
+  "request" : {
+    "url" : "/1807/1808/1809/1810",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-1807-1808-1809-1810-REVaM.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "554fc33cca86616efdb6f62d76411733",
+      "Date" : "Fri, 21 Aug 2020 15:49:04 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "f0038ed8-c46d-3f61-b433-a442561ff8cc"
+}

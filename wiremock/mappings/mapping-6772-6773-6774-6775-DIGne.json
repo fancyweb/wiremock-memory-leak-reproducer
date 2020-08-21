@@ -1,0 +1,18 @@
+{
+  "id" : "08d094a4-9182-39a0-a729-21253c08debd",
+  "request" : {
+    "url" : "/6772/6773/6774/6775",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-6772-6773-6774-6775-DIGne.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "808b8936c3c1211e91c0bd4dac8db0d6",
+      "Date" : "Fri, 21 Aug 2020 15:43:49 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "08d094a4-9182-39a0-a729-21253c08debd"
+}

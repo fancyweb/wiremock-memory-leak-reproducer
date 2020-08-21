@@ -1,0 +1,18 @@
+{
+  "id" : "6369b967-2e10-3b1f-92ab-1588b867eade",
+  "request" : {
+    "url" : "/6019/6020/6021/6022",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-6019-6020-6021-6022-TbCGe.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "164474a77c90935c98478b298ecc6fba",
+      "Date" : "Fri, 21 Aug 2020 15:55:43 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "6369b967-2e10-3b1f-92ab-1588b867eade"
+}

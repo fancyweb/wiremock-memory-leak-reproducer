@@ -1,0 +1,18 @@
+{
+  "id" : "9d511c01-0f8f-3516-8121-c3b6a5dc0be6",
+  "request" : {
+    "url" : "/895/896/897/898",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-895-896-897-898-BKNVA.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "bf1e58235ae09485eca117682a8b5567",
+      "Date" : "Fri, 21 Aug 2020 15:48:25 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "9d511c01-0f8f-3516-8121-c3b6a5dc0be6"
+}

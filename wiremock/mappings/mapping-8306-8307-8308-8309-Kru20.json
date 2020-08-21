@@ -1,0 +1,18 @@
+{
+  "id" : "79d4af52-dffa-3d08-8b8f-867a860ba14c",
+  "request" : {
+    "url" : "/8306/8307/8308/8309",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-8306-8307-8308-8309-Kru20.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "dd31864ae44faa00677b2a9d3d5993f8",
+      "Date" : "Fri, 21 Aug 2020 15:44:58 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "79d4af52-dffa-3d08-8b8f-867a860ba14c"
+}

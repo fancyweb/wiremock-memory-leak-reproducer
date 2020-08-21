@@ -1,0 +1,18 @@
+{
+  "id" : "ee29c8ae-9782-3b26-a782-353bb471fa70",
+  "request" : {
+    "url" : "/9594/9595/9596/9597",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-9594-9595-9596-9597-ClGU1.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "2da8487de25c6e0c1b568c5aeccdae37",
+      "Date" : "Fri, 21 Aug 2020 15:45:04 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "ee29c8ae-9782-3b26-a782-353bb471fa70"
+}

@@ -1,0 +1,18 @@
+{
+  "id" : "1825a04b-805c-372c-bdb0-cdefbfb69949",
+  "request" : {
+    "url" : "/6024/6025/6026/6027",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-6024-6025-6026-6027-WRBUh.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "7568421e044cdda65bb306cb0ae3423b",
+      "Date" : "Fri, 21 Aug 2020 15:55:52 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "1825a04b-805c-372c-bdb0-cdefbfb69949"
+}

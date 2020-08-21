@@ -1,0 +1,18 @@
+{
+  "id" : "c4949178-0171-3cb4-a585-ba0a2ebfa6e6",
+  "request" : {
+    "url" : "/7523/7524/7525/7526",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-7523-7524-7525-7526-itgis.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "a27089dc68de040adb15055bd12336b8",
+      "Date" : "Fri, 21 Aug 2020 15:56:31 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "c4949178-0171-3cb4-a585-ba0a2ebfa6e6"
+}

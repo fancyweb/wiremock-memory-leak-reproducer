@@ -1,0 +1,18 @@
+{
+  "id" : "61df979b-df24-3fd1-baed-6565641a9003",
+  "request" : {
+    "url" : "/4072/4073/4074/4075",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-4072-4073-4074-4075-E4Mae.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "0f335bf00a2f484c3be299f0d8684aaa",
+      "Date" : "Fri, 21 Aug 2020 15:54:59 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "61df979b-df24-3fd1-baed-6565641a9003"
+}

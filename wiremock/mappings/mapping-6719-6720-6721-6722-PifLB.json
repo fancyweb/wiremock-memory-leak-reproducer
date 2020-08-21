@@ -1,0 +1,18 @@
+{
+  "id" : "05c27b5c-cb4f-387f-af19-c341b22e163a",
+  "request" : {
+    "url" : "/6719/6720/6721/6722",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-6719-6720-6721-6722-PifLB.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "b74ce04672b55357aedce46e3b1a412c",
+      "Date" : "Fri, 21 Aug 2020 15:56:04 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "05c27b5c-cb4f-387f-af19-c341b22e163a"
+}

@@ -1,0 +1,18 @@
+{
+  "id" : "fa4f9734-5ca4-366d-8f02-599947f62bf2",
+  "request" : {
+    "url" : "/335/336/337/338",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-335-336-337-338-WWAeD.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "d5f3de48a1c8023db65af216782fb18e",
+      "Date" : "Fri, 21 Aug 2020 15:48:00 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "fa4f9734-5ca4-366d-8f02-599947f62bf2"
+}

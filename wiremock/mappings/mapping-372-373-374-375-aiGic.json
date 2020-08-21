@@ -1,0 +1,18 @@
+{
+  "id" : "611ecd42-9707-3474-b0eb-59f48212fd16",
+  "request" : {
+    "url" : "/372/373/374/375",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-372-373-374-375-aiGic.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "532499d27c90cf635458b37c8f376f65",
+      "Date" : "Fri, 21 Aug 2020 15:42:53 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "611ecd42-9707-3474-b0eb-59f48212fd16"
+}

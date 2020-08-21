@@ -1,0 +1,18 @@
+{
+  "id" : "745e7db7-aab8-3cec-a835-5f6e329f090f",
+  "request" : {
+    "url" : "/2017/2018/2019/2020",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-2017-2018-2019-2020-Ufsqa.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "3400ed554106f37a4672c1d6c9db230c",
+      "Date" : "Fri, 21 Aug 2020 15:50:54 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "745e7db7-aab8-3cec-a835-5f6e329f090f"
+}

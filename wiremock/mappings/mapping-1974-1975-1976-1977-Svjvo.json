@@ -1,0 +1,18 @@
+{
+  "id" : "00950d54-a895-31aa-ad82-b65a77aef7c7",
+  "request" : {
+    "url" : "/1974/1975/1976/1977",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-1974-1975-1976-1977-Svjvo.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "6f1712cea34507a833d036dc39e77251",
+      "Date" : "Fri, 21 Aug 2020 15:50:51 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "00950d54-a895-31aa-ad82-b65a77aef7c7"
+}

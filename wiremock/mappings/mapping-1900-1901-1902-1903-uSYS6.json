@@ -1,0 +1,18 @@
+{
+  "id" : "d8513f0c-cc87-3591-9e1c-8049e5220275",
+  "request" : {
+    "url" : "/1900/1901/1902/1903",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-1900-1901-1902-1903-uSYS6.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "a4c1995c7a37a5846984ba78f23c4297",
+      "Date" : "Fri, 21 Aug 2020 15:43:05 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "d8513f0c-cc87-3591-9e1c-8049e5220275"
+}

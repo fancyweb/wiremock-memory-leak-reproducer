@@ -1,0 +1,18 @@
+{
+  "id" : "15ec445e-0d84-3f34-b88d-0c7c9b2f9f27",
+  "request" : {
+    "url" : "/8022/8023/8024/8025",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-8022-8023-8024-8025-kfRdG.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "06117a667b4da39fa24bc1ce29ff6414",
+      "Date" : "Fri, 21 Aug 2020 15:44:00 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "15ec445e-0d84-3f34-b88d-0c7c9b2f9f27"
+}

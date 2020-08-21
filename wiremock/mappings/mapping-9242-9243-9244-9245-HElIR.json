@@ -1,0 +1,18 @@
+{
+  "id" : "911b994b-ee7e-36c6-9cd8-adfad9c0b52d",
+  "request" : {
+    "url" : "/9242/9243/9244/9245",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-9242-9243-9244-9245-HElIR.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "3debd1ebc191a6d34b5079222b953b19",
+      "Date" : "Fri, 21 Aug 2020 15:45:03 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "911b994b-ee7e-36c6-9cd8-adfad9c0b52d"
+}

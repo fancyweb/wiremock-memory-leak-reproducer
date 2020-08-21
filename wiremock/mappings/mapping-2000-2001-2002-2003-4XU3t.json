@@ -1,0 +1,18 @@
+{
+  "id" : "c19a21ca-7856-3bfe-9803-6f0ba9195906",
+  "request" : {
+    "url" : "/2000/2001/2002/2003",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-2000-2001-2002-2003-4XU3t.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "a13b92f8d19566b0c62d31d2161ae068",
+      "Date" : "Fri, 21 Aug 2020 15:43:06 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "c19a21ca-7856-3bfe-9803-6f0ba9195906"
+}

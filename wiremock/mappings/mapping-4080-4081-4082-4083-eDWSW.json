@@ -1,0 +1,18 @@
+{
+  "id" : "2022f1c0-90c6-36ef-bab2-4acec8d2fd69",
+  "request" : {
+    "url" : "/4080/4081/4082/4083",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-4080-4081-4082-4083-eDWSW.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "d21edd79daecc038925b8c72b9119744",
+      "Date" : "Fri, 21 Aug 2020 15:43:24 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "2022f1c0-90c6-36ef-bab2-4acec8d2fd69"
+}

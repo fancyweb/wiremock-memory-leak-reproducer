@@ -1,0 +1,18 @@
+{
+  "id" : "a79f886d-a8fc-3ebc-909c-ea751c4b6e33",
+  "request" : {
+    "url" : "/1967/1968/1969/1970",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-1967-1968-1969-1970-RO6fV.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "66982ecd4fe0990e09194c93075f9508",
+      "Date" : "Fri, 21 Aug 2020 15:49:08 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "a79f886d-a8fc-3ebc-909c-ea751c4b6e33"
+}

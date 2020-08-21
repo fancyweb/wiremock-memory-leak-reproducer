@@ -1,0 +1,18 @@
+{
+  "id" : "79f02bcd-9199-33b8-9814-22f28cb69e3e",
+  "request" : {
+    "url" : "/3349/3350/3351/3352",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-3349-3350-3351-3352-OFGSI.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "8040a8719b7601f64051b5c1ca5354e6",
+      "Date" : "Fri, 21 Aug 2020 15:52:12 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "79f02bcd-9199-33b8-9814-22f28cb69e3e"
+}

@@ -1,0 +1,18 @@
+{
+  "id" : "a484e33a-0ca9-3bf4-9bc3-0bce9e66bd84",
+  "request" : {
+    "url" : "/1198/1199/1200/1201",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-1198-1199-1200-1201-xhMca.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "146bd6ed3f8794d086cb61d17c562897",
+      "Date" : "Fri, 21 Aug 2020 15:48:53 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "a484e33a-0ca9-3bf4-9bc3-0bce9e66bd84"
+}

@@ -1,0 +1,18 @@
+{
+  "id" : "b660bdca-c1fe-31f3-9c7c-123de7dc3cbf",
+  "request" : {
+    "url" : "/2025/2026/2027/2028",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-2025-2026-2027-2028-zTRNK.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "69fe5a27eb492b8b40a9121e0a2c35f1",
+      "Date" : "Fri, 21 Aug 2020 15:50:54 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "b660bdca-c1fe-31f3-9c7c-123de7dc3cbf"
+}

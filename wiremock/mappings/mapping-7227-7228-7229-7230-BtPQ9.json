@@ -1,0 +1,18 @@
+{
+  "id" : "8bbb282e-7c37-3263-8b16-6b173f97ab85",
+  "request" : {
+    "url" : "/7227/7228/7229/7230",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-7227-7228-7229-7230-BtPQ9.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "16b5dfd107cb7e5cddb1f9f32613a0a0",
+      "Date" : "Fri, 21 Aug 2020 15:56:17 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "8bbb282e-7c37-3263-8b16-6b173f97ab85"
+}

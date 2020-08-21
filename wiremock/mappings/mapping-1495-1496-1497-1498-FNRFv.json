@@ -1,0 +1,18 @@
+{
+  "id" : "93646413-7715-3725-9f87-12ba90ba0236",
+  "request" : {
+    "url" : "/1495/1496/1497/1498",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-1495-1496-1497-1498-FNRFv.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "043b772ab374958436afdc7d3f5c9e36",
+      "Date" : "Fri, 21 Aug 2020 15:48:50 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "93646413-7715-3725-9f87-12ba90ba0236"
+}

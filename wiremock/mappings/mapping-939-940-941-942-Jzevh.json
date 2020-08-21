@@ -1,0 +1,18 @@
+{
+  "id" : "66697ff1-6b17-3a74-8db3-fc8e28db9518",
+  "request" : {
+    "url" : "/939/940/941/942",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-939-940-941-942-Jzevh.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "c9379b51a306b2e523e0bc8ec2343023",
+      "Date" : "Fri, 21 Aug 2020 15:48:26 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "66697ff1-6b17-3a74-8db3-fc8e28db9518"
+}

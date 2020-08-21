@@ -1,0 +1,18 @@
+{
+  "id" : "defac5af-898e-3d0b-b042-69dcdeb78f38",
+  "request" : {
+    "url" : "/3024/3025/3026/3027",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-3024-3025-3026-3027-JhIkv.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "a930b444b1b7ca70f1b53444fd3744cf",
+      "Date" : "Fri, 21 Aug 2020 15:43:13 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "defac5af-898e-3d0b-b042-69dcdeb78f38"
+}

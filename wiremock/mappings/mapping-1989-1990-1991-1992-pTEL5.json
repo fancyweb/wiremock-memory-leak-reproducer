@@ -1,0 +1,18 @@
+{
+  "id" : "58e09fc3-1537-3e47-9e86-06d58772e2c7",
+  "request" : {
+    "url" : "/1989/1990/1991/1992",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-1989-1990-1991-1992-pTEL5.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "3e4345d8a1a6fe12f21d5529068f9a11",
+      "Date" : "Fri, 21 Aug 2020 15:49:09 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "58e09fc3-1537-3e47-9e86-06d58772e2c7"
+}

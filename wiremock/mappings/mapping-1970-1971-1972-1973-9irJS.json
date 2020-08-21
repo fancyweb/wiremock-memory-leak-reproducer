@@ -1,0 +1,18 @@
+{
+  "id" : "bc856688-8976-374f-b571-13d0a8b6e8a9",
+  "request" : {
+    "url" : "/1970/1971/1972/1973",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-1970-1971-1972-1973-9irJS.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "541d91af9fe199b1476b276b744ae3a6",
+      "Date" : "Fri, 21 Aug 2020 15:44:26 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "bc856688-8976-374f-b571-13d0a8b6e8a9"
+}

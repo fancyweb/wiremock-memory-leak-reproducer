@@ -1,0 +1,18 @@
+{
+  "id" : "667cd9f1-acac-3290-ab6d-3f89126d3d38",
+  "request" : {
+    "url" : "/85/86/87/88",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-85-86-87-88-ktnaX.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "ebbcca03955aa08c43c2841f1f31da9f",
+      "Date" : "Fri, 21 Aug 2020 15:47:52 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "667cd9f1-acac-3290-ab6d-3f89126d3d38"
+}

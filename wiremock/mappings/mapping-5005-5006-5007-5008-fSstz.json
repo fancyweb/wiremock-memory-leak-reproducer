@@ -1,0 +1,18 @@
+{
+  "id" : "c47877e1-bdeb-3501-a412-ef325dd47f85",
+  "request" : {
+    "url" : "/5005/5006/5007/5008",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-5005-5006-5007-5008-fSstz.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "eecfd0d91326657a1d0d8625c16e7167",
+      "Date" : "Fri, 21 Aug 2020 15:55:14 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "c47877e1-bdeb-3501-a412-ef325dd47f85"
+}

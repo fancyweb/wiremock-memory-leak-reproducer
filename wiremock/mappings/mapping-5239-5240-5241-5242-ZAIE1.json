@@ -1,0 +1,18 @@
+{
+  "id" : "34c6893e-87c9-33ef-bb58-b7a382501a74",
+  "request" : {
+    "url" : "/5239/5240/5241/5242",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-5239-5240-5241-5242-ZAIE1.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "1dd6dc758f3bfd10880629f3b928ad32",
+      "Date" : "Fri, 21 Aug 2020 15:55:18 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "34c6893e-87c9-33ef-bb58-b7a382501a74"
+}

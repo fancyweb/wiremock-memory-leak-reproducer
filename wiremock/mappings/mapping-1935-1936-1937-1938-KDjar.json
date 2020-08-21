@@ -1,0 +1,18 @@
+{
+  "id" : "e4e584a8-9601-3951-81fc-d97767ad80b7",
+  "request" : {
+    "url" : "/1935/1936/1937/1938",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-1935-1936-1937-1938-KDjar.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "b693ff4b40fa2cb6b7feb76efce42560",
+      "Date" : "Fri, 21 Aug 2020 15:49:08 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "e4e584a8-9601-3951-81fc-d97767ad80b7"
+}

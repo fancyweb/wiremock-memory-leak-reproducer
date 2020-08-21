@@ -1,0 +1,18 @@
+{
+  "id" : "dbef5bbc-cb15-38b4-bd8a-4b442ab147f0",
+  "request" : {
+    "url" : "/2399/2400/2401/2402",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-2399-2400-2401-2402-cscAl.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "e777c98b8d44296e21ef125d3000ead6",
+      "Date" : "Fri, 21 Aug 2020 15:51:05 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "dbef5bbc-cb15-38b4-bd8a-4b442ab147f0"
+}

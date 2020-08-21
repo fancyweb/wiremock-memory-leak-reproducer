@@ -1,0 +1,18 @@
+{
+  "id" : "a9550682-1a80-3504-96b8-8c19af14ce54",
+  "request" : {
+    "url" : "/3313/3314/3315/3316",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-3313-3314-3315-3316-EsSgs.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "69dc8577fb99ff59648320d21060c3ec",
+      "Date" : "Fri, 21 Aug 2020 15:52:11 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "a9550682-1a80-3504-96b8-8c19af14ce54"
+}

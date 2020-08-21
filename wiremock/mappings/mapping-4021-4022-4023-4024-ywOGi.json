@@ -1,0 +1,18 @@
+{
+  "id" : "2351b9c9-186b-355b-ab64-fb7b02986ab6",
+  "request" : {
+    "url" : "/4021/4022/4023/4024",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-4021-4022-4023-4024-ywOGi.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "dbdc25ca7129b6efda1e165e01a2b422",
+      "Date" : "Fri, 21 Aug 2020 15:54:48 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "2351b9c9-186b-355b-ab64-fb7b02986ab6"
+}

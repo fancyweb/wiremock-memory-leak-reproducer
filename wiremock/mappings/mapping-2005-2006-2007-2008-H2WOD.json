@@ -1,0 +1,18 @@
+{
+  "id" : "2c6e13a2-970b-32c5-84f9-35a68bdd7022",
+  "request" : {
+    "url" : "/2005/2006/2007/2008",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-2005-2006-2007-2008-H2WOD.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "7b7cb88832982feb78ec388a600315f0",
+      "Date" : "Fri, 21 Aug 2020 15:50:53 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "2c6e13a2-970b-32c5-84f9-35a68bdd7022"
+}

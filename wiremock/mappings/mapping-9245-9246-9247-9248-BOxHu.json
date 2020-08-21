@@ -1,0 +1,18 @@
+{
+  "id" : "fa9a48bd-c9af-339e-b95c-88e9ffb0eb01",
+  "request" : {
+    "url" : "/9245/9246/9247/9248",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-9245-9246-9247-9248-BOxHu.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "94217c0b869034cc104c727eeef8c1f3",
+      "Date" : "Fri, 21 Aug 2020 15:57:29 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "fa9a48bd-c9af-339e-b95c-88e9ffb0eb01"
+}

@@ -1,0 +1,18 @@
+{
+  "id" : "574ac3da-a5b1-3fc4-8f6e-e482589602f4",
+  "request" : {
+    "url" : "/3224/3225/3226/3227",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-3224-3225-3226-3227-Wbaro.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "625ade27e9d9ab521f96e2c5d1faab4a",
+      "Date" : "Fri, 21 Aug 2020 15:43:15 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "574ac3da-a5b1-3fc4-8f6e-e482589602f4"
+}

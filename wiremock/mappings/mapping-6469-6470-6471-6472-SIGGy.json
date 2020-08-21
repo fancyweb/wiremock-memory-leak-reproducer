@@ -1,0 +1,18 @@
+{
+  "id" : "db3fccce-f416-3834-bdae-18221fc26f6b",
+  "request" : {
+    "url" : "/6469/6470/6471/6472",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-6469-6470-6471-6472-SIGGy.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "69b9ba4a250fd58bbbcbbe7a33c9b957",
+      "Date" : "Fri, 21 Aug 2020 15:55:51 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "db3fccce-f416-3834-bdae-18221fc26f6b"
+}

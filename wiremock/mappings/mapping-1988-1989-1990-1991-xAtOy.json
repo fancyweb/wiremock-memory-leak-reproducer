@@ -1,0 +1,18 @@
+{
+  "id" : "b87a28f7-621d-3511-86a8-908a9fe9a52f",
+  "request" : {
+    "url" : "/1988/1989/1990/1991",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-1988-1989-1990-1991-xAtOy.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "ab005a3eb1bc25b00e06331a38b995b3",
+      "Date" : "Fri, 21 Aug 2020 15:43:05 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "b87a28f7-621d-3511-86a8-908a9fe9a52f"
+}

@@ -1,0 +1,18 @@
+{
+  "id" : "d588a05a-54d6-3e5b-80a5-63ee515903c2",
+  "request" : {
+    "url" : "/5229/5230/5231/5232",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-5229-5230-5231-5232-CLBYQ.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "691fb5285d4e2e9c70f9a7d6aafda4ba",
+      "Date" : "Fri, 21 Aug 2020 15:55:18 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "d588a05a-54d6-3e5b-80a5-63ee515903c2"
+}

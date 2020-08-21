@@ -1,0 +1,18 @@
+{
+  "id" : "e1f5f5d8-850c-3feb-95bb-b10cc77c07ad",
+  "request" : {
+    "url" : "/1288/1289/1290/1291",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-1288-1289-1290-1291-ptDVI.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "42e3a542de0364f1e8275b75d77da202",
+      "Date" : "Fri, 21 Aug 2020 15:43:00 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "e1f5f5d8-850c-3feb-95bb-b10cc77c07ad"
+}

@@ -1,0 +1,18 @@
+{
+  "id" : "50ed0c10-c519-371e-b563-e799a1af7533",
+  "request" : {
+    "url" : "/3906/3907/3908/3909",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-3906-3907-3908-3909-JalDb.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "b3619d779b717ebf1247d3f9164ee486",
+      "Date" : "Fri, 21 Aug 2020 15:44:35 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "50ed0c10-c519-371e-b563-e799a1af7533"
+}

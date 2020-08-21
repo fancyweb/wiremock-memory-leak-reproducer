@@ -1,0 +1,18 @@
+{
+  "id" : "20b760cf-a055-3383-8507-7a3d19a15626",
+  "request" : {
+    "url" : "/7233/7234/7235/7236",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-7233-7234-7235-7236-ptFSB.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "7e19a422515be2199907b1c24636f7a3",
+      "Date" : "Fri, 21 Aug 2020 15:56:17 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "20b760cf-a055-3383-8507-7a3d19a15626"
+}

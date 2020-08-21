@@ -1,0 +1,18 @@
+{
+  "id" : "fe10a1e8-be23-3687-90b8-6cca3ae54f76",
+  "request" : {
+    "url" : "/3000/3001/3002/3003",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-3000-3001-3002-3003-qLPku.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "ed568712832659928f31808c04de4bbe",
+      "Date" : "Fri, 21 Aug 2020 15:43:13 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "fe10a1e8-be23-3687-90b8-6cca3ae54f76"
+}

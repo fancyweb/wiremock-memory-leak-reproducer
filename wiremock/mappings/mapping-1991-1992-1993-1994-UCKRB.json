@@ -1,0 +1,18 @@
+{
+  "id" : "d4a6783e-771d-3dc0-b3b6-0a8399854466",
+  "request" : {
+    "url" : "/1991/1992/1993/1994",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-1991-1992-1993-1994-UCKRB.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "7873e9468e54458a8460403fe9c9c030",
+      "Date" : "Fri, 21 Aug 2020 15:49:09 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "d4a6783e-771d-3dc0-b3b6-0a8399854466"
+}

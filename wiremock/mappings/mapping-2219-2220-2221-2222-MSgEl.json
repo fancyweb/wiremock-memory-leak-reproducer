@@ -1,0 +1,18 @@
+{
+  "id" : "4fd99b43-cd57-3fa7-899a-aea01d2614b6",
+  "request" : {
+    "url" : "/2219/2220/2221/2222",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-2219-2220-2221-2222-MSgEl.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "da7589da6467e8a2621b492e994b7b24",
+      "Date" : "Fri, 21 Aug 2020 15:50:59 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "4fd99b43-cd57-3fa7-899a-aea01d2614b6"
+}

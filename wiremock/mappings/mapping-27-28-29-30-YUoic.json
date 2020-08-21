@@ -1,0 +1,18 @@
+{
+  "id" : "b2b5c922-21ed-31a7-9dfc-9cf4b97dc4ba",
+  "request" : {
+    "url" : "/27/28/29/30",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-27-28-29-30-YUoic.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "f4cb4b319925027a303915ea53406e04",
+      "Date" : "Fri, 21 Aug 2020 15:47:51 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "b2b5c922-21ed-31a7-9dfc-9cf4b97dc4ba"
+}

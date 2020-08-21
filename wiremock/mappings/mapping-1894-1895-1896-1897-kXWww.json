@@ -1,0 +1,18 @@
+{
+  "id" : "485b5648-e1fc-3e28-a96f-aa10e65a371d",
+  "request" : {
+    "url" : "/1894/1895/1896/1897",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-1894-1895-1896-1897-kXWww.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "aa6243028bf4df730b849d6b7fa7d729",
+      "Date" : "Fri, 21 Aug 2020 15:44:26 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "485b5648-e1fc-3e28-a96f-aa10e65a371d"
+}

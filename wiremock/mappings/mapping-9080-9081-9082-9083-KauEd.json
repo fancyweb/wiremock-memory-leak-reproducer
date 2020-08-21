@@ -1,0 +1,18 @@
+{
+  "id" : "b82d4ffa-7a73-3964-aebc-5ae02162c9d0",
+  "request" : {
+    "url" : "/9080/9081/9082/9083",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-9080-9081-9082-9083-KauEd.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "e8e7562d2add0b08da103b408392a2fa",
+      "Date" : "Fri, 21 Aug 2020 15:44:09 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "b82d4ffa-7a73-3964-aebc-5ae02162c9d0"
+}

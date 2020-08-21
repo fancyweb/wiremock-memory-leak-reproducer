@@ -1,0 +1,18 @@
+{
+  "id" : "6aea7966-e019-3b5b-ac47-eaf07f42beac",
+  "request" : {
+    "url" : "/2701/2702/2703/2704",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-2701-2702-2703-2704-RSfRM.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "38a3a849aa3459503a7f413a9644759f",
+      "Date" : "Fri, 21 Aug 2020 15:51:32 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "6aea7966-e019-3b5b-ac47-eaf07f42beac"
+}

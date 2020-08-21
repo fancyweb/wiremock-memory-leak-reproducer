@@ -1,0 +1,18 @@
+{
+  "id" : "313a7b44-309e-3c8f-9b51-168642a9cbad",
+  "request" : {
+    "url" : "/1986/1987/1988/1989",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-1986-1987-1988-1989-W1970.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "149b14115dc80b443d778722c4fa06a1",
+      "Date" : "Fri, 21 Aug 2020 15:44:26 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "313a7b44-309e-3c8f-9b51-168642a9cbad"
+}

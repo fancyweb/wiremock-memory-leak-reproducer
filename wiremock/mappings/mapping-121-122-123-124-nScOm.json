@@ -1,0 +1,18 @@
+{
+  "id" : "6f10c400-2042-3a5c-b27d-1b4a8ff5d30b",
+  "request" : {
+    "url" : "/121/122/123/124",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-121-122-123-124-nScOm.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "b0c869ce5ac62be349fa6369beefaf07",
+      "Date" : "Fri, 21 Aug 2020 15:48:07 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "6f10c400-2042-3a5c-b27d-1b4a8ff5d30b"
+}

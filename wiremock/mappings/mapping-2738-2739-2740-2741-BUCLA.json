@@ -1,0 +1,18 @@
+{
+  "id" : "4df03fee-ab1a-3387-b14f-a9f2cac91f72",
+  "request" : {
+    "url" : "/2738/2739/2740/2741",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-2738-2739-2740-2741-BUCLA.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "29bc25075a8039d933157f258b4137b3",
+      "Date" : "Fri, 21 Aug 2020 15:51:56 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "4df03fee-ab1a-3387-b14f-a9f2cac91f72"
+}

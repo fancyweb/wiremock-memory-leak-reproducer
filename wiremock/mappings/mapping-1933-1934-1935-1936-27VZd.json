@@ -1,0 +1,18 @@
+{
+  "id" : "1905c5e3-42b9-3c7c-af05-d14b80a43a25",
+  "request" : {
+    "url" : "/1933/1934/1935/1936",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-1933-1934-1935-1936-27VZd.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "a41658045beb5acdc486d78fa93b1748",
+      "Date" : "Fri, 21 Aug 2020 15:49:08 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "1905c5e3-42b9-3c7c-af05-d14b80a43a25"
+}

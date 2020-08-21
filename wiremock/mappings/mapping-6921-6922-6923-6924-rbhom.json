@@ -1,0 +1,18 @@
+{
+  "id" : "b68ee394-e236-32d7-ac57-67c1ece2e6c4",
+  "request" : {
+    "url" : "/6921/6922/6923/6924",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-6921-6922-6923-6924-rbhom.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "8ada6d45df3badfc1d4e26d1153cf233",
+      "Date" : "Fri, 21 Aug 2020 15:56:07 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "b68ee394-e236-32d7-ac57-67c1ece2e6c4"
+}

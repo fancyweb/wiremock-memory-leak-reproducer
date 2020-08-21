@@ -1,0 +1,18 @@
+{
+  "id" : "0c760e1b-a3d0-32fc-bc17-1c73b6aa5127",
+  "request" : {
+    "url" : "/4020/4021/4022/4023",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-4020-4021-4022-4023-rGifP.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "3afb9348a10af24355ec4226d7303552",
+      "Date" : "Fri, 21 Aug 2020 15:43:23 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "0c760e1b-a3d0-32fc-bc17-1c73b6aa5127"
+}

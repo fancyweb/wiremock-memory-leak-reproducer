@@ -1,0 +1,18 @@
+{
+  "id" : "26a7d2e7-77ae-36ed-869c-2942d6e3bf63",
+  "request" : {
+    "url" : "/2493/2494/2495/2496",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-2493-2494-2495-2496-HaTII.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "e38f4d1a7b1588a805a338d84202a5c4",
+      "Date" : "Fri, 21 Aug 2020 15:51:16 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "26a7d2e7-77ae-36ed-869c-2942d6e3bf63"
+}

@@ -1,0 +1,18 @@
+{
+  "id" : "246db498-3ab9-3e53-a0e7-5eaeed99fe5c",
+  "request" : {
+    "url" : "/1936/1937/1938/1939",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-1936-1937-1938-1939-QgySF.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "d8edfcef5c19e7bb1e66366be523b8fd",
+      "Date" : "Fri, 21 Aug 2020 15:43:05 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "246db498-3ab9-3e53-a0e7-5eaeed99fe5c"
+}

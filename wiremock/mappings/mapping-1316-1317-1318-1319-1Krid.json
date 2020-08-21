@@ -1,0 +1,18 @@
+{
+  "id" : "855d85e9-cb7a-380a-888a-f1693236fefd",
+  "request" : {
+    "url" : "/1316/1317/1318/1319",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-1316-1317-1318-1319-1Krid.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "214a47aab52d18f1b8d4cf8c7f9211db",
+      "Date" : "Fri, 21 Aug 2020 15:43:00 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "855d85e9-cb7a-380a-888a-f1693236fefd"
+}

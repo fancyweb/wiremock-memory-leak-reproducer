@@ -1,0 +1,18 @@
+{
+  "id" : "b673d94e-048f-301d-8bc5-54ced3e21928",
+  "request" : {
+    "url" : "/2486/2487/2488/2489",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-2486-2487-2488-2489-IVAR2.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "23d9901565681711c336d4810a43cd43",
+      "Date" : "Fri, 21 Aug 2020 15:51:16 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "b673d94e-048f-301d-8bc5-54ced3e21928"
+}

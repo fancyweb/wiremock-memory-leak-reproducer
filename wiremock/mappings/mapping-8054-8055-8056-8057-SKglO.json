@@ -1,0 +1,18 @@
+{
+  "id" : "c929b727-dda8-3363-82ed-cce9a5c89b1c",
+  "request" : {
+    "url" : "/8054/8055/8056/8057",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-8054-8055-8056-8057-SKglO.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "2cb82c8239525836c6012375b7b68874",
+      "Date" : "Fri, 21 Aug 2020 15:56:56 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "c929b727-dda8-3363-82ed-cce9a5c89b1c"
+}

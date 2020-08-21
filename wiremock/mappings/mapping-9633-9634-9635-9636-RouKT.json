@@ -1,0 +1,18 @@
+{
+  "id" : "6400fae2-7501-3da3-bcc0-63e55aec18de",
+  "request" : {
+    "url" : "/9633/9634/9635/9636",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-9633-9634-9635-9636-RouKT.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "bfe5fcb38f7d939f584b6ae4e9fdbbf3",
+      "Date" : "Fri, 21 Aug 2020 15:57:39 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "6400fae2-7501-3da3-bcc0-63e55aec18de"
+}

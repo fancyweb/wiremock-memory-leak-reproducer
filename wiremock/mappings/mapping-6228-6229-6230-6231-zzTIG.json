@@ -1,0 +1,18 @@
+{
+  "id" : "4694cac3-5a38-39d3-bdbb-46d466fb796b",
+  "request" : {
+    "url" : "/6228/6229/6230/6231",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-6228-6229-6230-6231-zzTIG.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "8a597a566bc9be6615dd1f0d9873930a",
+      "Date" : "Fri, 21 Aug 2020 15:43:45 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "4694cac3-5a38-39d3-bdbb-46d466fb796b"
+}

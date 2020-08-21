@@ -1,0 +1,18 @@
+{
+  "id" : "8a2c04a9-af2f-308d-8825-1fa643b751a0",
+  "request" : {
+    "url" : "/90/91/92/93",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-90-91-92-93-1rnwY.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "4ded0007a7de668014dad2fe4784ec82",
+      "Date" : "Fri, 21 Aug 2020 15:44:18 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "8a2c04a9-af2f-308d-8825-1fa643b751a0"
+}

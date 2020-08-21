@@ -1,0 +1,18 @@
+{
+  "id" : "a28c8d72-efbe-3236-9d63-c75b97053cd0",
+  "request" : {
+    "url" : "/1981/1982/1983/1984",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-1981-1982-1983-1984-Hxgs0.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "298ff0237baedd3a826dbe9add53f866",
+      "Date" : "Fri, 21 Aug 2020 15:49:09 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "a28c8d72-efbe-3236-9d63-c75b97053cd0"
+}

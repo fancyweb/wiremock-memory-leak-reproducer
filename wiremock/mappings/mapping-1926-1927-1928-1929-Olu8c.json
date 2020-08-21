@@ -1,0 +1,18 @@
+{
+  "id" : "6e73431d-cc93-3b2e-b6d9-8baad4ebab6d",
+  "request" : {
+    "url" : "/1926/1927/1928/1929",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-1926-1927-1928-1929-Olu8c.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "cec67f221aa437bb504826965130c411",
+      "Date" : "Fri, 21 Aug 2020 15:50:39 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "6e73431d-cc93-3b2e-b6d9-8baad4ebab6d"
+}

@@ -1,0 +1,18 @@
+{
+  "id" : "47721d09-be27-32ae-8eb6-534e9f7305e6",
+  "request" : {
+    "url" : "/3800/3801/3802/3803",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-3800-3801-3802-3803-EABIa.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "8cac96824cbd69cdce0dfd09c4e477e8",
+      "Date" : "Fri, 21 Aug 2020 15:43:21 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "47721d09-be27-32ae-8eb6-534e9f7305e6"
+}

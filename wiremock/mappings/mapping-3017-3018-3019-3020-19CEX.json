@@ -1,0 +1,18 @@
+{
+  "id" : "bc4db049-243d-37af-99ee-2e25950cea6d",
+  "request" : {
+    "url" : "/3017/3018/3019/3020",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-3017-3018-3019-3020-19CEX.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "3235bd8b6f6ea3294452d1b32676df19",
+      "Date" : "Fri, 21 Aug 2020 15:52:02 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "bc4db049-243d-37af-99ee-2e25950cea6d"
+}

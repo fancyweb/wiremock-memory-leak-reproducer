@@ -1,0 +1,18 @@
+{
+  "id" : "33340623-e24b-3241-8035-973a29e94903",
+  "request" : {
+    "url" : "/9715/9716/9717/9718",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-9715-9716-9717-9718-smsf8.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "1052024b96d75d7c7b6f7899dbfa12f4",
+      "Date" : "Fri, 21 Aug 2020 15:57:40 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "33340623-e24b-3241-8035-973a29e94903"
+}

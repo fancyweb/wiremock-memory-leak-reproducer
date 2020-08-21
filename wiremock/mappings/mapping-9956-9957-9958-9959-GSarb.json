@@ -1,0 +1,18 @@
+{
+  "id" : "f4aede97-c15e-3c39-86b2-2ac370a53776",
+  "request" : {
+    "url" : "/9956/9957/9958/9959",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-9956-9957-9958-9959-GSarb.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "deaa010ab144cca4986d98931917092d",
+      "Date" : "Fri, 21 Aug 2020 15:45:06 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "f4aede97-c15e-3c39-86b2-2ac370a53776"
+}

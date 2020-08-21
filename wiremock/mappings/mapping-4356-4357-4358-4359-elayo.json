@@ -1,0 +1,18 @@
+{
+  "id" : "c6b78b6c-687f-30a5-a665-05ff5a8c028e",
+  "request" : {
+    "url" : "/4356/4357/4358/4359",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-4356-4357-4358-4359-elayo.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "f4d6cfd7ce9e03fd3e16df6490efe445",
+      "Date" : "Fri, 21 Aug 2020 15:43:27 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "c6b78b6c-687f-30a5-a665-05ff5a8c028e"
+}

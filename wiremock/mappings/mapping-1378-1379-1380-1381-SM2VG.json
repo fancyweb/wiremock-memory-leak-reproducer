@@ -1,0 +1,18 @@
+{
+  "id" : "5570b32c-a59b-3043-b62f-59690796a5ac",
+  "request" : {
+    "url" : "/1378/1379/1380/1381",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-1378-1379-1380-1381-SM2VG.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "24ac0ff66d0eaaf574d2eb0fe262510f",
+      "Date" : "Fri, 21 Aug 2020 15:44:23 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "5570b32c-a59b-3043-b62f-59690796a5ac"
+}

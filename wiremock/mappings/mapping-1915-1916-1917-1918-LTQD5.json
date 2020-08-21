@@ -1,0 +1,18 @@
+{
+  "id" : "89aea4ce-b303-3588-bae9-7c9e26bbee39",
+  "request" : {
+    "url" : "/1915/1916/1917/1918",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-1915-1916-1917-1918-LTQD5.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "47f448344543a22d709f558ac5820dba",
+      "Date" : "Fri, 21 Aug 2020 15:49:07 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "89aea4ce-b303-3588-bae9-7c9e26bbee39"
+}

@@ -1,0 +1,18 @@
+{
+  "id" : "fadab663-924a-34ce-adf3-1e093349d5df",
+  "request" : {
+    "url" : "/5942/5943/5944/5945",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-5942-5943-5944-5945-LQGxm.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "0afcea1d0e5970833514f748dc2d4d2a",
+      "Date" : "Fri, 21 Aug 2020 15:55:32 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "fadab663-924a-34ce-adf3-1e093349d5df"
+}

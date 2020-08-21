@@ -1,0 +1,18 @@
+{
+  "id" : "49cde7f1-1ec5-3e84-9c16-3c83af591dfa",
+  "request" : {
+    "url" : "/3013/3014/3015/3016",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-3013-3014-3015-3016-ZRF2L.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "723a6536f1344b5261bf105c2bf82b7d",
+      "Date" : "Fri, 21 Aug 2020 15:52:02 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "49cde7f1-1ec5-3e84-9c16-3c83af591dfa"
+}

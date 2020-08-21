@@ -1,0 +1,18 @@
+{
+  "id" : "5eccd464-9008-36a2-bc3e-fddddba62d96",
+  "request" : {
+    "url" : "/2216/2217/2218/2219",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-2216-2217-2218-2219-UKKPw.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "865485da2cc65aa39c66225c7cb3024b",
+      "Date" : "Fri, 21 Aug 2020 15:43:07 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "5eccd464-9008-36a2-bc3e-fddddba62d96"
+}

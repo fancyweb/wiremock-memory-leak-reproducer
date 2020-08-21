@@ -1,0 +1,18 @@
+{
+  "id" : "5ed7279c-942d-3946-a1d0-c5aed485b3ed",
+  "request" : {
+    "url" : "/5124/5125/5126/5127",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-5124-5125-5126-5127-Yhmaz.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "011ab77e878a38c8cb69e25c212d24b5",
+      "Date" : "Fri, 21 Aug 2020 15:43:36 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "5ed7279c-942d-3946-a1d0-c5aed485b3ed"
+}

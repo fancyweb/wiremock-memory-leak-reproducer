@@ -1,0 +1,18 @@
+{
+  "id" : "1cbbb083-3e8d-34b8-9f25-573f615d0347",
+  "request" : {
+    "url" : "/580/581/582/583",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-580-581-582-583-NMXXh.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "92dd5232f69174cd4ede2d040c03c703",
+      "Date" : "Fri, 21 Aug 2020 15:42:55 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "1cbbb083-3e8d-34b8-9f25-573f615d0347"
+}

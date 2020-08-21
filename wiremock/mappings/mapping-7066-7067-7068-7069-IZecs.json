@@ -1,0 +1,18 @@
+{
+  "id" : "c5aa429c-cc34-3439-8767-c5c4b0e3ffd9",
+  "request" : {
+    "url" : "/7066/7067/7068/7069",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-7066-7067-7068-7069-IZecs.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "6c708fccfc3c2d770949ba32585f78e3",
+      "Date" : "Fri, 21 Aug 2020 15:56:22 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "c5aa429c-cc34-3439-8767-c5c4b0e3ffd9"
+}

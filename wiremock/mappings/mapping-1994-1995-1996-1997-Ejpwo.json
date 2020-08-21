@@ -1,0 +1,18 @@
+{
+  "id" : "d19ddadf-fc51-34a4-a2f8-4001bfaf4843",
+  "request" : {
+    "url" : "/1994/1995/1996/1997",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-1994-1995-1996-1997-Ejpwo.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "f3af5d38476c664ef90b3dc7723a4d6a",
+      "Date" : "Fri, 21 Aug 2020 15:50:51 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "d19ddadf-fc51-34a4-a2f8-4001bfaf4843"
+}

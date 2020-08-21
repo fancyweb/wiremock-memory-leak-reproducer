@@ -1,0 +1,18 @@
+{
+  "id" : "70fd8273-a8c3-345f-a51b-a392d92f6647",
+  "request" : {
+    "url" : "/3216/3217/3218/3219",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-3216-3217-3218-3219-lATTN.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "0f1fd17519b53ee231d63a517c08bf56",
+      "Date" : "Fri, 21 Aug 2020 15:43:15 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "70fd8273-a8c3-345f-a51b-a392d92f6647"
+}

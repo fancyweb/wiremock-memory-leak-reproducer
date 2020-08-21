@@ -1,0 +1,18 @@
+{
+  "id" : "a3a158a5-285e-3c98-b644-59388c244799",
+  "request" : {
+    "url" : "/4768/4769/4770/4771",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-4768-4769-4770-4771-xadli.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "4efbe218d5d446f1d7fa16cd825049a6",
+      "Date" : "Fri, 21 Aug 2020 15:55:06 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "a3a158a5-285e-3c98-b644-59388c244799"
+}

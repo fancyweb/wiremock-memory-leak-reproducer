@@ -1,0 +1,18 @@
+{
+  "id" : "d712b43c-c7e0-3d7a-bc1d-7771fc79c0f4",
+  "request" : {
+    "url" : "/2006/2007/2008/2009",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-2006-2007-2008-2009-GFif8.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "ed5f33adcfae25b0f3c880e9f670b9af",
+      "Date" : "Fri, 21 Aug 2020 15:50:53 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "d712b43c-c7e0-3d7a-bc1d-7771fc79c0f4"
+}

@@ -1,0 +1,18 @@
+{
+  "id" : "6e35b526-a439-34bb-a4c2-90263d983955",
+  "request" : {
+    "url" : "/1985/1986/1987/1988",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-1985-1986-1987-1988-UQ2Vj.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "9ff6f48112f7985ae739c9ce6bf81f66",
+      "Date" : "Fri, 21 Aug 2020 15:49:09 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "6e35b526-a439-34bb-a4c2-90263d983955"
+}

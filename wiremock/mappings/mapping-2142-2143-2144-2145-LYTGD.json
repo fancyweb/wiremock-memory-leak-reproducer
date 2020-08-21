@@ -1,0 +1,18 @@
+{
+  "id" : "abac853f-bcf1-374a-96a7-0d9e3f45cfce",
+  "request" : {
+    "url" : "/2142/2143/2144/2145",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-2142-2143-2144-2145-LYTGD.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "924f7f1d996f9c93372708cd360279d6",
+      "Date" : "Fri, 21 Aug 2020 15:51:21 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "abac853f-bcf1-374a-96a7-0d9e3f45cfce"
+}

@@ -1,0 +1,18 @@
+{
+  "id" : "5c5fe6f6-f524-3711-9056-ea24c508269c",
+  "request" : {
+    "url" : "/2014/2015/2016/2017",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-2014-2015-2016-2017-NoeXj.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "6c2abcacbdf9a7f3658ca10ee58c3abe",
+      "Date" : "Fri, 21 Aug 2020 15:43:06 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "5c5fe6f6-f524-3711-9056-ea24c508269c"
+}

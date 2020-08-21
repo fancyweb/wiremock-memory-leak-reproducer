@@ -1,0 +1,18 @@
+{
+  "id" : "ed17cc24-d2b9-3f0e-8282-66c3dc5ac5d2",
+  "request" : {
+    "url" : "/78/79/80/81",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-78-79-80-81-cyfsU.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "0fbb40e140078adb983705d50add5ac4",
+      "Date" : "Fri, 21 Aug 2020 15:46:18 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "ed17cc24-d2b9-3f0e-8282-66c3dc5ac5d2"
+}

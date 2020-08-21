@@ -1,0 +1,18 @@
+{
+  "id" : "c0a356ab-ac98-37d4-bb8a-7efdb24e9f9c",
+  "request" : {
+    "url" : "/2352/2353/2354/2355",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-2352-2353-2354-2355-amyRT.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "10433daa219a1caa64f74c66401d3fb5",
+      "Date" : "Fri, 21 Aug 2020 15:43:08 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "c0a356ab-ac98-37d4-bb8a-7efdb24e9f9c"
+}

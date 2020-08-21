@@ -1,0 +1,18 @@
+{
+  "id" : "f1068bbe-18e3-3206-a667-d3c54b7b1bcb",
+  "request" : {
+    "url" : "/1984/1985/1986/1987",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-1984-1985-1986-1987-Ubltv.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "8c03bc120fb94ef385d6516db96f7de9",
+      "Date" : "Fri, 21 Aug 2020 15:50:46 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "f1068bbe-18e3-3206-a667-d3c54b7b1bcb"
+}

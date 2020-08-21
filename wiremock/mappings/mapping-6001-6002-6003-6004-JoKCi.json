@@ -1,0 +1,18 @@
+{
+  "id" : "c2d73481-4232-3c87-912b-ff509e4e4965",
+  "request" : {
+    "url" : "/6001/6002/6003/6004",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-6001-6002-6003-6004-JoKCi.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "74133e72ca0ee07563d5530b699b8b32",
+      "Date" : "Fri, 21 Aug 2020 15:55:43 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "c2d73481-4232-3c87-912b-ff509e4e4965"
+}

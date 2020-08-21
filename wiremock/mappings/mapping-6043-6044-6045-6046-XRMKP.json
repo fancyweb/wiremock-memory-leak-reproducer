@@ -1,0 +1,18 @@
+{
+  "id" : "fd38368f-c905-3fd4-8839-9cc4617245fd",
+  "request" : {
+    "url" : "/6043/6044/6045/6046",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-6043-6044-6045-6046-XRMKP.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "412fe94374daca947b13bb54f85b9705",
+      "Date" : "Fri, 21 Aug 2020 15:55:52 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "fd38368f-c905-3fd4-8839-9cc4617245fd"
+}

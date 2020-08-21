@@ -1,0 +1,18 @@
+{
+  "id" : "984b44ae-b00a-36bb-9f29-49e82bc63a92",
+  "request" : {
+    "url" : "/6517/6518/6519/6520",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-6517-6518-6519-6520-sYRWI.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "97aa452fdb0506b07ec7c7ebd79886ea",
+      "Date" : "Fri, 21 Aug 2020 15:56:01 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "984b44ae-b00a-36bb-9f29-49e82bc63a92"
+}

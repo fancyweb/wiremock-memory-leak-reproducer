@@ -1,0 +1,18 @@
+{
+  "id" : "366256c9-55e4-312d-be11-a6909dc53959",
+  "request" : {
+    "url" : "/8979/8980/8981/8982",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-8979-8980-8981-8982-FBNWI.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "357cf996b155f701ac80fd23e620c890",
+      "Date" : "Fri, 21 Aug 2020 15:57:09 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "366256c9-55e4-312d-be11-a6909dc53959"
+}

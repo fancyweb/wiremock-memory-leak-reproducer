@@ -1,0 +1,18 @@
+{
+  "id" : "15dfc214-ef9d-356f-b5d0-0dcb8eee2cfa",
+  "request" : {
+    "url" : "/1977/1978/1979/1980",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-1977-1978-1979-1980-UfT5C.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "90ee3111db925e357b6754fac0a5c9fc",
+      "Date" : "Fri, 21 Aug 2020 15:49:09 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "15dfc214-ef9d-356f-b5d0-0dcb8eee2cfa"
+}

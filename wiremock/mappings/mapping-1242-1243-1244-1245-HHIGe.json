@@ -1,0 +1,18 @@
+{
+  "id" : "54535025-a124-34d1-81f5-4f2f21cc842a",
+  "request" : {
+    "url" : "/1242/1243/1244/1245",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-1242-1243-1244-1245-HHIGe.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "e5287744149d04d9c84826ff96067451",
+      "Date" : "Fri, 21 Aug 2020 15:44:23 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "54535025-a124-34d1-81f5-4f2f21cc842a"
+}

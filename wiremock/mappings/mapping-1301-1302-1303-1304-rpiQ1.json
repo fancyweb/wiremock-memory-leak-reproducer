@@ -1,0 +1,18 @@
+{
+  "id" : "fb1fa0cd-e52d-3909-a292-27b413d34c96",
+  "request" : {
+    "url" : "/1301/1302/1303/1304",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-1301-1302-1303-1304-rpiQ1.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "17be2a9b137afbb2f1ef579ee39f12a4",
+      "Date" : "Fri, 21 Aug 2020 15:48:40 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "fb1fa0cd-e52d-3909-a292-27b413d34c96"
+}

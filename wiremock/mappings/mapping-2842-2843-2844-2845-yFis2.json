@@ -1,0 +1,18 @@
+{
+  "id" : "12e813ab-5bad-3864-af4d-8d24299cbd4a",
+  "request" : {
+    "url" : "/2842/2843/2844/2845",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-2842-2843-2844-2845-yFis2.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "3cd4f6bcb4ea71f429ce75c64207ec63",
+      "Date" : "Fri, 21 Aug 2020 15:44:30 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "12e813ab-5bad-3864-af4d-8d24299cbd4a"
+}

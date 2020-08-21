@@ -1,0 +1,18 @@
+{
+  "id" : "61999f10-a21e-3d6f-a8a9-00b73286878c",
+  "request" : {
+    "url" : "/8998/8999/9000/9001",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-8998-8999-9000-9001-EqpNG.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "ea1505a92c07b1531b6124fa6d5e1825",
+      "Date" : "Fri, 21 Aug 2020 15:57:14 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "61999f10-a21e-3d6f-a8a9-00b73286878c"
+}

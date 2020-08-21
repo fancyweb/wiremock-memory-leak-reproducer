@@ -1,0 +1,18 @@
+{
+  "id" : "f1b76002-9db7-3cc7-bb5e-ab214a95b205",
+  "request" : {
+    "url" : "/4820/4821/4822/4823",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-4820-4821-4822-4823-VRQ3w.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "26868ec74221bb9a515a90a72f409741",
+      "Date" : "Fri, 21 Aug 2020 15:43:33 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "f1b76002-9db7-3cc7-bb5e-ab214a95b205"
+}

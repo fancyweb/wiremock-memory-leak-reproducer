@@ -1,0 +1,18 @@
+{
+  "id" : "df26b971-3b27-3cbf-baf5-da11445a5061",
+  "request" : {
+    "url" : "/3962/3963/3964/3965",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-3962-3963-3964-3965-ws2Ib.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "8912608011e192a76838ca6e023a2a8d",
+      "Date" : "Fri, 21 Aug 2020 15:43:23 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "df26b971-3b27-3cbf-baf5-da11445a5061"
+}

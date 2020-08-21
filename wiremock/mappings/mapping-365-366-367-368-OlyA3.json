@@ -1,0 +1,18 @@
+{
+  "id" : "0f37b012-592b-3544-9377-9096672db81c",
+  "request" : {
+    "url" : "/365/366/367/368",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-365-366-367-368-OlyA3.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "321d6fadd8b31c52769437c938691201",
+      "Date" : "Fri, 21 Aug 2020 15:48:00 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "0f37b012-592b-3544-9377-9096672db81c"
+}

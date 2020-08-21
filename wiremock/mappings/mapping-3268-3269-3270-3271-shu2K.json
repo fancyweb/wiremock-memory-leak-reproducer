@@ -1,0 +1,18 @@
+{
+  "id" : "100fc72d-1b21-31d5-ab14-ff8b90101b70",
+  "request" : {
+    "url" : "/3268/3269/3270/3271",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-3268-3269-3270-3271-shu2K.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "9c062ee8d82d114c1e63757eaec48612",
+      "Date" : "Fri, 21 Aug 2020 15:43:15 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "100fc72d-1b21-31d5-ab14-ff8b90101b70"
+}

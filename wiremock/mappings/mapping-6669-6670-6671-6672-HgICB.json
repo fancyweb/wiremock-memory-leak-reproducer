@@ -1,0 +1,18 @@
+{
+  "id" : "d12a1d89-8c91-32b8-bb0a-69610d2160aa",
+  "request" : {
+    "url" : "/6669/6670/6671/6672",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-6669-6670-6671-6672-HgICB.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "82fbc3cfa31b298dcd027de1145efacb",
+      "Date" : "Fri, 21 Aug 2020 15:56:03 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "d12a1d89-8c91-32b8-bb0a-69610d2160aa"
+}

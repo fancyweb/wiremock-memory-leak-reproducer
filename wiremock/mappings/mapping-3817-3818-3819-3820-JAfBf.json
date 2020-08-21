@@ -1,0 +1,18 @@
+{
+  "id" : "cb314da9-0146-34e6-91df-1342bf052f76",
+  "request" : {
+    "url" : "/3817/3818/3819/3820",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-3817-3818-3819-3820-JAfBf.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "ff437d6440059d6d561c2db7ba9efc9b",
+      "Date" : "Fri, 21 Aug 2020 15:54:41 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "cb314da9-0146-34e6-91df-1342bf052f76"
+}

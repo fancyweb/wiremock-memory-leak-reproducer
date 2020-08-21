@@ -1,0 +1,18 @@
+{
+  "id" : "17c004fb-7e97-321e-9f76-3389f07346b1",
+  "request" : {
+    "url" : "/9013/9014/9015/9016",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-9013-9014-9015-9016-HiPOl.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "93630ed9564a535f20967383176fb787",
+      "Date" : "Fri, 21 Aug 2020 15:57:20 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "17c004fb-7e97-321e-9f76-3389f07346b1"
+}

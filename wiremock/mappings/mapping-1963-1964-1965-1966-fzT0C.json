@@ -1,0 +1,18 @@
+{
+  "id" : "451421ee-c3ae-3189-aaa4-ef623328430c",
+  "request" : {
+    "url" : "/1963/1964/1965/1966",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-1963-1964-1965-1966-fzT0C.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "a59ac7c1bd48ed4f97fcc21dff675a09",
+      "Date" : "Fri, 21 Aug 2020 15:49:08 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "451421ee-c3ae-3189-aaa4-ef623328430c"
+}

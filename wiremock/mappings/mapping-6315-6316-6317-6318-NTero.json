@@ -1,0 +1,18 @@
+{
+  "id" : "8cbcfa0e-7523-3aba-a4bb-c5add77f208d",
+  "request" : {
+    "url" : "/6315/6316/6317/6318",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-6315-6316-6317-6318-NTero.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "419ba40822b88f48ec2f65e06307e2a8",
+      "Date" : "Fri, 21 Aug 2020 15:55:55 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "8cbcfa0e-7523-3aba-a4bb-c5add77f208d"
+}

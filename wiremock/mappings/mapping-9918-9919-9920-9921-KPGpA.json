@@ -1,0 +1,18 @@
+{
+  "id" : "1f513dc5-59cb-3279-84ab-55264924100b",
+  "request" : {
+    "url" : "/9918/9919/9920/9921",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-9918-9919-9920-9921-KPGpA.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "00b332943d40a57c000d74181f514b1c",
+      "Date" : "Fri, 21 Aug 2020 15:44:17 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "1f513dc5-59cb-3279-84ab-55264924100b"
+}

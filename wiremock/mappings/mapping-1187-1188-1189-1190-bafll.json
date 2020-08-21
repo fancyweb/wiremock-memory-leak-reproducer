@@ -1,0 +1,18 @@
+{
+  "id" : "d68db026-a33e-34d4-afc1-4e9f3731b895",
+  "request" : {
+    "url" : "/1187/1188/1189/1190",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-1187-1188-1189-1190-bafll.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "eb81b7522de78e577d83bd8e1fb5fc0a",
+      "Date" : "Fri, 21 Aug 2020 15:48:37 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "d68db026-a33e-34d4-afc1-4e9f3731b895"
+}

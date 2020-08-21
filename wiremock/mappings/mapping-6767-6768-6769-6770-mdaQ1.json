@@ -1,0 +1,18 @@
+{
+  "id" : "1cf37510-6acb-31aa-8b46-ccd7784742cd",
+  "request" : {
+    "url" : "/6767/6768/6769/6770",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-6767-6768-6769-6770-mdaQ1.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "8375b1a1ed19c7ddd504e485286e879c",
+      "Date" : "Fri, 21 Aug 2020 15:56:04 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "1cf37510-6acb-31aa-8b46-ccd7784742cd"
+}

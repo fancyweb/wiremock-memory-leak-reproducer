@@ -1,0 +1,18 @@
+{
+  "id" : "77e08175-59f9-3d3c-9906-152fef9b5638",
+  "request" : {
+    "url" : "/1343/1344/1345/1346",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-1343-1344-1345-1346-BAMGJ.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "b43a726953b3d0eb57118c26b2eeb133",
+      "Date" : "Fri, 21 Aug 2020 15:48:46 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "77e08175-59f9-3d3c-9906-152fef9b5638"
+}

@@ -1,0 +1,18 @@
+{
+  "id" : "64a8edf8-8270-3c74-ab0f-bb5fd98d6fea",
+  "request" : {
+    "url" : "/2660/2661/2662/2663",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-2660-2661-2662-2663-FAmSI.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "d34a1fe7afd6bb6cf2ecce3186658c02",
+      "Date" : "Fri, 21 Aug 2020 15:43:11 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "64a8edf8-8270-3c74-ab0f-bb5fd98d6fea"
+}

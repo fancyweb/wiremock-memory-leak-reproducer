@@ -1,0 +1,18 @@
+{
+  "id" : "0fd4793f-1000-3a2f-986b-5a6d436d7656",
+  "request" : {
+    "url" : "/1929/1930/1931/1932",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-1929-1930-1931-1932-fzyc7.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "b0f7a2f9232a9c65c4da5bc3ea48f36e",
+      "Date" : "Fri, 21 Aug 2020 15:49:08 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "0fd4793f-1000-3a2f-986b-5a6d436d7656"
+}

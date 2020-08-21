@@ -1,0 +1,18 @@
+{
+  "id" : "6374b7c7-34c8-33b8-81ee-356cc06727bd",
+  "request" : {
+    "url" : "/1217/1218/1219/1220",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-1217-1218-1219-1220-SQrs5.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "f2db4d0a114076a8cc968c234efb23e9",
+      "Date" : "Fri, 21 Aug 2020 15:48:38 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "6374b7c7-34c8-33b8-81ee-356cc06727bd"
+}

@@ -1,0 +1,18 @@
+{
+  "id" : "ee44653a-0c66-3533-b072-66507eed408d",
+  "request" : {
+    "url" : "/1041/1042/1043/1044",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-1041-1042-1043-1044-AreWi.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "09b152b5c5013ef2bed787ccc5ccadcc",
+      "Date" : "Fri, 21 Aug 2020 15:48:34 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "ee44653a-0c66-3533-b072-66507eed408d"
+}

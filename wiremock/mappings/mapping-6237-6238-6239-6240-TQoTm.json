@@ -1,0 +1,18 @@
+{
+  "id" : "2b0b4ba5-0cef-3898-a05f-39e5229c131f",
+  "request" : {
+    "url" : "/6237/6238/6239/6240",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-6237-6238-6239-6240-TQoTm.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "2943452248daaa056e41bb8e701ced8c",
+      "Date" : "Fri, 21 Aug 2020 15:55:54 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "2b0b4ba5-0cef-3898-a05f-39e5229c131f"
+}

@@ -1,0 +1,18 @@
+{
+  "id" : "9178b5f4-a6f0-3371-9522-cb1291ae11a4",
+  "request" : {
+    "url" : "/1927/1928/1929/1930",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-1927-1928-1929-1930-2cyPk.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "2eb4132fbb3b5ab162d633d88b24d434",
+      "Date" : "Fri, 21 Aug 2020 15:49:08 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "9178b5f4-a6f0-3371-9522-cb1291ae11a4"
+}

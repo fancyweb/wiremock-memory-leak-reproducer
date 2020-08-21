@@ -1,0 +1,18 @@
+{
+  "id" : "b6669123-a144-3b1d-aa94-7d0080bfca0b",
+  "request" : {
+    "url" : "/1968/1969/1970/1971",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-1968-1969-1970-1971-hLFpc.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "3953af8b2068d93a19353f8e9726951a",
+      "Date" : "Fri, 21 Aug 2020 15:43:05 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "b6669123-a144-3b1d-aa94-7d0080bfca0b"
+}

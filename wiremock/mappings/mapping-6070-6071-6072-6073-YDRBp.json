@@ -1,0 +1,18 @@
+{
+  "id" : "7cf3390c-b396-39c0-bc22-7a29dc869885",
+  "request" : {
+    "url" : "/6070/6071/6072/6073",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-6070-6071-6072-6073-YDRBp.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "b8da1f1687871661c665851b5a85d2ad",
+      "Date" : "Fri, 21 Aug 2020 15:43:43 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "7cf3390c-b396-39c0-bc22-7a29dc869885"
+}

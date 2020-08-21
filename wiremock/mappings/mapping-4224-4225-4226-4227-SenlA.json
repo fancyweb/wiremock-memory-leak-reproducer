@@ -1,0 +1,18 @@
+{
+  "id" : "57693e45-d1b7-332e-813c-e2d9ee0c26ae",
+  "request" : {
+    "url" : "/4224/4225/4226/4227",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-4224-4225-4226-4227-SenlA.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "a518ad04fe3b803031303d4c57b4966f",
+      "Date" : "Fri, 21 Aug 2020 15:43:26 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "57693e45-d1b7-332e-813c-e2d9ee0c26ae"
+}

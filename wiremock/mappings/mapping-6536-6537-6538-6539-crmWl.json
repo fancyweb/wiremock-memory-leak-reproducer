@@ -1,0 +1,18 @@
+{
+  "id" : "5aec3110-9787-3489-b7a6-699a6f051bd2",
+  "request" : {
+    "url" : "/6536/6537/6538/6539",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-6536-6537-6538-6539-crmWl.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "9b0da88c87809b1c1c48c1642be15129",
+      "Date" : "Fri, 21 Aug 2020 15:43:47 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "5aec3110-9787-3489-b7a6-699a6f051bd2"
+}

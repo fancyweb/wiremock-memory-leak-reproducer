@@ -1,0 +1,18 @@
+{
+  "id" : "bf690faa-ca44-3c4e-b0d1-8acdf7aa05f9",
+  "request" : {
+    "url" : "/701/702/703/704",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-701-702-703-704-GKSXe.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "b0b6441ba5195ce5e2fbd317a1892deb",
+      "Date" : "Fri, 21 Aug 2020 15:48:20 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "bf690faa-ca44-3c4e-b0d1-8acdf7aa05f9"
+}

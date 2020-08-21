@@ -1,0 +1,18 @@
+{
+  "id" : "99661c24-4c15-36bb-91a9-ca7c0b2a0c36",
+  "request" : {
+    "url" : "/6419/6420/6421/6422",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-6419-6420-6421-6422-birBk.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "4cf55622b5d76d913b1a78d1aa35f207",
+      "Date" : "Fri, 21 Aug 2020 15:55:50 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "99661c24-4c15-36bb-91a9-ca7c0b2a0c36"
+}

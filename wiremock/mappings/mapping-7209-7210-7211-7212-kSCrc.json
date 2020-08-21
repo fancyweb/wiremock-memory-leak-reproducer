@@ -1,0 +1,18 @@
+{
+  "id" : "bc7c87d7-71e7-38dc-b796-f0ee7688a2c4",
+  "request" : {
+    "url" : "/7209/7210/7211/7212",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-7209-7210-7211-7212-kSCrc.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "3491f9e92729610373415ff68fc78047",
+      "Date" : "Fri, 21 Aug 2020 15:56:26 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "bc7c87d7-71e7-38dc-b796-f0ee7688a2c4"
+}

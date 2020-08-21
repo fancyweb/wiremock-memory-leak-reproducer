@@ -1,0 +1,18 @@
+{
+  "id" : "b314c16d-0834-3fae-bdc0-ce069561f540",
+  "request" : {
+    "url" : "/8612/8613/8614/8615",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-8612-8613-8614-8615-TKBUF.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "2de794c0436d7a1113ad6670ddfce263",
+      "Date" : "Fri, 21 Aug 2020 15:44:05 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "b314c16d-0834-3fae-bdc0-ce069561f540"
+}

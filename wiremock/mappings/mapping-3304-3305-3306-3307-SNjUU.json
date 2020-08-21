@@ -1,0 +1,18 @@
+{
+  "id" : "6af91f31-22fc-3f34-9970-40cd6ddbacad",
+  "request" : {
+    "url" : "/3304/3305/3306/3307",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-3304-3305-3306-3307-SNjUU.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "823e3effa02d7a12df5c0d0da7319f4d",
+      "Date" : "Fri, 21 Aug 2020 15:52:37 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "6af91f31-22fc-3f34-9970-40cd6ddbacad"
+}

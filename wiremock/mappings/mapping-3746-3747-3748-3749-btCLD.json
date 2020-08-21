@@ -1,0 +1,18 @@
+{
+  "id" : "0e8d1437-4d87-3cdc-bc4a-3fdd3e3fcdf3",
+  "request" : {
+    "url" : "/3746/3747/3748/3749",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-3746-3747-3748-3749-btCLD.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "4f6d960bc37f991ad57e3258568a1723",
+      "Date" : "Fri, 21 Aug 2020 15:54:44 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "0e8d1437-4d87-3cdc-bc4a-3fdd3e3fcdf3"
+}

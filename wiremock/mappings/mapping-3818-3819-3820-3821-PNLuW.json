@@ -1,0 +1,18 @@
+{
+  "id" : "56633116-4bcf-3a0b-bfdc-6381624076b7",
+  "request" : {
+    "url" : "/3818/3819/3820/3821",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-3818-3819-3820-3821-PNLuW.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "f362ecf01b6544462e153737b5998143",
+      "Date" : "Fri, 21 Aug 2020 15:44:35 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "56633116-4bcf-3a0b-bfdc-6381624076b7"
+}

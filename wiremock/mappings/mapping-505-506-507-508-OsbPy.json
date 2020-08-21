@@ -1,0 +1,18 @@
+{
+  "id" : "6aa30664-79a8-3b1f-97f8-cf3810161530",
+  "request" : {
+    "url" : "/505/506/507/508",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-505-506-507-508-OsbPy.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "bce07a675b91d5d7b99b4a4aae23cd05",
+      "Date" : "Fri, 21 Aug 2020 15:48:12 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "6aa30664-79a8-3b1f-97f8-cf3810161530"
+}

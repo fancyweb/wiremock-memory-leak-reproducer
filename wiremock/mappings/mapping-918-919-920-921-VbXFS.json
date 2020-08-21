@@ -1,0 +1,18 @@
+{
+  "id" : "d942b246-0ba3-35b6-bcca-a3cdfad96fbe",
+  "request" : {
+    "url" : "/918/919/920/921",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-918-919-920-921-VbXFS.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "16d9a035537b14fe6d4569081ac95800",
+      "Date" : "Fri, 21 Aug 2020 15:48:29 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "d942b246-0ba3-35b6-bcca-a3cdfad96fbe"
+}

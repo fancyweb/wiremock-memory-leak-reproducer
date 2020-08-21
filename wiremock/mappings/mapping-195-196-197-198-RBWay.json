@@ -1,0 +1,18 @@
+{
+  "id" : "3d741dd2-1850-3f34-bbbd-4f60b45ac0b1",
+  "request" : {
+    "url" : "/195/196/197/198",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-195-196-197-198-RBWay.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "c3a06adb3af2dcb67adff5fd165bb335",
+      "Date" : "Fri, 21 Aug 2020 15:47:55 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "3d741dd2-1850-3f34-bbbd-4f60b45ac0b1"
+}

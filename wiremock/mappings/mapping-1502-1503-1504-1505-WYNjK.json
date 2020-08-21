@@ -1,0 +1,18 @@
+{
+  "id" : "7240d0b9-abc2-35fe-96d1-2feee69418d1",
+  "request" : {
+    "url" : "/1502/1503/1504/1505",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-1502-1503-1504-1505-WYNjK.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "ac71e73cd9c769bae34cabb348855882",
+      "Date" : "Fri, 21 Aug 2020 15:48:57 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "7240d0b9-abc2-35fe-96d1-2feee69418d1"
+}

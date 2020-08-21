@@ -1,0 +1,18 @@
+{
+  "id" : "cf1e09c7-2484-3fc7-ab5c-baed19f482cf",
+  "request" : {
+    "url" : "/7418/7419/7420/7421",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-7418-7419-7420-7421-MbnSI.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "f10269d96c945da80e99e2ad004bce42",
+      "Date" : "Fri, 21 Aug 2020 15:44:52 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "cf1e09c7-2484-3fc7-ab5c-baed19f482cf"
+}

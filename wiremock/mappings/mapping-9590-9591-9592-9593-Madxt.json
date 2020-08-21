@@ -1,0 +1,18 @@
+{
+  "id" : "60f7cc69-bdca-3f53-8ae7-6af8765a6094",
+  "request" : {
+    "url" : "/9590/9591/9592/9593",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-9590-9591-9592-9593-Madxt.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "580b3f5d40c11c7548312291a5f148c6",
+      "Date" : "Fri, 21 Aug 2020 15:57:49 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "60f7cc69-bdca-3f53-8ae7-6af8765a6094"
+}

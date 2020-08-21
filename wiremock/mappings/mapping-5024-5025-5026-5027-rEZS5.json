@@ -1,0 +1,18 @@
+{
+  "id" : "dfd61f88-bf42-3e84-b457-4d7423ea1c3a",
+  "request" : {
+    "url" : "/5024/5025/5026/5027",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-5024-5025-5026-5027-rEZS5.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "39427d8474d88cc4b681febb662f8a53",
+      "Date" : "Fri, 21 Aug 2020 15:43:34 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "dfd61f88-bf42-3e84-b457-4d7423ea1c3a"
+}

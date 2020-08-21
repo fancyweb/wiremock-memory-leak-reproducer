@@ -1,0 +1,18 @@
+{
+  "id" : "12399f97-aa10-344d-aa46-f02c8b7d1c74",
+  "request" : {
+    "url" : "/1999/2000/2001/2002",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-1999-2000-2001-2002-45vWm.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "ad0285580f4ff64e784cf8a39fe40a65",
+      "Date" : "Fri, 21 Aug 2020 15:49:09 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "12399f97-aa10-344d-aa46-f02c8b7d1c74"
+}

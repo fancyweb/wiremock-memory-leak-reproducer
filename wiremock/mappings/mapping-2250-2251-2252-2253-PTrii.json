@@ -1,0 +1,18 @@
+{
+  "id" : "5616f9f1-02b2-392c-8188-60a76ac9b8b3",
+  "request" : {
+    "url" : "/2250/2251/2252/2253",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-2250-2251-2252-2253-PTrii.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "73c958dd5bf4ab923848e63082bac2d5",
+      "Date" : "Fri, 21 Aug 2020 15:51:19 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "5616f9f1-02b2-392c-8188-60a76ac9b8b3"
+}

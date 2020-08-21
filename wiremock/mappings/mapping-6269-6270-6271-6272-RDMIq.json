@@ -1,0 +1,18 @@
+{
+  "id" : "b96e2924-1b72-326f-a14d-e20da2ca981a",
+  "request" : {
+    "url" : "/6269/6270/6271/6272",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-6269-6270-6271-6272-RDMIq.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "4df26fb116754bd4cae799c0210d6395",
+      "Date" : "Fri, 21 Aug 2020 15:55:57 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "b96e2924-1b72-326f-a14d-e20da2ca981a"
+}

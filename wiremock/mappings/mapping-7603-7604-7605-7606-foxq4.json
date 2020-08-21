@@ -1,0 +1,18 @@
+{
+  "id" : "f305f2ab-6a1f-386e-8988-de5cd7e472d7",
+  "request" : {
+    "url" : "/7603/7604/7605/7606",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-7603-7604-7605-7606-foxq4.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "275ad3b2b0fee0f617e1b94ef39bcfe5",
+      "Date" : "Fri, 21 Aug 2020 15:56:32 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "f305f2ab-6a1f-386e-8988-de5cd7e472d7"
+}

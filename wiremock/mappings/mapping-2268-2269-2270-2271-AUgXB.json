@@ -1,0 +1,18 @@
+{
+  "id" : "d37d63fc-3a5d-3c5c-94ba-5a4603ba1022",
+  "request" : {
+    "url" : "/2268/2269/2270/2271",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-2268-2269-2270-2271-AUgXB.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "e81783842e5c70badb68caf82148c66a",
+      "Date" : "Fri, 21 Aug 2020 15:43:08 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "d37d63fc-3a5d-3c5c-94ba-5a4603ba1022"
+}

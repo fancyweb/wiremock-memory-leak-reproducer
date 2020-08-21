@@ -1,0 +1,18 @@
+{
+  "id" : "06e52639-4c89-3cf1-9807-05f6bc73b169",
+  "request" : {
+    "url" : "/4494/4495/4496/4497",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-4494-4495-4496-4497-1gxNa.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "4e8e0546620a45b6128dc4618b2242c3",
+      "Date" : "Fri, 21 Aug 2020 15:54:59 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "06e52639-4c89-3cf1-9807-05f6bc73b169"
+}

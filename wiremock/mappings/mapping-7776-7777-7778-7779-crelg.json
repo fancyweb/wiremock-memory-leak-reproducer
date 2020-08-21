@@ -1,0 +1,18 @@
+{
+  "id" : "29e14b24-bf7a-30ed-a980-6d6e7372fad8",
+  "request" : {
+    "url" : "/7776/7777/7778/7779",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-7776-7777-7778-7779-crelg.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "caa1d08b6f58da3b3d0065f879f20be3",
+      "Date" : "Fri, 21 Aug 2020 15:43:58 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "29e14b24-bf7a-30ed-a980-6d6e7372fad8"
+}

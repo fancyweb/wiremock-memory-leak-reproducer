@@ -1,0 +1,18 @@
+{
+  "id" : "8bedf64d-5043-3b07-a455-2e058b909e5d",
+  "request" : {
+    "url" : "/1940/1941/1942/1943",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-1940-1941-1942-1943-0jHFA.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "a078f3173201d53008e7f1e419bc3516",
+      "Date" : "Fri, 21 Aug 2020 15:43:05 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "8bedf64d-5043-3b07-a455-2e058b909e5d"
+}

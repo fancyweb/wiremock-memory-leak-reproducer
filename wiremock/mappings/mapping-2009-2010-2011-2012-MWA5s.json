@@ -1,0 +1,18 @@
+{
+  "id" : "bcd2a99b-55d1-369d-83cc-911d62fba817",
+  "request" : {
+    "url" : "/2009/2010/2011/2012",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-2009-2010-2011-2012-MWA5s.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "0245056caab71098bf9546e4f6e8ab01",
+      "Date" : "Fri, 21 Aug 2020 15:50:54 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "bcd2a99b-55d1-369d-83cc-911d62fba817"
+}

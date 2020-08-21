@@ -1,0 +1,18 @@
+{
+  "id" : "2243f272-697e-372d-b1bb-20c21c012874",
+  "request" : {
+    "url" : "/1239/1240/1241/1242",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-1239-1240-1241-1242-Lq8Y4.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "84d0513a03edd860cd6caf97712cebf4",
+      "Date" : "Fri, 21 Aug 2020 15:48:38 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "2243f272-697e-372d-b1bb-20c21c012874"
+}

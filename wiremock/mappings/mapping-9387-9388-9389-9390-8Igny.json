@@ -1,0 +1,18 @@
+{
+  "id" : "3032c5b0-981d-3cc9-92dc-76c13264aed7",
+  "request" : {
+    "url" : "/9387/9388/9389/9390",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-9387-9388-9389-9390-8Igny.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "1769ae790a743a504e8be0310b54e8fe",
+      "Date" : "Fri, 21 Aug 2020 15:57:25 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "3032c5b0-981d-3cc9-92dc-76c13264aed7"
+}

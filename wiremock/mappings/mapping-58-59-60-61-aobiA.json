@@ -1,0 +1,18 @@
+{
+  "id" : "98427866-40d9-3d16-8d18-91ee49afc579",
+  "request" : {
+    "url" : "/58/59/60/61",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-58-59-60-61-aobiA.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "40129a7a3a88ab8348d954a4f053985c",
+      "Date" : "Fri, 21 Aug 2020 15:44:18 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "98427866-40d9-3d16-8d18-91ee49afc579"
+}

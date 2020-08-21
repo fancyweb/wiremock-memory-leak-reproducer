@@ -1,0 +1,18 @@
+{
+  "id" : "6f592ae1-d44c-3a7b-b526-10032bb99e1a",
+  "request" : {
+    "url" : "/2002/2003/2004/2005",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-2002-2003-2004-2005-j6mGY.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "19b78cc1db6ee41fbd522f126f42b673",
+      "Date" : "Fri, 21 Aug 2020 15:44:26 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "6f592ae1-d44c-3a7b-b526-10032bb99e1a"
+}

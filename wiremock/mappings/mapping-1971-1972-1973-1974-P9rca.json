@@ -1,0 +1,18 @@
+{
+  "id" : "2fdeb619-a9e7-3bf4-8748-16cd02d2cbf3",
+  "request" : {
+    "url" : "/1971/1972/1973/1974",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-1971-1972-1973-1974-P9rca.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "b742dc8baf02d9bd3c656a736283fe4b",
+      "Date" : "Fri, 21 Aug 2020 15:49:09 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "2fdeb619-a9e7-3bf4-8748-16cd02d2cbf3"
+}

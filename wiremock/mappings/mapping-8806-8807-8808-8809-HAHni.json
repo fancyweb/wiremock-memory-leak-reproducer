@@ -1,0 +1,18 @@
+{
+  "id" : "bad13f23-a150-39ad-be52-ccdd143827b5",
+  "request" : {
+    "url" : "/8806/8807/8808/8809",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-8806-8807-8808-8809-HAHni.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "4653f90574221bde267b4126e37a8f86",
+      "Date" : "Fri, 21 Aug 2020 15:57:06 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "bad13f23-a150-39ad-be52-ccdd143827b5"
+}

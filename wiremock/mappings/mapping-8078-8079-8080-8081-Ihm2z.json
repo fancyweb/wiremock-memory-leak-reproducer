@@ -1,0 +1,18 @@
+{
+  "id" : "8dc38e32-fcb0-39e4-a8d1-0ed55a4247ea",
+  "request" : {
+    "url" : "/8078/8079/8080/8081",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-8078-8079-8080-8081-Ihm2z.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "0da2d6224cf3e398f3e7ce32def67137",
+      "Date" : "Fri, 21 Aug 2020 15:56:50 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "8dc38e32-fcb0-39e4-a8d1-0ed55a4247ea"
+}

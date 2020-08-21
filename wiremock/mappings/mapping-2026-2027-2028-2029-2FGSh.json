@@ -1,0 +1,18 @@
+{
+  "id" : "efb7e160-fa49-3eb0-9ddd-472eb9fe9561",
+  "request" : {
+    "url" : "/2026/2027/2028/2029",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-2026-2027-2028-2029-2FGSh.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "840f6a5929396b94bb7a866a127c0cf4",
+      "Date" : "Fri, 21 Aug 2020 15:44:27 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "efb7e160-fa49-3eb0-9ddd-472eb9fe9561"
+}

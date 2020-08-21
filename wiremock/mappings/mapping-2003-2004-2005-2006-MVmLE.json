@@ -1,0 +1,18 @@
+{
+  "id" : "c1c7afed-0f43-371a-862c-35c442c2b14c",
+  "request" : {
+    "url" : "/2003/2004/2005/2006",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-2003-2004-2005-2006-MVmLE.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "387d716ae3f77764b910ea72146b2997",
+      "Date" : "Fri, 21 Aug 2020 15:50:53 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "c1c7afed-0f43-371a-862c-35c442c2b14c"
+}

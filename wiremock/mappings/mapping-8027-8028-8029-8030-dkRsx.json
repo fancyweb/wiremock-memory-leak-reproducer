@@ -1,0 +1,18 @@
+{
+  "id" : "1f28493e-7fcf-392a-85e1-1c85d927ed04",
+  "request" : {
+    "url" : "/8027/8028/8029/8030",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-8027-8028-8029-8030-dkRsx.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "00fa7fdc626a6665612ff884cee505b7",
+      "Date" : "Fri, 21 Aug 2020 15:56:49 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "1f28493e-7fcf-392a-85e1-1c85d927ed04"
+}

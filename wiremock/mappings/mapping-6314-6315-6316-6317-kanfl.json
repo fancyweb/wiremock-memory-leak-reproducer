@@ -1,0 +1,18 @@
+{
+  "id" : "db8594a3-7a29-3100-9596-a7fbf31b0bfd",
+  "request" : {
+    "url" : "/6314/6315/6316/6317",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-6314-6315-6316-6317-kanfl.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "7b816311806675d6d863dd0cc1083b1d",
+      "Date" : "Fri, 21 Aug 2020 15:43:46 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "db8594a3-7a29-3100-9596-a7fbf31b0bfd"
+}

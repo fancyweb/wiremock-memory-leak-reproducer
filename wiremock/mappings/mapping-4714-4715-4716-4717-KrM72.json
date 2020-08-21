@@ -1,0 +1,18 @@
+{
+  "id" : "90bef923-577d-32a9-8efa-3fb53bb523db",
+  "request" : {
+    "url" : "/4714/4715/4716/4717",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-4714-4715-4716-4717-KrM72.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "e964aec9704b1523598cbd191154d731",
+      "Date" : "Fri, 21 Aug 2020 15:44:39 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "90bef923-577d-32a9-8efa-3fb53bb523db"
+}

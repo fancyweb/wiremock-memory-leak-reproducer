@@ -1,0 +1,18 @@
+{
+  "id" : "badd4524-2a06-32d1-903f-4212a0432ee7",
+  "request" : {
+    "url" : "/7024/7025/7026/7027",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-7024-7025-7026-7027-cb6nl.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "fc25600d3982d2bef9faf6884c545979",
+      "Date" : "Fri, 21 Aug 2020 15:43:51 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "badd4524-2a06-32d1-903f-4212a0432ee7"
+}

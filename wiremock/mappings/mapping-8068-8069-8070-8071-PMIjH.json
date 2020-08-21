@@ -1,0 +1,18 @@
+{
+  "id" : "112200a1-fe2f-3465-934f-0d7597a619c3",
+  "request" : {
+    "url" : "/8068/8069/8070/8071",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-8068-8069-8070-8071-PMIjH.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "0eb8d789f33a9c2210a1eae3c73c0bc9",
+      "Date" : "Fri, 21 Aug 2020 15:44:01 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "112200a1-fe2f-3465-934f-0d7597a619c3"
+}

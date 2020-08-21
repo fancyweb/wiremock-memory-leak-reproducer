@@ -1,0 +1,18 @@
+{
+  "id" : "702de00a-cecb-3383-9548-c7a04cfc2ed4",
+  "request" : {
+    "url" : "/1917/1918/1919/1920",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-1917-1918-1919-1920-RRTNr.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "9853a7ff4a51efcfba1838a780e0176e",
+      "Date" : "Fri, 21 Aug 2020 15:49:07 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "702de00a-cecb-3383-9548-c7a04cfc2ed4"
+}

@@ -1,0 +1,18 @@
+{
+  "id" : "389bc12f-0be7-3f58-b955-d2808ad5a8ca",
+  "request" : {
+    "url" : "/6412/6413/6414/6415",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-6412-6413-6414-6415-NyTSO.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "4bceb7f9e7a9ffef73e28f5288d9288b",
+      "Date" : "Fri, 21 Aug 2020 15:43:46 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "389bc12f-0be7-3f58-b955-d2808ad5a8ca"
+}

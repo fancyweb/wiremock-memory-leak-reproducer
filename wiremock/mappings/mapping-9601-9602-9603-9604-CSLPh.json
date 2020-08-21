@@ -1,0 +1,18 @@
+{
+  "id" : "38c1171b-0484-3429-8436-477f9b3b73fe",
+  "request" : {
+    "url" : "/9601/9602/9603/9604",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-9601-9602-9603-9604-CSLPh.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "94b9ed94fe9a574f5b149e8479e1cb43",
+      "Date" : "Fri, 21 Aug 2020 15:57:38 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "38c1171b-0484-3429-8436-477f9b3b73fe"
+}

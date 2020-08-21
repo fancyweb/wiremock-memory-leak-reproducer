@@ -1,0 +1,18 @@
+{
+  "id" : "2e74fbfe-95ae-383c-b656-a587bd95f282",
+  "request" : {
+    "url" : "/8694/8695/8696/8697",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-8694-8695-8696-8697-MARY8.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "24ef8f163c9f57abb863825f7066e326",
+      "Date" : "Fri, 21 Aug 2020 15:44:06 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "2e74fbfe-95ae-383c-b656-a587bd95f282"
+}

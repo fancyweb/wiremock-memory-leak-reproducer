@@ -1,0 +1,18 @@
+{
+  "id" : "cada97f3-53e6-3a7b-abe8-52bb9ee30f2d",
+  "request" : {
+    "url" : "/4204/4205/4206/4207",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-4204-4205-4206-4207-PBUfA.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "332660f0d933dfa004815d4ec2b234ae",
+      "Date" : "Fri, 21 Aug 2020 15:54:59 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "cada97f3-53e6-3a7b-abe8-52bb9ee30f2d"
+}

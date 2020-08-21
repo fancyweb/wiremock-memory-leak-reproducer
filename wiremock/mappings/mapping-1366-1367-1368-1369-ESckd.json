@@ -1,0 +1,18 @@
+{
+  "id" : "6c201fd7-93c7-3ba5-a38f-30d564615fca",
+  "request" : {
+    "url" : "/1366/1367/1368/1369",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-1366-1367-1368-1369-ESckd.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "23d12832acfae2ced0301a23f9f851be",
+      "Date" : "Fri, 21 Aug 2020 15:46:25 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "6c201fd7-93c7-3ba5-a38f-30d564615fca"
+}

@@ -1,0 +1,18 @@
+{
+  "id" : "dafa7701-26d3-31bf-84af-07272b3abeb5",
+  "request" : {
+    "url" : "/2627/2628/2629/2630",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-2627-2628-2629-2630-EdgPR.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "6762e1843f5cd719c781accb6cc5626e",
+      "Date" : "Fri, 21 Aug 2020 15:51:30 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "dafa7701-26d3-31bf-84af-07272b3abeb5"
+}

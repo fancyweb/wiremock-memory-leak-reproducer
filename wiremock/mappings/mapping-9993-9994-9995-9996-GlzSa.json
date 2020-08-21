@@ -1,0 +1,18 @@
+{
+  "id" : "2c74bf30-ef92-380c-a8bd-94ff8dd91b42",
+  "request" : {
+    "url" : "/9993/9994/9995/9996",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-9993-9994-9995-9996-GlzSa.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "3b37e4cff6dd51b6f7f5f351bc28ecad",
+      "Date" : "Fri, 21 Aug 2020 15:57:46 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "2c74bf30-ef92-380c-a8bd-94ff8dd91b42"
+}

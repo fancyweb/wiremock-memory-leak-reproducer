@@ -1,0 +1,18 @@
+{
+  "id" : "f032b643-a84a-39d3-88b4-d781c4c404db",
+  "request" : {
+    "url" : "/3568/3569/3570/3571",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-3568-3569-3570-3571-JuiZ9.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "84698c27fdba922c8504af0d1c25e098",
+      "Date" : "Fri, 21 Aug 2020 15:54:44 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "f032b643-a84a-39d3-88b4-d781c4c404db"
+}

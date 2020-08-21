@@ -1,0 +1,18 @@
+{
+  "id" : "63b16458-897b-3ae2-90df-83680af2a7a6",
+  "request" : {
+    "url" : "/5017/5018/5019/5020",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-5017-5018-5019-5020-inniY.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "1af7fad4196dbd185f513aecbc750dd3",
+      "Date" : "Fri, 21 Aug 2020 15:55:22 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "63b16458-897b-3ae2-90df-83680af2a7a6"
+}

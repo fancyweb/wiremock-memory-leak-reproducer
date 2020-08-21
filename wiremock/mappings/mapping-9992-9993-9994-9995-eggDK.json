@@ -1,0 +1,18 @@
+{
+  "id" : "26a3ecba-504c-3888-8993-981a2f8117fb",
+  "request" : {
+    "url" : "/9992/9993/9994/9995",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-9992-9993-9994-9995-eggDK.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "49649716151cdce8b2f8cdee7c809693",
+      "Date" : "Fri, 21 Aug 2020 15:57:51 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "26a3ecba-504c-3888-8993-981a2f8117fb"
+}

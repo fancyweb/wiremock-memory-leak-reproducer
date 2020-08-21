@@ -1,0 +1,18 @@
+{
+  "id" : "8c90989a-4997-35fe-aed7-c6bbaf893c38",
+  "request" : {
+    "url" : "/9309/9310/9311/9312",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-9309-9310-9311-9312-BNKTb.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "9f7c41b4b2baab89606f8fdacd95e0ce",
+      "Date" : "Fri, 21 Aug 2020 15:57:24 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "8c90989a-4997-35fe-aed7-c6bbaf893c38"
+}

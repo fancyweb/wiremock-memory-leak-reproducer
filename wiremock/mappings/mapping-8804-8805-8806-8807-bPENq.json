@@ -1,0 +1,18 @@
+{
+  "id" : "700aaa04-e37c-33c6-9fbb-0ad675974360",
+  "request" : {
+    "url" : "/8804/8805/8806/8807",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-8804-8805-8806-8807-bPENq.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "eee81f6c35886ecebbf1ffed6bc9aee4",
+      "Date" : "Fri, 21 Aug 2020 15:44:07 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "700aaa04-e37c-33c6-9fbb-0ad675974360"
+}

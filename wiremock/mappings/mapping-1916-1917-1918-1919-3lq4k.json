@@ -1,0 +1,18 @@
+{
+  "id" : "4ebd8185-cfea-3a00-a21d-6e1b6fee0be2",
+  "request" : {
+    "url" : "/1916/1917/1918/1919",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-1916-1917-1918-1919-3lq4k.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "779263be6e24492089f49488ea0bf70f",
+      "Date" : "Fri, 21 Aug 2020 15:44:26 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "4ebd8185-cfea-3a00-a21d-6e1b6fee0be2"
+}

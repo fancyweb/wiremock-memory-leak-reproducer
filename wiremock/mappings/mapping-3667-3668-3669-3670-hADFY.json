@@ -1,0 +1,18 @@
+{
+  "id" : "e0530818-9373-3459-b669-d5cf5f83d635",
+  "request" : {
+    "url" : "/3667/3668/3669/3670",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-3667-3668-3669-3670-hADFY.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "a8daa0c521fc57ffb04ac751b8df54a2",
+      "Date" : "Fri, 21 Aug 2020 15:54:39 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "e0530818-9373-3459-b669-d5cf5f83d635"
+}

@@ -1,0 +1,18 @@
+{
+  "id" : "6e2341f2-b26b-3ac9-944f-1d1cc20c0daa",
+  "request" : {
+    "url" : "/7241/7242/7243/7244",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-7241-7242-7243-7244-LKkur.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "7d75296c17ac3f26de6ed5b58bccc1ec",
+      "Date" : "Fri, 21 Aug 2020 15:56:24 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "6e2341f2-b26b-3ac9-944f-1d1cc20c0daa"
+}

@@ -1,0 +1,18 @@
+{
+  "id" : "5d1c9641-c00d-3f60-8cde-9359dc90eea0",
+  "request" : {
+    "url" : "/8893/8894/8895/8896",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-8893-8894-8895-8896-WarNr.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "d2d1a5387df70f707f77eca6a1f0a228",
+      "Date" : "Fri, 21 Aug 2020 15:57:08 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "5d1c9641-c00d-3f60-8cde-9359dc90eea0"
+}

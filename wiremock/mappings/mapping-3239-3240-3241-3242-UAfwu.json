@@ -1,0 +1,18 @@
+{
+  "id" : "2ed940da-f2d1-3625-9a48-68604decfdfe",
+  "request" : {
+    "url" : "/3239/3240/3241/3242",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-3239-3240-3241-3242-UAfwu.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "534d7f5f2133d7ec98154ff145671d80",
+      "Date" : "Fri, 21 Aug 2020 15:52:09 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "2ed940da-f2d1-3625-9a48-68604decfdfe"
+}

@@ -1,0 +1,18 @@
+{
+  "id" : "ee94731f-3c83-39ea-9fc2-6214e5b0a4b5",
+  "request" : {
+    "url" : "/1338/1339/1340/1341",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-1338-1339-1340-1341-JOACr.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "dbce34b858c41e45fa5ead4a543480d0",
+      "Date" : "Fri, 21 Aug 2020 15:44:23 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "ee94731f-3c83-39ea-9fc2-6214e5b0a4b5"
+}

@@ -1,0 +1,18 @@
+{
+  "id" : "a5208058-a272-32b8-b73f-6dc11febb762",
+  "request" : {
+    "url" : "/3060/3061/3062/3063",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-3060-3061-3062-3063-dwnNl.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "fe210364bd3ff63d7e232fbca119e6ae",
+      "Date" : "Fri, 21 Aug 2020 15:43:13 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "a5208058-a272-32b8-b73f-6dc11febb762"
+}

@@ -1,0 +1,18 @@
+{
+  "id" : "a321f533-aee2-35c8-af0e-fec8fbc90415",
+  "request" : {
+    "url" : "/500/501/502/503",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-500-501-502-503-2NFpo.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "aa769c4663c05564e3e294e9d55b6eb4",
+      "Date" : "Fri, 21 Aug 2020 15:42:54 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "a321f533-aee2-35c8-af0e-fec8fbc90415"
+}

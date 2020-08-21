@@ -1,0 +1,18 @@
+{
+  "id" : "adca5754-df82-34e2-8c6c-01e2d5cc8533",
+  "request" : {
+    "url" : "/2724/2725/2726/2727",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-2724-2725-2726-2727-RI5Pn.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "b3bcba456aa367b60fd82d54c0131608",
+      "Date" : "Fri, 21 Aug 2020 15:43:11 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "adca5754-df82-34e2-8c6c-01e2d5cc8533"
+}

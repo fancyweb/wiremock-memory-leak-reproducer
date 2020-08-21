@@ -1,0 +1,18 @@
+{
+  "id" : "ec499fc9-0bd6-39ab-82e2-cd62b4d6cc80",
+  "request" : {
+    "url" : "/7018/7019/7020/7021",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-7018-7019-7020-7021-FTOyR.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "793cb583b90e53453e3551b851c196a8",
+      "Date" : "Fri, 21 Aug 2020 15:56:25 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "ec499fc9-0bd6-39ab-82e2-cd62b4d6cc80"
+}

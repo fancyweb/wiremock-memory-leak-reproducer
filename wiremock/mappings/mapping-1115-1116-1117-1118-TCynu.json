@@ -1,0 +1,18 @@
+{
+  "id" : "38b2187c-1221-3c3c-88f7-dad302cfb8b5",
+  "request" : {
+    "url" : "/1115/1116/1117/1118",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-1115-1116-1117-1118-TCynu.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "f1c475533e0a80048145218a2f39858f",
+      "Date" : "Fri, 21 Aug 2020 15:48:36 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "38b2187c-1221-3c3c-88f7-dad302cfb8b5"
+}

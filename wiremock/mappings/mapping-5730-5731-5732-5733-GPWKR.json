@@ -1,0 +1,18 @@
+{
+  "id" : "2707554c-b87f-3efc-9c26-0abc7af1035f",
+  "request" : {
+    "url" : "/5730/5731/5732/5733",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-5730-5731-5732-5733-GPWKR.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "71aa17532a73a80befbb32ed1084ef19",
+      "Date" : "Fri, 21 Aug 2020 15:44:44 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "2707554c-b87f-3efc-9c26-0abc7af1035f"
+}

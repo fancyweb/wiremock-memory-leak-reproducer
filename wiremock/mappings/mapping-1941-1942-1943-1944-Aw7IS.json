@@ -1,0 +1,18 @@
+{
+  "id" : "7cc70a75-4fe0-3a61-a984-6d1802a53ed7",
+  "request" : {
+    "url" : "/1941/1942/1943/1944",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-1941-1942-1943-1944-Aw7IS.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "02cf7a269dc11df512e146235df0c08f",
+      "Date" : "Fri, 21 Aug 2020 15:49:08 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "7cc70a75-4fe0-3a61-a984-6d1802a53ed7"
+}

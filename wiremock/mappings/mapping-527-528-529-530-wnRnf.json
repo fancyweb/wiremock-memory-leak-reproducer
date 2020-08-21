@@ -1,0 +1,18 @@
+{
+  "id" : "5a028bef-91c1-33f3-8fd7-7e4099b0a033",
+  "request" : {
+    "url" : "/527/528/529/530",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-527-528-529-530-wnRnf.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "36f1b201cc134001fc4ed7b283479492",
+      "Date" : "Fri, 21 Aug 2020 15:48:12 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "5a028bef-91c1-33f3-8fd7-7e4099b0a033"
+}

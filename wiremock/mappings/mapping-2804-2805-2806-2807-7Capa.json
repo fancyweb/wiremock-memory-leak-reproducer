@@ -1,0 +1,18 @@
+{
+  "id" : "36e47557-85c8-3014-959b-17255a7f9798",
+  "request" : {
+    "url" : "/2804/2805/2806/2807",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-2804-2805-2806-2807-7Capa.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "fecab389b7f1d61e96029a648ca53573",
+      "Date" : "Fri, 21 Aug 2020 15:43:12 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "36e47557-85c8-3014-959b-17255a7f9798"
+}

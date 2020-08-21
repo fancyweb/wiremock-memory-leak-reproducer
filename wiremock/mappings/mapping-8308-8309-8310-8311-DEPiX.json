@@ -1,0 +1,18 @@
+{
+  "id" : "b8539e49-4fd2-3991-95a3-7877d7bd37ff",
+  "request" : {
+    "url" : "/8308/8309/8310/8311",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-8308-8309-8310-8311-DEPiX.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "91f78fad3446133739a2314890871242",
+      "Date" : "Fri, 21 Aug 2020 15:44:03 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "b8539e49-4fd2-3991-95a3-7877d7bd37ff"
+}

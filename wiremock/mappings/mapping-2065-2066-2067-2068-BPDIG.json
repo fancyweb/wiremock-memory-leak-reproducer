@@ -1,0 +1,18 @@
+{
+  "id" : "7b37388f-3c2f-30d1-a59b-adabb9486c6e",
+  "request" : {
+    "url" : "/2065/2066/2067/2068",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-2065-2066-2067-2068-BPDIG.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "5e8f8ddf286f374d7bfdd193bffab3a5",
+      "Date" : "Fri, 21 Aug 2020 15:50:55 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "7b37388f-3c2f-30d1-a59b-adabb9486c6e"
+}

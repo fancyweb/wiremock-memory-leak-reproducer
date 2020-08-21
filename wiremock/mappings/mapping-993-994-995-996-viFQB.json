@@ -1,0 +1,18 @@
+{
+  "id" : "2a080398-3025-31ff-bb0a-4f6a84011b26",
+  "request" : {
+    "url" : "/993/994/995/996",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-993-994-995-996-viFQB.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "de5a1ee41dd5f93c69bbe568c8ed9f82",
+      "Date" : "Fri, 21 Aug 2020 15:48:27 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "2a080398-3025-31ff-bb0a-4f6a84011b26"
+}

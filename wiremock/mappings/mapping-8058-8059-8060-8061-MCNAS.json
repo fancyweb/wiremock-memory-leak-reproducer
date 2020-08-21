@@ -1,0 +1,18 @@
+{
+  "id" : "8c0594a4-e701-3d55-aea0-d38af8b0cb17",
+  "request" : {
+    "url" : "/8058/8059/8060/8061",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-8058-8059-8060-8061-MCNAS.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "013b6052fa4ddbb9121d3c91b3b14059",
+      "Date" : "Fri, 21 Aug 2020 15:44:56 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "8c0594a4-e701-3d55-aea0-d38af8b0cb17"
+}

@@ -1,0 +1,18 @@
+{
+  "id" : "dac7d24b-1286-3235-af5d-53a45bc9bdc6",
+  "request" : {
+    "url" : "/1949/1950/1951/1952",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-1949-1950-1951-1952-UVyQU.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "89c475fe57e86c5bc3877de4777326ae",
+      "Date" : "Fri, 21 Aug 2020 15:49:08 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "dac7d24b-1286-3235-af5d-53a45bc9bdc6"
+}

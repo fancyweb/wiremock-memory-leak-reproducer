@@ -1,0 +1,18 @@
+{
+  "id" : "b83ed7df-04ae-3ed3-be2d-d6f56079a51b",
+  "request" : {
+    "url" : "/8087/8088/8089/8090",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-8087-8088-8089-8090-TEIl0.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "a76c31bace7fff3ec25831bdb3d8bf8c",
+      "Date" : "Fri, 21 Aug 2020 15:56:50 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "b83ed7df-04ae-3ed3-be2d-d6f56079a51b"
+}

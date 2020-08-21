@@ -1,0 +1,18 @@
+{
+  "id" : "c79c617b-84ab-343c-ac46-c0f463e594fb",
+  "request" : {
+    "url" : "/2502/2503/2504/2505",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-2502-2503-2504-2505-RhsUL.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "7a15cb4ba1f080017f6a1f03aef86e33",
+      "Date" : "Fri, 21 Aug 2020 15:51:26 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "c79c617b-84ab-343c-ac46-c0f463e594fb"
+}

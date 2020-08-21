@@ -1,0 +1,18 @@
+{
+  "id" : "d9012cae-9af2-3aa0-816d-e196905e632e",
+  "request" : {
+    "url" : "/6221/6222/6223/6224",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-6221-6222-6223-6224-KlMYo.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "490ed1e926493aa878d3c4aaa8fd9369",
+      "Date" : "Fri, 21 Aug 2020 15:55:46 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "d9012cae-9af2-3aa0-816d-e196905e632e"
+}

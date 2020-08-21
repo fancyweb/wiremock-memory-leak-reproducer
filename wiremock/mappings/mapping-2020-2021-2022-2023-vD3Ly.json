@@ -1,0 +1,18 @@
+{
+  "id" : "c4ba2dfb-94d1-3faf-90b5-7988bbe505f7",
+  "request" : {
+    "url" : "/2020/2021/2022/2023",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-2020-2021-2022-2023-vD3Ly.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "48ab385aa4b464838ee0672c813d0a78",
+      "Date" : "Fri, 21 Aug 2020 15:43:06 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "c4ba2dfb-94d1-3faf-90b5-7988bbe505f7"
+}

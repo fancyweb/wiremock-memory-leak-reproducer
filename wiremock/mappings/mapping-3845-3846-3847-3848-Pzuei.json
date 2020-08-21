@@ -1,0 +1,18 @@
+{
+  "id" : "207e93fe-557c-3fda-b51a-de399281f902",
+  "request" : {
+    "url" : "/3845/3846/3847/3848",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-3845-3846-3847-3848-Pzuei.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "b2cd07a84086f9192c30284c54638812",
+      "Date" : "Fri, 21 Aug 2020 15:54:41 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "207e93fe-557c-3fda-b51a-de399281f902"
+}

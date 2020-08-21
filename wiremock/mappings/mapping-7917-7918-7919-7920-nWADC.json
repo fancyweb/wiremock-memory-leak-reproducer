@@ -1,0 +1,18 @@
+{
+  "id" : "be7d65cb-ee39-37d0-9302-5ac66d971214",
+  "request" : {
+    "url" : "/7917/7918/7919/7920",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-7917-7918-7919-7920-nWADC.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "619adb6200c4550dbadc862ba3968878",
+      "Date" : "Fri, 21 Aug 2020 15:56:39 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "be7d65cb-ee39-37d0-9302-5ac66d971214"
+}

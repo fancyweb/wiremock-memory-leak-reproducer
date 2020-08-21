@@ -1,0 +1,18 @@
+{
+  "id" : "5f5a0634-5eca-3d6b-98af-4fb488a5f020",
+  "request" : {
+    "url" : "/4880/4881/4882/4883",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-4880-4881-4882-4883-ZbStU.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "903770601d5680188bad9be2c077ffac",
+      "Date" : "Fri, 21 Aug 2020 15:43:33 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "5f5a0634-5eca-3d6b-98af-4fb488a5f020"
+}

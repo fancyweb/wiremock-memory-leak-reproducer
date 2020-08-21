@@ -1,0 +1,18 @@
+{
+  "id" : "c26b60c2-c588-3d8f-964b-80ae56fcd99e",
+  "request" : {
+    "url" : "/3682/3683/3684/3685",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-3682-3683-3684-3685-tGIZ4.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "4617581e69aeb87c9e5c7fad9ff20aff",
+      "Date" : "Fri, 21 Aug 2020 15:44:34 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "c26b60c2-c588-3d8f-964b-80ae56fcd99e"
+}

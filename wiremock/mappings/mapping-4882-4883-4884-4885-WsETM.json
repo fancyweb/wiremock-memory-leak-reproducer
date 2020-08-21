@@ -1,0 +1,18 @@
+{
+  "id" : "f10fdefc-2713-3971-bfd0-c26015d19dfd",
+  "request" : {
+    "url" : "/4882/4883/4884/4885",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-4882-4883-4884-4885-WsETM.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "2bbf86eb8b28a4653d5919dd2d0f4dd0",
+      "Date" : "Fri, 21 Aug 2020 15:44:40 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "f10fdefc-2713-3971-bfd0-c26015d19dfd"
+}

@@ -1,0 +1,18 @@
+{
+  "id" : "4c1a7905-3b8e-31dd-b1cd-ef8a5f647778",
+  "request" : {
+    "url" : "/1237/1238/1239/1240",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-1237-1238-1239-1240-kLuPP.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "dc839248064d896cecf802f3380d5d6a",
+      "Date" : "Fri, 21 Aug 2020 15:48:38 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "4c1a7905-3b8e-31dd-b1cd-ef8a5f647778"
+}

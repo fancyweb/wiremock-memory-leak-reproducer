@@ -1,0 +1,18 @@
+{
+  "id" : "003011e2-dabc-3b68-9e67-b4a7c5a4ed3b",
+  "request" : {
+    "url" : "/41/42/43/44",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-41-42-43-44-NWevL.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "dd7f2e7433cd15de3faca6b5c8f3f4c1",
+      "Date" : "Fri, 21 Aug 2020 15:47:51 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "003011e2-dabc-3b68-9e67-b4a7c5a4ed3b"
+}

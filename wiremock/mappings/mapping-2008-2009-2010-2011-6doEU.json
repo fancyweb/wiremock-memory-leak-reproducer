@@ -1,0 +1,18 @@
+{
+  "id" : "7c8fd343-7c11-3790-ace8-12d85eeebd30",
+  "request" : {
+    "url" : "/2008/2009/2010/2011",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-2008-2009-2010-2011-6doEU.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "b546583853c6e5212c2d596029cb30de",
+      "Date" : "Fri, 21 Aug 2020 15:43:06 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "7c8fd343-7c11-3790-ace8-12d85eeebd30"
+}

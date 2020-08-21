@@ -1,0 +1,18 @@
+{
+  "id" : "baa388f1-9bc1-3609-bff6-f58705a1e768",
+  "request" : {
+    "url" : "/1938/1939/1940/1941",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-1938-1939-1940-1941-JKPb1.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "664f1d2f3a463185aa1094b04239fa52",
+      "Date" : "Fri, 21 Aug 2020 15:44:26 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "baa388f1-9bc1-3609-bff6-f58705a1e768"
+}

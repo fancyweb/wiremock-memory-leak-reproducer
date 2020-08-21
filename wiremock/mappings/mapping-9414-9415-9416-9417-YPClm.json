@@ -1,0 +1,18 @@
+{
+  "id" : "dc3ec889-ba7e-3374-9304-dffe7cf57d6e",
+  "request" : {
+    "url" : "/9414/9415/9416/9417",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-9414-9415-9416-9417-YPClm.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "e30ffd704ae76d9f0bef333679a54d66",
+      "Date" : "Fri, 21 Aug 2020 15:44:12 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "dc3ec889-ba7e-3374-9304-dffe7cf57d6e"
+}

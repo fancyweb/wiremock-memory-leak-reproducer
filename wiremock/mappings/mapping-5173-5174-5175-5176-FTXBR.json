@@ -1,0 +1,18 @@
+{
+  "id" : "5fe08b08-62a2-3545-8f80-9f832d7bc482",
+  "request" : {
+    "url" : "/5173/5174/5175/5176",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-5173-5174-5175-5176-FTXBR.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "f8997d5fa6805a81555f3abc321e20a2",
+      "Date" : "Fri, 21 Aug 2020 15:55:17 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "5fe08b08-62a2-3545-8f80-9f832d7bc482"
+}

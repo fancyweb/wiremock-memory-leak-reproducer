@@ -1,0 +1,18 @@
+{
+  "id" : "28386741-3c69-31ee-bbe6-249093e25fb2",
+  "request" : {
+    "url" : "/1960/1961/1962/1963",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-1960-1961-1962-1963-bjd9q.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "80ee74e6f4c9648b716d354f2a903b91",
+      "Date" : "Fri, 21 Aug 2020 15:43:05 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "28386741-3c69-31ee-bbe6-249093e25fb2"
+}

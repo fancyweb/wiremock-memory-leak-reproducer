@@ -1,0 +1,18 @@
+{
+  "id" : "714c2a7e-1c41-3e7b-9c45-384d5277551a",
+  "request" : {
+    "url" : "/9367/9368/9369/9370",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-9367-9368-9369-9370-Nt2RV.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "fd880a821470fcd00e491d43e3bb7864",
+      "Date" : "Fri, 21 Aug 2020 15:57:25 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "714c2a7e-1c41-3e7b-9c45-384d5277551a"
+}

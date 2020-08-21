@@ -1,0 +1,18 @@
+{
+  "id" : "8bfd9633-7b31-32a7-8214-613e094c2935",
+  "request" : {
+    "url" : "/2027/2028/2029/2030",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-2027-2028-2029-2030-vKXmB.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "9415c89a519101987eda6a3e9fee3f04",
+      "Date" : "Fri, 21 Aug 2020 15:50:54 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "8bfd9633-7b31-32a7-8214-613e094c2935"
+}

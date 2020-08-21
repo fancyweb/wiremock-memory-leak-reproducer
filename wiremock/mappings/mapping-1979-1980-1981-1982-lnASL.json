@@ -1,0 +1,18 @@
+{
+  "id" : "9247a9cb-e8f5-3c96-a5a1-15b521fe0281",
+  "request" : {
+    "url" : "/1979/1980/1981/1982",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-1979-1980-1981-1982-lnASL.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "7fc365f9ee239b7ab1b3913d35b8855a",
+      "Date" : "Fri, 21 Aug 2020 15:49:09 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "9247a9cb-e8f5-3c96-a5a1-15b521fe0281"
+}

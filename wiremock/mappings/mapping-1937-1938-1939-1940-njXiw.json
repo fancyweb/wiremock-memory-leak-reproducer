@@ -1,0 +1,18 @@
+{
+  "id" : "31a72dc9-d0a8-3d61-8d79-c260d99d6816",
+  "request" : {
+    "url" : "/1937/1938/1939/1940",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-1937-1938-1939-1940-njXiw.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "61815a84dff9bcb991f0a58f6cd1bc56",
+      "Date" : "Fri, 21 Aug 2020 15:50:39 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "31a72dc9-d0a8-3d61-8d79-c260d99d6816"
+}

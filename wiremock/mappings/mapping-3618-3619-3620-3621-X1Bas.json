@@ -1,0 +1,18 @@
+{
+  "id" : "bf662d66-915a-332a-a26b-13437ec7c87f",
+  "request" : {
+    "url" : "/3618/3619/3620/3621",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-3618-3619-3620-3621-X1Bas.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "15b2aada1473d0072a85098d62fbd3a9",
+      "Date" : "Fri, 21 Aug 2020 15:44:34 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "bf662d66-915a-332a-a26b-13437ec7c87f"
+}

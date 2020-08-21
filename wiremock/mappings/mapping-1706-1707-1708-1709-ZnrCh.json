@@ -1,0 +1,18 @@
+{
+  "id" : "02a5d434-f6d3-3555-b7fd-f4e2dce02553",
+  "request" : {
+    "url" : "/1706/1707/1708/1709",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-1706-1707-1708-1709-ZnrCh.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "e5deaf24d9b3539683412ad3388a3fe7",
+      "Date" : "Fri, 21 Aug 2020 15:44:25 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "02a5d434-f6d3-3555-b7fd-f4e2dce02553"
+}

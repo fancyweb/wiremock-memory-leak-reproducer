@@ -1,0 +1,18 @@
+{
+  "id" : "41b41f43-5833-395d-a4f8-14150709c868",
+  "request" : {
+    "url" : "/2022/2023/2024/2025",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-2022-2023-2024-2025-Lz511.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "39815b9c8f769670dec4d4bb05949876",
+      "Date" : "Fri, 21 Aug 2020 15:43:06 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "41b41f43-5833-395d-a4f8-14150709c868"
+}

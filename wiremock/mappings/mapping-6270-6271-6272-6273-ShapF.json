@@ -1,0 +1,18 @@
+{
+  "id" : "354c35cb-f643-3229-b9fb-065113ee6b4d",
+  "request" : {
+    "url" : "/6270/6271/6272/6273",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-6270-6271-6272-6273-ShapF.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "2b226e8145a553e73f1736d02663030a",
+      "Date" : "Fri, 21 Aug 2020 15:55:58 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "354c35cb-f643-3229-b9fb-065113ee6b4d"
+}

@@ -1,0 +1,18 @@
+{
+  "id" : "228fde1f-9a60-3979-b3bf-a242acd7362d",
+  "request" : {
+    "url" : "/3780/3781/3782/3783",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-3780-3781-3782-3783-FNeWK.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "122e7879c7afd58f62fb63459e6e3d44",
+      "Date" : "Fri, 21 Aug 2020 15:43:21 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "228fde1f-9a60-3979-b3bf-a242acd7362d"
+}

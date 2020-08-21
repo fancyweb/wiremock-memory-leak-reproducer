@@ -1,0 +1,18 @@
+{
+  "id" : "13fc5413-da44-32fe-ab5f-a3c18a0cf783",
+  "request" : {
+    "url" : "/1998/1999/2000/2001",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-1998-1999-2000-2001-FeP9p.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "d089676338e2ef0db8a6cb60d8e102ef",
+      "Date" : "Fri, 21 Aug 2020 15:50:52 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "13fc5413-da44-32fe-ab5f-a3c18a0cf783"
+}

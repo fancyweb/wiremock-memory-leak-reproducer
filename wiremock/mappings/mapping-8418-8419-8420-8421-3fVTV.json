@@ -1,0 +1,18 @@
+{
+  "id" : "d8a6eeeb-c4e0-3e7f-b939-b90d1e852eef",
+  "request" : {
+    "url" : "/8418/8419/8420/8421",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-8418-8419-8420-8421-3fVTV.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "091dd8576109757667f94487755433d5",
+      "Date" : "Fri, 21 Aug 2020 15:44:58 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "d8a6eeeb-c4e0-3e7f-b939-b90d1e852eef"
+}

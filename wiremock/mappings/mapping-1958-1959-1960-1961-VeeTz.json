@@ -1,0 +1,18 @@
+{
+  "id" : "923c701f-1398-395e-bea8-e405e166ce13",
+  "request" : {
+    "url" : "/1958/1959/1960/1961",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-1958-1959-1960-1961-VeeTz.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "39eea002dd52a7b3b3b15f1a2ec72357",
+      "Date" : "Fri, 21 Aug 2020 15:50:51 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "923c701f-1398-395e-bea8-e405e166ce13"
+}

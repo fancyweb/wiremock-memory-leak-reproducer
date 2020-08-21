@@ -1,0 +1,18 @@
+{
+  "id" : "acc8047f-83df-38ac-91fe-919be55d626b",
+  "request" : {
+    "url" : "/1241/1242/1243/1244",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-1241-1242-1243-1244-I7kHG.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "f723c8c51c1e48323a2bdaf49fd33436",
+      "Date" : "Fri, 21 Aug 2020 15:48:38 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "acc8047f-83df-38ac-91fe-919be55d626b"
+}

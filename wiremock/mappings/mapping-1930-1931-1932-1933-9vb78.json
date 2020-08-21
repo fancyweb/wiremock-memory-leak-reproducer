@@ -1,0 +1,18 @@
+{
+  "id" : "dc708004-a9f7-3d79-a92b-94ebf9cc585f",
+  "request" : {
+    "url" : "/1930/1931/1932/1933",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-1930-1931-1932-1933-9vb78.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "1f87be01f4749afa166e019c02db54a0",
+      "Date" : "Fri, 21 Aug 2020 15:44:26 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "dc708004-a9f7-3d79-a92b-94ebf9cc585f"
+}

@@ -1,0 +1,18 @@
+{
+  "id" : "4813b968-6653-3702-833b-26c5d2bc21f0",
+  "request" : {
+    "url" : "/7348/7349/7350/7351",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-7348-7349-7350-7351-oSWPS.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "f5c4b20f956fcedb33f7280ff17a158d",
+      "Date" : "Fri, 21 Aug 2020 15:43:54 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "4813b968-6653-3702-833b-26c5d2bc21f0"
+}

@@ -1,0 +1,18 @@
+{
+  "id" : "327634dc-5295-3147-baae-09ea4e861055",
+  "request" : {
+    "url" : "/1227/1228/1229/1230",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-1227-1228-1229-1230-LQHD6.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "51383f84af5bccf2cd25ab818c5362e3",
+      "Date" : "Fri, 21 Aug 2020 15:48:38 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "327634dc-5295-3147-baae-09ea4e861055"
+}

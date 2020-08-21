@@ -1,0 +1,18 @@
+{
+  "id" : "120bae5c-ebdf-3c86-9c20-a9dfd1505260",
+  "request" : {
+    "url" : "/9127/9128/9129/9130",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-9127-9128-9129-9130-NPGSK.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "05622c4140a2bcab66bb0fa04c93077f",
+      "Date" : "Fri, 21 Aug 2020 15:57:22 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "120bae5c-ebdf-3c86-9c20-a9dfd1505260"
+}

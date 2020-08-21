@@ -1,0 +1,18 @@
+{
+  "id" : "643b15e4-2892-340b-8763-67ebeaf3a0f9",
+  "request" : {
+    "url" : "/1317/1318/1319/1320",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-1317-1318-1319-1320-NuWoE.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "eb0ddd6dc5b92b382662446cefe47b39",
+      "Date" : "Fri, 21 Aug 2020 15:48:40 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "643b15e4-2892-340b-8763-67ebeaf3a0f9"
+}

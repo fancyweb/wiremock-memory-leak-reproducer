@@ -1,0 +1,18 @@
+{
+  "id" : "4444ff3c-1675-3ecc-b3d7-4190bc2fec84",
+  "request" : {
+    "url" : "/4960/4961/4962/4963",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-4960-4961-4962-4963-adArq.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "3b95d3ccc0b6833bc5e7c2ca793f4072",
+      "Date" : "Fri, 21 Aug 2020 15:43:34 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "4444ff3c-1675-3ecc-b3d7-4190bc2fec84"
+}

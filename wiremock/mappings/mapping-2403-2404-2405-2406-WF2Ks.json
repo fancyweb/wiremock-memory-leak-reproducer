@@ -1,0 +1,18 @@
+{
+  "id" : "48a7c315-5036-3b7a-b2d0-e1cc243b76c8",
+  "request" : {
+    "url" : "/2403/2404/2405/2406",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-2403-2404-2405-2406-WF2Ks.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "50a605dbf2649cd45ffd58a35ca5402f",
+      "Date" : "Fri, 21 Aug 2020 15:51:05 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "48a7c315-5036-3b7a-b2d0-e1cc243b76c8"
+}

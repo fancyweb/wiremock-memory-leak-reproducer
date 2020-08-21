@@ -1,0 +1,18 @@
+{
+  "id" : "16cac349-b5e4-34e4-980f-0b685a1145db",
+  "request" : {
+    "url" : "/8097/8098/8099/8100",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-8097-8098-8099-8100-BiqHb.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "115f0b5bfcc3500829aacad591240a6c",
+      "Date" : "Fri, 21 Aug 2020 15:56:58 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "16cac349-b5e4-34e4-980f-0b685a1145db"
+}

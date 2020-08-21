@@ -1,0 +1,18 @@
+{
+  "id" : "b61d6440-2701-3e54-ac98-02ddb7ecb614",
+  "request" : {
+    "url" : "/2018/2019/2020/2021",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-2018-2019-2020-2021-exNkM.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "32d6d00a780d0afa29dc787645e32817",
+      "Date" : "Fri, 21 Aug 2020 15:44:26 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "b61d6440-2701-3e54-ac98-02ddb7ecb614"
+}

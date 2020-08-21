@@ -1,0 +1,18 @@
+{
+  "id" : "653e24c3-3258-3e4c-a041-59851ab0bd83",
+  "request" : {
+    "url" : "/7204/7205/7206/7207",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-7204-7205-7206-7207-MtaWH.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "22b27834834c2643191c7479efd26de4",
+      "Date" : "Fri, 21 Aug 2020 15:43:53 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "653e24c3-3258-3e4c-a041-59851ab0bd83"
+}

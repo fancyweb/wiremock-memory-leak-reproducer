@@ -1,0 +1,18 @@
+{
+  "id" : "041bde1e-cece-3c10-b49b-7817a88cdfcd",
+  "request" : {
+    "url" : "/2290/2291/2292/2293",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-2290-2291-2292-2293-CUVCF.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "6f6011f858cc415198955b79ba59e3bc",
+      "Date" : "Fri, 21 Aug 2020 15:44:28 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "041bde1e-cece-3c10-b49b-7817a88cdfcd"
+}

@@ -1,0 +1,18 @@
+{
+  "id" : "5a00b900-2cfc-3980-b9d7-13ce0dddff57",
+  "request" : {
+    "url" : "/2807/2808/2809/2810",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-2807-2808-2809-2810-CPA01.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "db2ee62d964fa8bfb499e9217978b7a6",
+      "Date" : "Fri, 21 Aug 2020 15:51:35 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "5a00b900-2cfc-3980-b9d7-13ce0dddff57"
+}

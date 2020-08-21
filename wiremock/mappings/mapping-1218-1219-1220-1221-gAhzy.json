@@ -1,0 +1,18 @@
+{
+  "id" : "da727890-ee25-349d-9a50-7f89e1250402",
+  "request" : {
+    "url" : "/1218/1219/1220/1221",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-1218-1219-1220-1221-gAhzy.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "a63c7dc5724e6efd558515f7e809e905",
+      "Date" : "Fri, 21 Aug 2020 15:44:23 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "da727890-ee25-349d-9a50-7f89e1250402"
+}

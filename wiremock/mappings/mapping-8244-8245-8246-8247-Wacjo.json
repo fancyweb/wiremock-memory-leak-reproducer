@@ -1,0 +1,18 @@
+{
+  "id" : "d6786024-9479-3ae6-b7eb-f802ab592181",
+  "request" : {
+    "url" : "/8244/8245/8246/8247",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-8244-8245-8246-8247-Wacjo.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "2c446bc91c1c3ee4140146f00ff74b40",
+      "Date" : "Fri, 21 Aug 2020 15:44:58 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "d6786024-9479-3ae6-b7eb-f802ab592181"
+}

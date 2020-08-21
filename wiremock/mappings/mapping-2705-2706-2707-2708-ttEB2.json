@@ -1,0 +1,18 @@
+{
+  "id" : "086f27d5-3b74-3ced-b716-624afb61ae72",
+  "request" : {
+    "url" : "/2705/2706/2707/2708",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-2705-2706-2707-2708-ttEB2.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "2e6f851d35cfbac415a90deb0be335f0",
+      "Date" : "Fri, 21 Aug 2020 15:51:32 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "086f27d5-3b74-3ced-b716-624afb61ae72"
+}

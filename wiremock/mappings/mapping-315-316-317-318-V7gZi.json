@@ -1,0 +1,18 @@
+{
+  "id" : "4f2bddde-fa36-3fc1-86e5-15588d2648c9",
+  "request" : {
+    "url" : "/315/316/317/318",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-315-316-317-318-V7gZi.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "9a3f9f63127a7bdaab9158973cd10e9a",
+      "Date" : "Fri, 21 Aug 2020 15:47:59 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "4f2bddde-fa36-3fc1-86e5-15588d2648c9"
+}

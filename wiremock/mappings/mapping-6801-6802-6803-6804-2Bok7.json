@@ -1,0 +1,18 @@
+{
+  "id" : "0764f0bf-8177-3bdf-9493-103ad508f5f1",
+  "request" : {
+    "url" : "/6801/6802/6803/6804",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-6801-6802-6803-6804-2Bok7.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "c69a4bb8edc0c1d897e701a153b17b09",
+      "Date" : "Fri, 21 Aug 2020 15:56:05 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "0764f0bf-8177-3bdf-9493-103ad508f5f1"
+}

@@ -1,0 +1,18 @@
+{
+  "id" : "2501d884-e7cd-3a2a-a0c5-4d0f8078cf42",
+  "request" : {
+    "url" : "/1228/1229/1230/1231",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-1228-1229-1230-1231-vXRCK.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "7149b5c7f7e0bd7958337f9f397e7179",
+      "Date" : "Fri, 21 Aug 2020 15:43:00 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "2501d884-e7cd-3a2a-a0c5-4d0f8078cf42"
+}

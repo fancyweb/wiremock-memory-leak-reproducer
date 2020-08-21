@@ -1,0 +1,18 @@
+{
+  "id" : "2c32d9e1-24eb-3223-a804-86ca3bf464d2",
+  "request" : {
+    "url" : "/1620/1621/1622/1623",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-1620-1621-1622-1623-dvaUI.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "7ccc7538b2e62b6e1510ea1c4a41608f",
+      "Date" : "Fri, 21 Aug 2020 15:43:03 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "2c32d9e1-24eb-3223-a804-86ca3bf464d2"
+}

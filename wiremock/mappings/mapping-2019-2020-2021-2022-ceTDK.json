@@ -1,0 +1,18 @@
+{
+  "id" : "909fecfb-c282-3b15-8ed4-5d7d73c27720",
+  "request" : {
+    "url" : "/2019/2020/2021/2022",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-2019-2020-2021-2022-ceTDK.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "744de9ed15975453d6f4578882df7f30",
+      "Date" : "Fri, 21 Aug 2020 15:50:54 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "909fecfb-c282-3b15-8ed4-5d7d73c27720"
+}

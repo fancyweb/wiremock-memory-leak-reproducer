@@ -1,0 +1,13 @@
+version: "3"
+
+services:
+    php:
+        image: php:7.4-fpm
+        volumes:
+            - .:/var/www/html:delegated
+
+    wiremock:
+        image: rodolpheche/wiremock:2.27.1
+        volumes:
+            - ./wiremock:/home/wiremock
+        command:  --no-request-journal --proxy-all="http://echo.jsontest.com/" --disable-request-logging

@@ -1,0 +1,18 @@
+{
+  "id" : "9331b111-e8fb-344c-afaf-2515ed993c90",
+  "request" : {
+    "url" : "/1964/1965/1966/1967",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-1964-1965-1966-1967-OQtFG.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "4f26d57047a5d4b145ce1d423ae5e78a",
+      "Date" : "Fri, 21 Aug 2020 15:43:05 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "9331b111-e8fb-344c-afaf-2515ed993c90"
+}

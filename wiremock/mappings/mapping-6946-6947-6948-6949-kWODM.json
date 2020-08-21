@@ -1,0 +1,18 @@
+{
+  "id" : "962dab46-4eb4-3182-a0c8-f34dfb8237cf",
+  "request" : {
+    "url" : "/6946/6947/6948/6949",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-6946-6947-6948-6949-kWODM.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "47fb2211c1925b31611dba03c0bfb1fe",
+      "Date" : "Fri, 21 Aug 2020 15:44:50 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "962dab46-4eb4-3182-a0c8-f34dfb8237cf"
+}

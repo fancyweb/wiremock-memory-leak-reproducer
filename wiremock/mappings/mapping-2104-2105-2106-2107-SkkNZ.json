@@ -1,0 +1,18 @@
+{
+  "id" : "163e5950-0bd0-3f1f-b37d-c43b9a0d6f72",
+  "request" : {
+    "url" : "/2104/2105/2106/2107",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-2104-2105-2106-2107-SkkNZ.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "03a0774cb257b8c435ddca4f0048acca",
+      "Date" : "Fri, 21 Aug 2020 15:43:06 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "163e5950-0bd0-3f1f-b37d-c43b9a0d6f72"
+}

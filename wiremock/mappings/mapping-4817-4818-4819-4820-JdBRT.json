@@ -1,0 +1,18 @@
+{
+  "id" : "83f025d3-c4e3-3c7f-9777-d0930bd949e9",
+  "request" : {
+    "url" : "/4817/4818/4819/4820",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-4817-4818-4819-4820-JdBRT.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "14490d7a445fd72a4e5eb30e9c3d3c1e",
+      "Date" : "Fri, 21 Aug 2020 15:55:07 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "83f025d3-c4e3-3c7f-9777-d0930bd949e9"
+}

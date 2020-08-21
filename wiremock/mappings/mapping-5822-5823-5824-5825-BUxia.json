@@ -1,0 +1,18 @@
+{
+  "id" : "a3d40c62-dbfb-3a9c-bc1c-5a3004364d65",
+  "request" : {
+    "url" : "/5822/5823/5824/5825",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-5822-5823-5824-5825-BUxia.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "0324d610711c45c85fb224b0dbc031db",
+      "Date" : "Fri, 21 Aug 2020 15:55:40 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "a3d40c62-dbfb-3a9c-bc1c-5a3004364d65"
+}

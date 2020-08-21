@@ -1,0 +1,18 @@
+{
+  "id" : "64056047-57c4-37a1-b6ee-0b4acf47a73c",
+  "request" : {
+    "url" : "/9258/9259/9260/9261",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-9258-9259-9260-9261-IHMDS.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "4bd1087f47ff415c0df940f81c306776",
+      "Date" : "Fri, 21 Aug 2020 15:57:30 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "64056047-57c4-37a1-b6ee-0b4acf47a73c"
+}

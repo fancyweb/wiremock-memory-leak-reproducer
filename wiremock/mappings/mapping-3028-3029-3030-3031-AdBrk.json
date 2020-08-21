@@ -1,0 +1,18 @@
+{
+  "id" : "18b47f54-2316-3564-a2e4-32c291b83c13",
+  "request" : {
+    "url" : "/3028/3029/3030/3031",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-3028-3029-3030-3031-AdBrk.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "a3df9a6ab513cdb9007e01dd19296bd2",
+      "Date" : "Fri, 21 Aug 2020 15:43:13 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "18b47f54-2316-3564-a2e4-32c291b83c13"
+}

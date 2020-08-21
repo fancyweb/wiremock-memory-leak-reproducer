@@ -1,0 +1,18 @@
+{
+  "id" : "6ce0e255-3210-339e-a47b-0d6776a4223c",
+  "request" : {
+    "url" : "/160/161/162/163",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-160-161-162-163-LUPY9.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "5b2f155617a56b0cc6cbe04b6adb2dfc",
+      "Date" : "Fri, 21 Aug 2020 15:42:52 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "6ce0e255-3210-339e-a47b-0d6776a4223c"
+}

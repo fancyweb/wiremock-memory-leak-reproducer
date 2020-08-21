@@ -1,0 +1,18 @@
+{
+  "id" : "ad44b6a1-d446-3e9a-8dac-e05992b2b35d",
+  "request" : {
+    "url" : "/2077/2078/2079/2080",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-2077-2078-2079-2080-DiWDL.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "2e76c22e9241deb27a64d7a027f9a3e6",
+      "Date" : "Fri, 21 Aug 2020 15:50:56 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "ad44b6a1-d446-3e9a-8dac-e05992b2b35d"
+}

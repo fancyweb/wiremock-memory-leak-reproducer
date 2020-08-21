@@ -1,0 +1,18 @@
+{
+  "id" : "b72b2ff5-88ac-3374-aa35-f7853b51b43b",
+  "request" : {
+    "url" : "/1954/1955/1956/1957",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-1954-1955-1956-1957-dRZna.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "da2d3bea368b2b13f937b2228bd4ed65",
+      "Date" : "Fri, 21 Aug 2020 15:43:05 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "b72b2ff5-88ac-3374-aa35-f7853b51b43b"
+}

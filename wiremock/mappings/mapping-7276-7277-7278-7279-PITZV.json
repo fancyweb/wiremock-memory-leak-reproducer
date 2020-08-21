@@ -1,0 +1,18 @@
+{
+  "id" : "244e7848-f118-3dfc-956c-afdeabd226d5",
+  "request" : {
+    "url" : "/7276/7277/7278/7279",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-7276-7277-7278-7279-PITZV.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "c3f55201fac8b1241f36fd20e1ed0f23",
+      "Date" : "Fri, 21 Aug 2020 15:43:54 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "244e7848-f118-3dfc-956c-afdeabd226d5"
+}

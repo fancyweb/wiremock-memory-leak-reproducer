@@ -1,0 +1,18 @@
+{
+  "id" : "df35c66f-d549-33cc-be09-4d3c70e65226",
+  "request" : {
+    "url" : "/1180/1181/1182/1183",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-1180-1181-1182-1183-nPoYo.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "ed7b1dcfc84f45c51927b8b21df24696",
+      "Date" : "Fri, 21 Aug 2020 15:42:59 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "df35c66f-d549-33cc-be09-4d3c70e65226"
+}

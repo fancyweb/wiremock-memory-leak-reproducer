@@ -1,0 +1,18 @@
+{
+  "id" : "c3f63475-4e1f-3f8a-bc21-fe396ff2058e",
+  "request" : {
+    "url" : "/5314/5315/5316/5317",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-5314-5315-5316-5317-otkBk.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "7879befd495dd1b8c15c7478696b05f5",
+      "Date" : "Fri, 21 Aug 2020 15:44:42 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "c3f63475-4e1f-3f8a-bc21-fe396ff2058e"
+}

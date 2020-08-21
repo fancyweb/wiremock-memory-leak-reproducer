@@ -1,0 +1,18 @@
+{
+  "id" : "3bd68710-bd65-3c71-a48b-4e570c6ee9b4",
+  "request" : {
+    "url" : "/4917/4918/4919/4920",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-4917-4918-4919-4920-SAmzM.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "8fb1e3c6987820c567139e006a2edc28",
+      "Date" : "Fri, 21 Aug 2020 15:55:09 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "3bd68710-bd65-3c71-a48b-4e570c6ee9b4"
+}

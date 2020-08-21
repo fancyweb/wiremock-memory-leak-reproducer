@@ -1,0 +1,18 @@
+{
+  "id" : "0af41ffc-8fb8-3e81-839b-2f8a398725c7",
+  "request" : {
+    "url" : "/602/603/604/605",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-602-603-604-605-tpf3l.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "eb338031db5307598b9d6a6b8512624b",
+      "Date" : "Fri, 21 Aug 2020 15:44:20 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "0af41ffc-8fb8-3e81-839b-2f8a398725c7"
+}

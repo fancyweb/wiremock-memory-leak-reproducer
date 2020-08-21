@@ -1,0 +1,18 @@
+{
+  "id" : "d8930706-a4ba-33ec-90be-d54bf355ea6e",
+  "request" : {
+    "url" : "/1997/1998/1999/2000",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-1997-1998-1999-2000-lCA6S.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "863b9b06f92e584fcfb9c1e0eaa34458",
+      "Date" : "Fri, 21 Aug 2020 15:49:09 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "d8930706-a4ba-33ec-90be-d54bf355ea6e"
+}

@@ -1,0 +1,18 @@
+{
+  "id" : "d64a8815-095e-3611-a10e-faadb74a2c41",
+  "request" : {
+    "url" : "/668/669/670/671",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-668-669-670-671-CnrA4.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "a9620b3ffeca3338be985c283ab23703",
+      "Date" : "Fri, 21 Aug 2020 15:42:56 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "d64a8815-095e-3611-a10e-faadb74a2c41"
+}

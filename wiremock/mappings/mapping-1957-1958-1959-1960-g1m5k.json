@@ -1,0 +1,18 @@
+{
+  "id" : "46cc5d75-644a-32b6-95f8-aed0feaa97eb",
+  "request" : {
+    "url" : "/1957/1958/1959/1960",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-1957-1958-1959-1960-g1m5k.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "a88153787337673ac994eb79426f70b9",
+      "Date" : "Fri, 21 Aug 2020 15:50:39 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "46cc5d75-644a-32b6-95f8-aed0feaa97eb"
+}

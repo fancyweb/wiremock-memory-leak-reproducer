@@ -1,0 +1,18 @@
+{
+  "id" : "38396e9f-5372-3b81-8218-569bca6ce7a8",
+  "request" : {
+    "url" : "/1939/1940/1941/1942",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-1939-1940-1941-1942-HtUWl.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "b4d7edc7e8c764e15d5c5c1883a86367",
+      "Date" : "Fri, 21 Aug 2020 15:49:08 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "38396e9f-5372-3b81-8218-569bca6ce7a8"
+}

@@ -1,0 +1,18 @@
+{
+  "id" : "27f86b6b-828e-342e-a973-8def89dbc9ba",
+  "request" : {
+    "url" : "/6481/6482/6483/6484",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-6481-6482-6483-6484-BadeJ.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "33c8004b6b8ca0e29f692964f23b01c6",
+      "Date" : "Fri, 21 Aug 2020 15:55:51 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "27f86b6b-828e-342e-a973-8def89dbc9ba"
+}

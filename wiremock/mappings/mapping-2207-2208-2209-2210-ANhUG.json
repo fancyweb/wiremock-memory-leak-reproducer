@@ -1,0 +1,18 @@
+{
+  "id" : "809c0d9f-8e8e-3271-88c0-00aec1f76433",
+  "request" : {
+    "url" : "/2207/2208/2209/2210",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-2207-2208-2209-2210-ANhUG.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "c9cbd8d89386da6b70339e82b862bffa",
+      "Date" : "Fri, 21 Aug 2020 15:50:59 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "809c0d9f-8e8e-3271-88c0-00aec1f76433"
+}

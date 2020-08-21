@@ -1,0 +1,18 @@
+{
+  "id" : "8641c3d5-3979-32a1-88af-30fbce0e2136",
+  "request" : {
+    "url" : "/2004/2005/2006/2007",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-2004-2005-2006-2007-csW2I.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "e654fa32b136d390d92f6c466490a40b",
+      "Date" : "Fri, 21 Aug 2020 15:43:06 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "8641c3d5-3979-32a1-88af-30fbce0e2136"
+}

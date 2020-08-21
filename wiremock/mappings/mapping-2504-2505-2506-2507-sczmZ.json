@@ -1,0 +1,18 @@
+{
+  "id" : "8aac7f73-8a1f-33ff-afdf-a303b235ff54",
+  "request" : {
+    "url" : "/2504/2505/2506/2507",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-2504-2505-2506-2507-sczmZ.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "66c0dab086c72f8551164a8de2a905f4",
+      "Date" : "Fri, 21 Aug 2020 15:43:09 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "8aac7f73-8a1f-33ff-afdf-a303b235ff54"
+}

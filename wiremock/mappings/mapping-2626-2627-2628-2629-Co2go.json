@@ -1,0 +1,18 @@
+{
+  "id" : "bac41553-0b45-3f3d-b84b-eff96c2ba3a8",
+  "request" : {
+    "url" : "/2626/2627/2628/2629",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-2626-2627-2628-2629-Co2go.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "ef83154fd6a885387476aba1e81a7b07",
+      "Date" : "Fri, 21 Aug 2020 15:44:29 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "bac41553-0b45-3f3d-b84b-eff96c2ba3a8"
+}

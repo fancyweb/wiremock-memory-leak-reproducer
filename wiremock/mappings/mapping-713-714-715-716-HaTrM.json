@@ -1,0 +1,18 @@
+{
+  "id" : "bedb92d3-094d-31b4-a596-f292d69327ed",
+  "request" : {
+    "url" : "/713/714/715/716",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-713-714-715-716-HaTrM.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "0f41515a6dcf5a5a3d757d287652efb2",
+      "Date" : "Fri, 21 Aug 2020 15:48:20 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "bedb92d3-094d-31b4-a596-f292d69327ed"
+}

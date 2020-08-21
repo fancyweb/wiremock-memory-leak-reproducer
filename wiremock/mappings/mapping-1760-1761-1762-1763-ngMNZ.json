@@ -1,0 +1,18 @@
+{
+  "id" : "3a37148b-2b6c-3f38-ae86-8b8a28636d35",
+  "request" : {
+    "url" : "/1760/1761/1762/1763",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-1760-1761-1762-1763-ngMNZ.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "7d480e059ea3f8aa56c56111f4d1df96",
+      "Date" : "Fri, 21 Aug 2020 15:43:04 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "3a37148b-2b6c-3f38-ae86-8b8a28636d35"
+}

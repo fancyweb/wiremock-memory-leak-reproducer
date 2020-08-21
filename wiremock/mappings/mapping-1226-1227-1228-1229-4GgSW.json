@@ -1,0 +1,18 @@
+{
+  "id" : "8b516b5a-ecf7-3faf-96ec-26111c13fdbb",
+  "request" : {
+    "url" : "/1226/1227/1228/1229",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-1226-1227-1228-1229-4GgSW.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "b21752d98b317a353a55cd11fc5806c1",
+      "Date" : "Fri, 21 Aug 2020 15:44:23 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "8b516b5a-ecf7-3faf-96ec-26111c13fdbb"
+}

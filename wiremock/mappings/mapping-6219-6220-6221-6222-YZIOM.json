@@ -1,0 +1,18 @@
+{
+  "id" : "6c5ec156-4f99-31dd-9ba2-e6fe9fcaf301",
+  "request" : {
+    "url" : "/6219/6220/6221/6222",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-6219-6220-6221-6222-YZIOM.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "7098565ed51d56a0cbb9cf96ca12d3e1",
+      "Date" : "Fri, 21 Aug 2020 15:55:46 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "6c5ec156-4f99-31dd-9ba2-e6fe9fcaf301"
+}

@@ -1,0 +1,18 @@
+{
+  "id" : "89334b0d-d194-32bc-a120-7d0f29080411",
+  "request" : {
+    "url" : "/2068/2069/2070/2071",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-2068-2069-2070-2071-bTEnC.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "a5a2c6e5a2824b043ef2d0fe1f66b714",
+      "Date" : "Fri, 21 Aug 2020 15:43:06 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "89334b0d-d194-32bc-a120-7d0f29080411"
+}

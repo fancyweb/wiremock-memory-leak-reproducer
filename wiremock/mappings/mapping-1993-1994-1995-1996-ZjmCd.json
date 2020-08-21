@@ -1,0 +1,18 @@
+{
+  "id" : "bae6650a-5c18-3588-ad51-0e7c93c8e35f",
+  "request" : {
+    "url" : "/1993/1994/1995/1996",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-1993-1994-1995-1996-ZjmCd.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "a5a54598c796dc5b76173cbe301202c5",
+      "Date" : "Fri, 21 Aug 2020 15:49:09 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "bae6650a-5c18-3588-ad51-0e7c93c8e35f"
+}

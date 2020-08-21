@@ -1,0 +1,18 @@
+{
+  "id" : "96db351c-e726-3040-9c36-bf0e03116998",
+  "request" : {
+    "url" : "/5212/5213/5214/5215",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-5212-5213-5214-5215-KR6r4.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "d7d57bdef635a00e894abdf6068f64c0",
+      "Date" : "Fri, 21 Aug 2020 15:43:36 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "96db351c-e726-3040-9c36-bf0e03116998"
+}

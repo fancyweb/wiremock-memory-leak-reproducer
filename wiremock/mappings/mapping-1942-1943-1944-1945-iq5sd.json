@@ -1,0 +1,18 @@
+{
+  "id" : "907c83f4-5cfc-3603-936e-ed4d430c4551",
+  "request" : {
+    "url" : "/1942/1943/1944/1945",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-1942-1943-1944-1945-iq5sd.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "f06dfb28cedc1e93a115548ba7e70bc6",
+      "Date" : "Fri, 21 Aug 2020 15:44:26 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "907c83f4-5cfc-3603-936e-ed4d430c4551"
+}

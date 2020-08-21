@@ -1,0 +1,18 @@
+{
+  "id" : "2d82db5c-7f8c-3580-9205-6a4bdcf9d44f",
+  "request" : {
+    "url" : "/4982/4983/4984/4985",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-4982-4983-4984-4985-rIpER.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "d6093aa71222d0ef0026df1dd94be804",
+      "Date" : "Fri, 21 Aug 2020 15:55:14 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "2d82db5c-7f8c-3580-9205-6a4bdcf9d44f"
+}

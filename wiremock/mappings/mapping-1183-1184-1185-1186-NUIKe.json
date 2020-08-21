@@ -1,0 +1,18 @@
+{
+  "id" : "48f310df-b652-31a6-b5fc-36fad3e6a797",
+  "request" : {
+    "url" : "/1183/1184/1185/1186",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-1183-1184-1185-1186-NUIKe.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "57eb7d2a626cdf788490e213d8722ac0",
+      "Date" : "Fri, 21 Aug 2020 15:48:37 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "48f310df-b652-31a6-b5fc-36fad3e6a797"
+}

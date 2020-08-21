@@ -1,0 +1,18 @@
+{
+  "id" : "d25b4c5e-aa01-33d1-a0fc-6246cc486fdd",
+  "request" : {
+    "url" : "/66/67/68/69",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-66-67-68-69-LAJFK.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "1801772e16027557366da5f64a94c5dc",
+      "Date" : "Fri, 21 Aug 2020 15:42:51 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "d25b4c5e-aa01-33d1-a0fc-6246cc486fdd"
+}

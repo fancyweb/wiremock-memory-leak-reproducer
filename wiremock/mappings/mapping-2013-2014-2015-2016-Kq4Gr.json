@@ -1,0 +1,18 @@
+{
+  "id" : "0bfad488-6596-3da1-b7d0-e9d027971ea9",
+  "request" : {
+    "url" : "/2013/2014/2015/2016",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-2013-2014-2015-2016-Kq4Gr.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "287055ce7c16530b6cd9d440a7db911f",
+      "Date" : "Fri, 21 Aug 2020 15:50:54 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "0bfad488-6596-3da1-b7d0-e9d027971ea9"
+}

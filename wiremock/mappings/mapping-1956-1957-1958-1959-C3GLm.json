@@ -1,0 +1,18 @@
+{
+  "id" : "ad00f44e-9802-3ce1-af5b-7a9504d3ce74",
+  "request" : {
+    "url" : "/1956/1957/1958/1959",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-1956-1957-1958-1959-C3GLm.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "304b4860de12bf401b426a8ad2bd6857",
+      "Date" : "Fri, 21 Aug 2020 15:49:08 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "ad00f44e-9802-3ce1-af5b-7a9504d3ce74"
+}

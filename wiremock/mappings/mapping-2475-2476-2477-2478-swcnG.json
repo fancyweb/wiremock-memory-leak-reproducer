@@ -1,0 +1,18 @@
+{
+  "id" : "dfb571ab-0470-38b1-bed1-070c911b6c82",
+  "request" : {
+    "url" : "/2475/2476/2477/2478",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-2475-2476-2477-2478-swcnG.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "0220305798a8f8446703d07fa4772895",
+      "Date" : "Fri, 21 Aug 2020 15:51:16 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "dfb571ab-0470-38b1-bed1-070c911b6c82"
+}

@@ -1,0 +1,18 @@
+{
+  "id" : "afda278c-606c-338d-9fa5-b63d2653e229",
+  "request" : {
+    "url" : "/7219/7220/7221/7222",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-7219-7220-7221-7222-Ch9Bd.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "2a987e99d0bd98277079f64f5a314a69",
+      "Date" : "Fri, 21 Aug 2020 15:56:17 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "afda278c-606c-338d-9fa5-b63d2653e229"
+}

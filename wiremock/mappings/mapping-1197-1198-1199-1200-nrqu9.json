@@ -1,0 +1,18 @@
+{
+  "id" : "5c3daba5-cdb1-3610-9e23-7cc038f6cc7c",
+  "request" : {
+    "url" : "/1197/1198/1199/1200",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-1197-1198-1199-1200-nrqu9.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "8d05d15cf4cff94deb7b768e57c342d6",
+      "Date" : "Fri, 21 Aug 2020 15:48:37 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "5c3daba5-cdb1-3610-9e23-7cc038f6cc7c"
+}

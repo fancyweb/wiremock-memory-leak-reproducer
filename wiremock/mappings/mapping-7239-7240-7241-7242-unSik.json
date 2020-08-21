@@ -1,0 +1,18 @@
+{
+  "id" : "63150178-ff81-322e-a282-fc3739f483aa",
+  "request" : {
+    "url" : "/7239/7240/7241/7242",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-7239-7240-7241-7242-unSik.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "9c3888b201a78c8f30899f03dbf64532",
+      "Date" : "Fri, 21 Aug 2020 15:56:17 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "63150178-ff81-322e-a282-fc3739f483aa"
+}

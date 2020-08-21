@@ -1,0 +1,18 @@
+{
+  "id" : "a469a9a6-1243-3bdd-87d1-81cd74e7e002",
+  "request" : {
+    "url" : "/7304/7305/7306/7307",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-7304-7305-7306-7307-legUM.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "bae34e5c82250680c7cacf8f7b7107e3",
+      "Date" : "Fri, 21 Aug 2020 15:44:52 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "a469a9a6-1243-3bdd-87d1-81cd74e7e002"
+}

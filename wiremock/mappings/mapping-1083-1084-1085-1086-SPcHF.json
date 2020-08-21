@@ -1,0 +1,18 @@
+{
+  "id" : "fc517ad9-5c98-3220-9cd3-cdbdef8c43a8",
+  "request" : {
+    "url" : "/1083/1084/1085/1086",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-1083-1084-1085-1086-SPcHF.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "75ab10ed6c2ccf9959a7ab9482866de6",
+      "Date" : "Fri, 21 Aug 2020 15:48:35 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "fc517ad9-5c98-3220-9cd3-cdbdef8c43a8"
+}

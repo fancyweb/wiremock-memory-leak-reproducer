@@ -1,0 +1,18 @@
+{
+  "id" : "c52fbcb7-9b48-37be-8372-c76f76f63976",
+  "request" : {
+    "url" : "/7124/7125/7126/7127",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-7124-7125-7126-7127-cguGP.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "cc775588c668b1ef33086ee133f4266c",
+      "Date" : "Fri, 21 Aug 2020 15:44:51 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "c52fbcb7-9b48-37be-8372-c76f76f63976"
+}

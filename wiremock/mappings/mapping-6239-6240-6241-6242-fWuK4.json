@@ -1,0 +1,18 @@
+{
+  "id" : "5027ea54-4ff8-3d89-88ae-18321281ee4c",
+  "request" : {
+    "url" : "/6239/6240/6241/6242",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-6239-6240-6241-6242-fWuK4.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "163141194e1b77fd91b26ff78a7d7b2b",
+      "Date" : "Fri, 21 Aug 2020 15:55:47 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "5027ea54-4ff8-3d89-88ae-18321281ee4c"
+}

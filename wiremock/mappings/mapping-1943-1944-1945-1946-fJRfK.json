@@ -1,0 +1,18 @@
+{
+  "id" : "fcf1f80c-aeb3-3484-89cf-dc636ada2699",
+  "request" : {
+    "url" : "/1943/1944/1945/1946",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-1943-1944-1945-1946-fJRfK.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "e71711c9d6e117214da540bc8afd1c3a",
+      "Date" : "Fri, 21 Aug 2020 15:49:08 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "fcf1f80c-aeb3-3484-89cf-dc636ada2699"
+}

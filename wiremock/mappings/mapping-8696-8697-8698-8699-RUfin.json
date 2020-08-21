@@ -1,0 +1,18 @@
+{
+  "id" : "dc8d400b-6d09-3813-a7b6-3590b38411c5",
+  "request" : {
+    "url" : "/8696/8697/8698/8699",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-8696-8697-8698-8699-RUfin.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "801defd3498ef02ba003b29380ceef16",
+      "Date" : "Fri, 21 Aug 2020 15:57:12 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "dc8d400b-6d09-3813-a7b6-3590b38411c5"
+}

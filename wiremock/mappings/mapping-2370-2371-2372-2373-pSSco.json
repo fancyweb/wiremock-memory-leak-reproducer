@@ -1,0 +1,18 @@
+{
+  "id" : "bace18b2-ffc8-38fc-8101-c85c2fe1b7a9",
+  "request" : {
+    "url" : "/2370/2371/2372/2373",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-2370-2371-2372-2373-pSSco.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "f13349ee3b528c656f6037eb19794d5e",
+      "Date" : "Fri, 21 Aug 2020 15:44:28 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "bace18b2-ffc8-38fc-8101-c85c2fe1b7a9"
+}

@@ -1,0 +1,18 @@
+{
+  "id" : "f32796e5-8cbd-3ada-a9f0-cc8772360c4d",
+  "request" : {
+    "url" : "/6687/6688/6689/6690",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-6687-6688-6689-6690-RumdT.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "3a566944c0a8776b8324aa8a9e510dd3",
+      "Date" : "Fri, 21 Aug 2020 15:56:11 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "f32796e5-8cbd-3ada-a9f0-cc8772360c4d"
+}

@@ -1,0 +1,18 @@
+{
+  "id" : "40c4b04f-f1ad-3a89-8e02-6d4d3bf87886",
+  "request" : {
+    "url" : "/1990/1991/1992/1993",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-1990-1991-1992-1993-vEc2B.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "def1923d1a46585a99e76700cbf8d3c5",
+      "Date" : "Fri, 21 Aug 2020 15:43:05 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "40c4b04f-f1ad-3a89-8e02-6d4d3bf87886"
+}

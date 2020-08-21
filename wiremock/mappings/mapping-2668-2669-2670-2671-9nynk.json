@@ -1,0 +1,18 @@
+{
+  "id" : "d4cf88da-cfcd-38f3-913c-43d1d11be933",
+  "request" : {
+    "url" : "/2668/2669/2670/2671",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-2668-2669-2670-2671-9nynk.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "11f443a57797140e996af0d04a34c5b2",
+      "Date" : "Fri, 21 Aug 2020 15:43:11 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "d4cf88da-cfcd-38f3-913c-43d1d11be933"
+}

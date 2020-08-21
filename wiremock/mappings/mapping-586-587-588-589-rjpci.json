@@ -1,0 +1,18 @@
+{
+  "id" : "13140cab-bfe7-35fa-9450-e9c8c43d00a0",
+  "request" : {
+    "url" : "/586/587/588/589",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-586-587-588-589-rjpci.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "bd218c4e7fe8d7c167461aec2d4becd3",
+      "Date" : "Fri, 21 Aug 2020 15:44:20 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "13140cab-bfe7-35fa-9450-e9c8c43d00a0"
+}

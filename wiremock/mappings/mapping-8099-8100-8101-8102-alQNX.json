@@ -1,0 +1,18 @@
+{
+  "id" : "c085bd5f-9b2d-3cc1-8d92-173d13698bb6",
+  "request" : {
+    "url" : "/8099/8100/8101/8102",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-8099-8100-8101-8102-alQNX.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "39c2d6cdc8b87bc973dc3e86f5ed5429",
+      "Date" : "Fri, 21 Aug 2020 15:56:57 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "c085bd5f-9b2d-3cc1-8d92-173d13698bb6"
+}

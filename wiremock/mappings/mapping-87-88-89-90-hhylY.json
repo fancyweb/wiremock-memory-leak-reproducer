@@ -1,0 +1,18 @@
+{
+  "id" : "f269b1f2-f35a-3c94-b534-e53b17e4f71f",
+  "request" : {
+    "url" : "/87/88/89/90",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-87-88-89-90-hhylY.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "60e11d19fea43d998e6dd64ef8f4dfd7",
+      "Date" : "Fri, 21 Aug 2020 15:47:53 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "f269b1f2-f35a-3c94-b534-e53b17e4f71f"
+}

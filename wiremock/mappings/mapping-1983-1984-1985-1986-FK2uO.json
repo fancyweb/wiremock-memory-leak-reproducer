@@ -1,0 +1,18 @@
+{
+  "id" : "d3334f6d-3d92-39a2-9587-37f7da35a6bd",
+  "request" : {
+    "url" : "/1983/1984/1985/1986",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-1983-1984-1985-1986-FK2uO.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "e62100ff48852e2dcb3683b9b9eab6dd",
+      "Date" : "Fri, 21 Aug 2020 15:49:09 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "d3334f6d-3d92-39a2-9587-37f7da35a6bd"
+}

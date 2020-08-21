@@ -1,0 +1,18 @@
+{
+  "id" : "47757544-f28a-3967-a10b-55c55f400568",
+  "request" : {
+    "url" : "/1952/1953/1954/1955",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-1952-1953-1954-1955-TZ2uZ.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "a95211cc81115062c5c7a79006e4af1f",
+      "Date" : "Fri, 21 Aug 2020 15:43:05 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "47757544-f28a-3967-a10b-55c55f400568"
+}

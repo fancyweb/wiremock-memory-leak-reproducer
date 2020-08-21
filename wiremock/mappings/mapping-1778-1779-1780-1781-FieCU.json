@@ -1,0 +1,18 @@
+{
+  "id" : "4e2bd035-d7cc-30cd-8ae9-56e10a4f04bf",
+  "request" : {
+    "url" : "/1778/1779/1780/1781",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-1778-1779-1780-1781-FieCU.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "da625d6c0756d7fb8b9a83079d6fa49d",
+      "Date" : "Fri, 21 Aug 2020 15:44:25 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "4e2bd035-d7cc-30cd-8ae9-56e10a4f04bf"
+}

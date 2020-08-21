@@ -1,0 +1,18 @@
+{
+  "id" : "6a6e7edd-a57c-334f-b3be-5044cd6fe7c6",
+  "request" : {
+    "url" : "/8013/8014/8015/8016",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-8013-8014-8015-8016-NACP1.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "aa7320d3a65f5eef9cce9d5e29627c8e",
+      "Date" : "Fri, 21 Aug 2020 15:56:49 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "6a6e7edd-a57c-334f-b3be-5044cd6fe7c6"
+}

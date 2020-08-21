@@ -1,0 +1,18 @@
+{
+  "id" : "1dd4874a-94bd-3987-8499-8aa531b164d0",
+  "request" : {
+    "url" : "/8011/8012/8013/8014",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-8011-8012-8013-8014-KnogJ.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "9cffa9efa9ea808c2cd6f15719c558f7",
+      "Date" : "Fri, 21 Aug 2020 15:57:00 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "1dd4874a-94bd-3987-8499-8aa531b164d0"
+}

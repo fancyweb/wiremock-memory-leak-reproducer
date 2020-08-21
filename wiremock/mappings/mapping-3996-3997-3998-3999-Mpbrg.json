@@ -1,0 +1,18 @@
+{
+  "id" : "ae1f2ff8-87ba-33f5-86b4-13eaf99f6b68",
+  "request" : {
+    "url" : "/3996/3997/3998/3999",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-3996-3997-3998-3999-Mpbrg.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "a3157ca9a7a2c0ac195fd29d9cca7dda",
+      "Date" : "Fri, 21 Aug 2020 15:43:23 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "ae1f2ff8-87ba-33f5-86b4-13eaf99f6b68"
+}

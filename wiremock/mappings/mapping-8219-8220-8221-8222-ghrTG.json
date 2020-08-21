@@ -1,0 +1,18 @@
+{
+  "id" : "ba0bd306-4495-37ba-9aa3-0cad6541ee91",
+  "request" : {
+    "url" : "/8219/8220/8221/8222",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-8219-8220-8221-8222-ghrTG.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "6bc8cdc5d05ad241e923b43fa8af2a10",
+      "Date" : "Fri, 21 Aug 2020 15:56:52 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "ba0bd306-4495-37ba-9aa3-0cad6541ee91"
+}

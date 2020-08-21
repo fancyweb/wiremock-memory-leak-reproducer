@@ -1,0 +1,18 @@
+{
+  "id" : "0a9a340d-983c-3a3a-a088-49b789748632",
+  "request" : {
+    "url" : "/1395/1396/1397/1398",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-1395-1396-1397-1398-MIeuf.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "d21a9bb692fc0909cc203d9741258210",
+      "Date" : "Fri, 21 Aug 2020 15:48:47 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "0a9a340d-983c-3a3a-a088-49b789748632"
+}

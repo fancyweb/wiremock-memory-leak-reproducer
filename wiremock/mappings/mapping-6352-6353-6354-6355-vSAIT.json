@@ -1,0 +1,18 @@
+{
+  "id" : "16d77ebf-2b9b-358b-a097-583e92fa7ce3",
+  "request" : {
+    "url" : "/6352/6353/6354/6355",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-6352-6353-6354-6355-vSAIT.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "14c4660370c31b3df1e7e540e7b9bc36",
+      "Date" : "Fri, 21 Aug 2020 15:43:46 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "16d77ebf-2b9b-358b-a097-583e92fa7ce3"
+}

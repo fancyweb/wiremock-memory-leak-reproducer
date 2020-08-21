@@ -1,0 +1,18 @@
+{
+  "id" : "74922207-a80f-3339-ac5a-1bb36e0a4a80",
+  "request" : {
+    "url" : "/6100/6101/6102/6103",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-6100-6101-6102-6103-StXWb.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "f555352bb347086499736707c9d1eac0",
+      "Date" : "Fri, 21 Aug 2020 15:43:44 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "74922207-a80f-3339-ac5a-1bb36e0a4a80"
+}

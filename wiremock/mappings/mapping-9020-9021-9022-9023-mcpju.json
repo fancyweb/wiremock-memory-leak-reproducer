@@ -1,0 +1,18 @@
+{
+  "id" : "a7ad6b07-194c-3901-aab1-bfa523ecc878",
+  "request" : {
+    "url" : "/9020/9021/9022/9023",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-9020-9021-9022-9023-mcpju.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "4050b7d0850ffe90f5269efc387efaf7",
+      "Date" : "Fri, 21 Aug 2020 15:44:09 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "a7ad6b07-194c-3901-aab1-bfa523ecc878"
+}

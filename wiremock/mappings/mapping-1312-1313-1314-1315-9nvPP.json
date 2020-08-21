@@ -1,0 +1,18 @@
+{
+  "id" : "dfc6aea2-8cd5-3696-b20f-66ed68e0284f",
+  "request" : {
+    "url" : "/1312/1313/1314/1315",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-1312-1313-1314-1315-9nvPP.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "2f9b165e74c1cc8bc72e483da9f69632",
+      "Date" : "Fri, 21 Aug 2020 15:43:00 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "dfc6aea2-8cd5-3696-b20f-66ed68e0284f"
+}

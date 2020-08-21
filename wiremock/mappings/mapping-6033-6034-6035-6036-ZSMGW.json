@@ -1,0 +1,18 @@
+{
+  "id" : "15746584-7b00-30c3-98f8-3bf8b92ad39f",
+  "request" : {
+    "url" : "/6033/6034/6035/6036",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-6033-6034-6035-6036-ZSMGW.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "06d13bb7bd46fbfc609e5c9990142ad1",
+      "Date" : "Fri, 21 Aug 2020 15:55:43 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "15746584-7b00-30c3-98f8-3bf8b92ad39f"
+}

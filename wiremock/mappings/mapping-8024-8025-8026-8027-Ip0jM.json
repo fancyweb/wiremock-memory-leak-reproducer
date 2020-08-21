@@ -1,0 +1,18 @@
+{
+  "id" : "18689ed9-961f-3c4b-969b-fadc11207781",
+  "request" : {
+    "url" : "/8024/8025/8026/8027",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-8024-8025-8026-8027-Ip0jM.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "f41569b58f37002bf1773bdf018baba7",
+      "Date" : "Fri, 21 Aug 2020 15:57:01 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "18689ed9-961f-3c4b-969b-fadc11207781"
+}

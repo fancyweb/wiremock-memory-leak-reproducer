@@ -1,0 +1,18 @@
+{
+  "id" : "ba38092f-de94-31c8-9ca9-e768966e0361",
+  "request" : {
+    "url" : "/2893/2894/2895/2896",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-2893-2894-2895-2896-ZDILU.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "39b5025c38b29fdbed2d1a94ef186321",
+      "Date" : "Fri, 21 Aug 2020 15:51:38 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "ba38092f-de94-31c8-9ca9-e768966e0361"
+}

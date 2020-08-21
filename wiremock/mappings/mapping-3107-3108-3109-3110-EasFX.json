@@ -1,0 +1,18 @@
+{
+  "id" : "29230c99-a2d5-3e81-bc07-1e34103e3be1",
+  "request" : {
+    "url" : "/3107/3108/3109/3110",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-3107-3108-3109-3110-EasFX.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "d702061f39ca1ccf95f80450b5f6371d",
+      "Date" : "Fri, 21 Aug 2020 15:52:04 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "29230c99-a2d5-3e81-bc07-1e34103e3be1"
+}

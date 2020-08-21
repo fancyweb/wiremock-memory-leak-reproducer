@@ -1,0 +1,18 @@
+{
+  "id" : "440f4a8d-a675-3301-b6a2-883980300d49",
+  "request" : {
+    "url" : "/2470/2471/2472/2473",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-2470-2471-2472-2473-TCwEX.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "171a78f3bd9b42a170af9d7ef9ff91d2",
+      "Date" : "Fri, 21 Aug 2020 15:51:25 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "440f4a8d-a675-3301-b6a2-883980300d49"
+}

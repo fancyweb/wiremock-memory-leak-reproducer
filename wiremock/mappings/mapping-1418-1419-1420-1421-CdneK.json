@@ -1,0 +1,18 @@
+{
+  "id" : "e67f1bc7-0784-3893-8e9e-a82d91db3690",
+  "request" : {
+    "url" : "/1418/1419/1420/1421",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-1418-1419-1420-1421-CdneK.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "9ec10269c8b40fa3dc8d93b5302bfcb5",
+      "Date" : "Fri, 21 Aug 2020 15:48:56 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "e67f1bc7-0784-3893-8e9e-a82d91db3690"
+}

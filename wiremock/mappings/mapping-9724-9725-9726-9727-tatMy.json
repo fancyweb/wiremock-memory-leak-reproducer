@@ -1,0 +1,18 @@
+{
+  "id" : "9e599534-e311-3063-a018-46fe992ea654",
+  "request" : {
+    "url" : "/9724/9725/9726/9727",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-9724-9725-9726-9727-tatMy.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "b12d5ba95549db399c16846f50ae3673",
+      "Date" : "Fri, 21 Aug 2020 15:44:15 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "9e599534-e311-3063-a018-46fe992ea654"
+}

@@ -1,0 +1,18 @@
+{
+  "id" : "abbdac54-d003-3ec9-85d9-8906f88ac51f",
+  "request" : {
+    "url" : "/1876/1877/1878/1879",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-1876-1877-1878-1879-ItQUA.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "0c26feae96e2d7e1bfcbb067eb925b96",
+      "Date" : "Fri, 21 Aug 2020 15:43:05 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "abbdac54-d003-3ec9-85d9-8906f88ac51f"
+}

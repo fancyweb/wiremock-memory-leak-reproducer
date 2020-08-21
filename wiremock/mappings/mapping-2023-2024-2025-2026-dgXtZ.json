@@ -1,0 +1,18 @@
+{
+  "id" : "576e56ac-7b01-3187-a841-056826ee1c1c",
+  "request" : {
+    "url" : "/2023/2024/2025/2026",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-2023-2024-2025-2026-dgXtZ.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "9ccc2ecd77c390f8f0d8c487cb296e92",
+      "Date" : "Fri, 21 Aug 2020 15:50:54 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "576e56ac-7b01-3187-a841-056826ee1c1c"
+}

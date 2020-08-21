@@ -1,0 +1,18 @@
+{
+  "id" : "0aa3a697-9e82-37f7-b07a-2c15f1dff8a9",
+  "request" : {
+    "url" : "/1236/1237/1238/1239",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-1236-1237-1238-1239-HRYQP.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "68d5ba1d6907ea7b388ae272239c83af",
+      "Date" : "Fri, 21 Aug 2020 15:43:00 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "0aa3a697-9e82-37f7-b07a-2c15f1dff8a9"
+}

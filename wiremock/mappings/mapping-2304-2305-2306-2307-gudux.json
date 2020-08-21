@@ -1,0 +1,18 @@
+{
+  "id" : "e47550b8-cf67-3537-86fe-4787ee35da32",
+  "request" : {
+    "url" : "/2304/2305/2306/2307",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-2304-2305-2306-2307-gudux.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "10abe52b374438b772812c1f36db2016",
+      "Date" : "Fri, 21 Aug 2020 15:51:19 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "e47550b8-cf67-3537-86fe-4787ee35da32"
+}

@@ -1,0 +1,18 @@
+{
+  "id" : "ef25ea3b-2088-370c-b752-e53d27d3e2cc",
+  "request" : {
+    "url" : "/268/269/270/271",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-268-269-270-271-xBy7o.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "0f4c8a727a98b0d9b100f43b76c06100",
+      "Date" : "Fri, 21 Aug 2020 15:44:19 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "ef25ea3b-2088-370c-b752-e53d27d3e2cc"
+}

@@ -1,0 +1,18 @@
+{
+  "id" : "f86d3d81-41b8-3690-b10b-cfa104163133",
+  "request" : {
+    "url" : "/80/81/82/83",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-80-81-82-83-fayo5.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "44589e6802f71fb0224bc7d8bfd60412",
+      "Date" : "Fri, 21 Aug 2020 15:42:51 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "f86d3d81-41b8-3690-b10b-cfa104163133"
+}

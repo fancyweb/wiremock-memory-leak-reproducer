@@ -1,0 +1,18 @@
+{
+  "id" : "47f83714-8597-3a52-9767-9401dc32002e",
+  "request" : {
+    "url" : "/6248/6249/6250/6251",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-6248-6249-6250-6251-GIgDD.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "579dcf2836034f87928345132e9c7d25",
+      "Date" : "Fri, 21 Aug 2020 15:43:45 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "47f83714-8597-3a52-9767-9401dc32002e"
+}

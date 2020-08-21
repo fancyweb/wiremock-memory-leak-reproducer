@@ -1,0 +1,18 @@
+{
+  "id" : "70a96629-454e-35e7-af24-d16ff0958d5d",
+  "request" : {
+    "url" : "/3469/3470/3471/3472",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-3469-3470-3471-3472-DIaNP.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "a668ce55059a7986a3a5b8dd93269fd0",
+      "Date" : "Fri, 21 Aug 2020 15:52:16 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "70a96629-454e-35e7-af24-d16ff0958d5d"
+}

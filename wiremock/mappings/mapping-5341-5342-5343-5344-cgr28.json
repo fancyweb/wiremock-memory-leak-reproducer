@@ -1,0 +1,18 @@
+{
+  "id" : "949898cd-2627-3bb7-aa3f-d8631aa4cfb4",
+  "request" : {
+    "url" : "/5341/5342/5343/5344",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-5341-5342-5343-5344-cgr28.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "a9de6b949c539661fb9bedce92e16393",
+      "Date" : "Fri, 21 Aug 2020 15:55:19 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "949898cd-2627-3bb7-aa3f-d8631aa4cfb4"
+}

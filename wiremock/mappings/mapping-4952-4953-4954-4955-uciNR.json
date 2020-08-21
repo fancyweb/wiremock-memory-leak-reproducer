@@ -1,0 +1,18 @@
+{
+  "id" : "63a23698-f996-387b-b322-df75f2473360",
+  "request" : {
+    "url" : "/4952/4953/4954/4955",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-4952-4953-4954-4955-uciNR.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "5a7ff38fc9f90ec610316c45d75de8e8",
+      "Date" : "Fri, 21 Aug 2020 15:43:34 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "63a23698-f996-387b-b322-df75f2473360"
+}

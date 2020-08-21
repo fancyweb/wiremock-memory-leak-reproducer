@@ -1,0 +1,18 @@
+{
+  "id" : "e74b129f-9635-35a7-ad1e-fd17777d8076",
+  "request" : {
+    "url" : "/4077/4078/4079/4080",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-4077-4078-4079-4080-lWScg.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "57c7b42ad8acdba32ab59f405b9f0a61",
+      "Date" : "Fri, 21 Aug 2020 15:54:49 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "e74b129f-9635-35a7-ad1e-fd17777d8076"
+}

@@ -1,0 +1,18 @@
+{
+  "id" : "ff1eb5b3-b6a7-359b-b875-c18610e21338",
+  "request" : {
+    "url" : "/2222/2223/2224/2225",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-2222-2223-2224-2225-KRIq7.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "0192fd87331fb257d54c562766e33cd3",
+      "Date" : "Fri, 21 Aug 2020 15:51:21 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "ff1eb5b3-b6a7-359b-b875-c18610e21338"
+}

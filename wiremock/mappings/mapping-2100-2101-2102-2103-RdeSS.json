@@ -1,0 +1,18 @@
+{
+  "id" : "3fde5dd0-bd87-3060-a61c-d4fa38a9acbc",
+  "request" : {
+    "url" : "/2100/2101/2102/2103",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-2100-2101-2102-2103-RdeSS.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "415c6c7ea70c91807d7d46f6f036f36c",
+      "Date" : "Fri, 21 Aug 2020 15:43:06 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "3fde5dd0-bd87-3060-a61c-d4fa38a9acbc"
+}

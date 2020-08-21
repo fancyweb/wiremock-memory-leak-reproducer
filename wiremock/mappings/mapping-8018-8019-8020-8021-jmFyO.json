@@ -1,0 +1,18 @@
+{
+  "id" : "49bf5224-c0ad-39ba-9e00-d870a802896b",
+  "request" : {
+    "url" : "/8018/8019/8020/8021",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-8018-8019-8020-8021-jmFyO.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "4117d01f1504d271819733ce0b4781cd",
+      "Date" : "Fri, 21 Aug 2020 15:44:56 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "49bf5224-c0ad-39ba-9e00-d870a802896b"
+}

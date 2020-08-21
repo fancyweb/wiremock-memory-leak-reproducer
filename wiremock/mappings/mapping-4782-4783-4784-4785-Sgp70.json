@@ -1,0 +1,18 @@
+{
+  "id" : "fb3248a6-24b2-3e06-a24d-9245e9a84122",
+  "request" : {
+    "url" : "/4782/4783/4784/4785",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-4782-4783-4784-4785-Sgp70.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "ada059435a451fe8883189b1b8e6ba6e",
+      "Date" : "Fri, 21 Aug 2020 15:55:06 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "fb3248a6-24b2-3e06-a24d-9245e9a84122"
+}

@@ -1,0 +1,18 @@
+{
+  "id" : "fa96f9c8-99cd-3cfd-8936-ad50dbc304b4",
+  "request" : {
+    "url" : "/9030/9031/9032/9033",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-9030-9031-9032-9033-wgbib.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "081f8e83d6b8f6475c0614a1205f6c6f",
+      "Date" : "Fri, 21 Aug 2020 15:57:20 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "fa96f9c8-99cd-3cfd-8936-ad50dbc304b4"
+}

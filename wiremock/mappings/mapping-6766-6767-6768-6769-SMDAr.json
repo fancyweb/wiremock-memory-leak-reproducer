@@ -1,0 +1,18 @@
+{
+  "id" : "090bb477-3998-343f-bed1-566bd2caca61",
+  "request" : {
+    "url" : "/6766/6767/6768/6769",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-6766-6767-6768-6769-SMDAr.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "1eafa5d881e30d3809f2b42c0be9b72d",
+      "Date" : "Fri, 21 Aug 2020 15:43:49 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "090bb477-3998-343f-bed1-566bd2caca61"
+}

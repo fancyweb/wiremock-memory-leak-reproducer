@@ -1,0 +1,18 @@
+{
+  "id" : "c1c51190-c668-3b56-bd8e-6f3ac95958be",
+  "request" : {
+    "url" : "/2024/2025/2026/2027",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-2024-2025-2026-2027-cdhbo.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "5b05bbbb20fe9da3b4a9fc6059ca8501",
+      "Date" : "Fri, 21 Aug 2020 15:51:17 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "c1c51190-c668-3b56-bd8e-6f3ac95958be"
+}

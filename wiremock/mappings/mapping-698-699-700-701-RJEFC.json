@@ -1,0 +1,18 @@
+{
+  "id" : "e5b2fbef-584b-317a-85fa-a1e9e936d22a",
+  "request" : {
+    "url" : "/698/699/700/701",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-698-699-700-701-RJEFC.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "5b89061c992e899da89a98c50bd8f9fa",
+      "Date" : "Fri, 21 Aug 2020 15:44:20 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "e5b2fbef-584b-317a-85fa-a1e9e936d22a"
+}

@@ -1,0 +1,18 @@
+{
+  "id" : "2cc01a76-c9a4-3b5b-a3d0-785d6bd58a2e",
+  "request" : {
+    "url" : "/7010/7011/7012/7013",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-7010-7011-7012-7013-IpGwg.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "e13aaa2baa5b1b834010ff8cc18c2d0f",
+      "Date" : "Fri, 21 Aug 2020 15:44:50 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "2cc01a76-c9a4-3b5b-a3d0-785d6bd58a2e"
+}

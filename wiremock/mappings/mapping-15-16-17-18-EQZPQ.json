@@ -1,0 +1,18 @@
+{
+  "id" : "264dcf32-9fe9-3880-9c03-cc0b76ca3965",
+  "request" : {
+    "url" : "/15/16/17/18",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-15-16-17-18-EQZPQ.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "1bfd6ac8f482e299bda46d2437b0577c",
+      "Date" : "Fri, 21 Aug 2020 15:47:51 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "264dcf32-9fe9-3880-9c03-cc0b76ca3965"
+}

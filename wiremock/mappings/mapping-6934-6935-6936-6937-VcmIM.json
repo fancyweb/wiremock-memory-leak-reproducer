@@ -1,0 +1,18 @@
+{
+  "id" : "b720767b-660d-326c-8320-f33240a8db7c",
+  "request" : {
+    "url" : "/6934/6935/6936/6937",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-6934-6935-6936-6937-VcmIM.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "476fc627cbf62854558af05706473026",
+      "Date" : "Fri, 21 Aug 2020 15:44:50 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "b720767b-660d-326c-8320-f33240a8db7c"
+}

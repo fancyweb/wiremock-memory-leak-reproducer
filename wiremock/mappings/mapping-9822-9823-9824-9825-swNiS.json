@@ -1,0 +1,18 @@
+{
+  "id" : "89bb2dff-f786-34c0-a6d5-13cb4c65d8d0",
+  "request" : {
+    "url" : "/9822/9823/9824/9825",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-9822-9823-9824-9825-swNiS.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "ee7852d8e9daa4abe40dfbd45e1b7329",
+      "Date" : "Fri, 21 Aug 2020 15:44:16 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "89bb2dff-f786-34c0-a6d5-13cb4c65d8d0"
+}

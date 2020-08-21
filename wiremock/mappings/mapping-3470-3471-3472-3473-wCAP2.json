@@ -1,0 +1,18 @@
+{
+  "id" : "9c2d316f-945a-3a26-91ff-3f983f52ef34",
+  "request" : {
+    "url" : "/3470/3471/3472/3473",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-3470-3471-3472-3473-wCAP2.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "3723fd738f606c32719f1abffd23d74e",
+      "Date" : "Fri, 21 Aug 2020 15:52:16 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "9c2d316f-945a-3a26-91ff-3f983f52ef34"
+}

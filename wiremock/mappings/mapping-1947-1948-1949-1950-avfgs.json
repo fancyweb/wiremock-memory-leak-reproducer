@@ -1,0 +1,18 @@
+{
+  "id" : "07b3aae5-0901-39dc-99dd-1c4dd55fc7b4",
+  "request" : {
+    "url" : "/1947/1948/1949/1950",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-1947-1948-1949-1950-avfgs.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "bf86b78634ee08e41a1bde37705c337a",
+      "Date" : "Fri, 21 Aug 2020 15:49:08 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "07b3aae5-0901-39dc-99dd-1c4dd55fc7b4"
+}

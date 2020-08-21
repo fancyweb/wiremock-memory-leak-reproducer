@@ -1,0 +1,18 @@
+{
+  "id" : "9d5ba150-feea-3248-98db-39a280d2802b",
+  "request" : {
+    "url" : "/1877/1878/1879/1880",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-1877-1878-1879-1880-toKQG.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "56db9c193a10fd659e43d927b09b0765",
+      "Date" : "Fri, 21 Aug 2020 15:49:07 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "9d5ba150-feea-3248-98db-39a280d2802b"
+}

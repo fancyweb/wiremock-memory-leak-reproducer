@@ -1,0 +1,18 @@
+{
+  "id" : "960351c0-53e9-3024-be7e-53ca9853c24e",
+  "request" : {
+    "url" : "/1973/1974/1975/1976",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-1973-1974-1975-1976-UK9X3.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "4a99859102c83bcb3bd54992de096e52",
+      "Date" : "Fri, 21 Aug 2020 15:49:09 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "960351c0-53e9-3024-be7e-53ca9853c24e"
+}

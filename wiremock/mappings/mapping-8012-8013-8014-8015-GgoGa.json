@@ -1,0 +1,18 @@
+{
+  "id" : "ff731d35-88e3-359e-87f2-62fefb7b932a",
+  "request" : {
+    "url" : "/8012/8013/8014/8015",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-8012-8013-8014-8015-GgoGa.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "3a6ead7970faeda7e76e7f87ee2d3a0e",
+      "Date" : "Fri, 21 Aug 2020 15:44:00 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "ff731d35-88e3-359e-87f2-62fefb7b932a"
+}

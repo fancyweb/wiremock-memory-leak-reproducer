@@ -1,0 +1,18 @@
+{
+  "id" : "ad39bb39-9077-3a7e-9a02-81c4e3a136df",
+  "request" : {
+    "url" : "/1992/1993/1994/1995",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-1992-1993-1994-1995-M0ITK.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "f63b65a979a8f217d14c16de4a86798d",
+      "Date" : "Fri, 21 Aug 2020 15:44:26 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "ad39bb39-9077-3a7e-9a02-81c4e3a136df"
+}

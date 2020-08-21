@@ -1,0 +1,18 @@
+{
+  "id" : "bba349eb-ba28-39ab-b514-142fb4d62a89",
+  "request" : {
+    "url" : "/1324/1325/1326/1327",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-1324-1325-1326-1327-NL21q.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "6a6931ddbcb950586e314bb3684eb798",
+      "Date" : "Fri, 21 Aug 2020 15:43:00 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "bba349eb-ba28-39ab-b514-142fb4d62a89"
+}

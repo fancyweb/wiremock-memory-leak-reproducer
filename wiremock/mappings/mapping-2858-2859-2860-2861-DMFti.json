@@ -1,0 +1,18 @@
+{
+  "id" : "5bd1a0cf-2118-3c97-a56c-165d44260a56",
+  "request" : {
+    "url" : "/2858/2859/2860/2861",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-2858-2859-2860-2861-DMFti.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "0c401d4df8f143e4719c060c05e23445",
+      "Date" : "Fri, 21 Aug 2020 15:44:30 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "5bd1a0cf-2118-3c97-a56c-165d44260a56"
+}

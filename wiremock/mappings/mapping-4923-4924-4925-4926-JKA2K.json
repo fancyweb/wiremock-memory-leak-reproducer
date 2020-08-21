@@ -1,0 +1,18 @@
+{
+  "id" : "8717c58d-9fb2-3f6a-840b-e05593835ee0",
+  "request" : {
+    "url" : "/4923/4924/4925/4926",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-4923-4924-4925-4926-JKA2K.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "60ff3970e3e79725a7355230af4f272c",
+      "Date" : "Fri, 21 Aug 2020 15:55:12 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "8717c58d-9fb2-3f6a-840b-e05593835ee0"
+}

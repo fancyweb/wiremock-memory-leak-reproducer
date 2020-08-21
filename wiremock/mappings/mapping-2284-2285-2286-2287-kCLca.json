@@ -1,0 +1,18 @@
+{
+  "id" : "b78b7a10-d8ea-3bf8-a6d3-005399766d31",
+  "request" : {
+    "url" : "/2284/2285/2286/2287",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-2284-2285-2286-2287-kCLca.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "a774d502a560c7b49b4598284d11885b",
+      "Date" : "Fri, 21 Aug 2020 15:43:08 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "b78b7a10-d8ea-3bf8-a6d3-005399766d31"
+}

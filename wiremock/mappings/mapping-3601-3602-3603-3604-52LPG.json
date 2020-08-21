@@ -1,0 +1,18 @@
+{
+  "id" : "9aac6c5b-09d4-323c-8863-9d607a41de10",
+  "request" : {
+    "url" : "/3601/3602/3603/3604",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-3601-3602-3603-3604-52LPG.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "b2e9eac5475039d5c42700115e3f0817",
+      "Date" : "Fri, 21 Aug 2020 15:54:38 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "9aac6c5b-09d4-323c-8863-9d607a41de10"
+}

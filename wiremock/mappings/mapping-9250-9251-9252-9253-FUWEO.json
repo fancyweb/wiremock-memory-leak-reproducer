@@ -1,0 +1,18 @@
+{
+  "id" : "639a0056-5586-3f05-97aa-6f6df6ce3eae",
+  "request" : {
+    "url" : "/9250/9251/9252/9253",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-9250-9251-9252-9253-FUWEO.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "19a6477af517f54541e9a66400127e93",
+      "Date" : "Fri, 21 Aug 2020 15:45:03 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "639a0056-5586-3f05-97aa-6f6df6ce3eae"
+}

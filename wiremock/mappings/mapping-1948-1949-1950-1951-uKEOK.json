@@ -1,0 +1,18 @@
+{
+  "id" : "efded889-25c3-3411-9ba6-5ffd96ff1b0b",
+  "request" : {
+    "url" : "/1948/1949/1950/1951",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-1948-1949-1950-1951-uKEOK.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "035e41f24b65b7437ce2db905478f7a0",
+      "Date" : "Fri, 21 Aug 2020 15:43:05 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "efded889-25c3-3411-9ba6-5ffd96ff1b0b"
+}

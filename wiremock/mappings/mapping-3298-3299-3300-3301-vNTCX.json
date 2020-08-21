@@ -1,0 +1,18 @@
+{
+  "id" : "ccb38b37-bf25-3d61-a354-a1dd81a0efcd",
+  "request" : {
+    "url" : "/3298/3299/3300/3301",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-3298-3299-3300-3301-vNTCX.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "b12b76b04942337ff42fdc183e2bfa95",
+      "Date" : "Fri, 21 Aug 2020 15:44:32 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "ccb38b37-bf25-3d61-a354-a1dd81a0efcd"
+}

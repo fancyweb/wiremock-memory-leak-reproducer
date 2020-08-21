@@ -1,0 +1,18 @@
+{
+  "id" : "a1ba1b91-44bb-334f-9e04-405bdb77e74e",
+  "request" : {
+    "url" : "/3976/3977/3978/3979",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-3976-3977-3978-3979-gMIS2.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "d3b967a8def1bf7f8e98190960b9ae9a",
+      "Date" : "Fri, 21 Aug 2020 15:43:23 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "a1ba1b91-44bb-334f-9e04-405bdb77e74e"
+}

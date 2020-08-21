@@ -1,0 +1,18 @@
+{
+  "id" : "a197d5a5-d9c7-3e04-8c16-40c40550965c",
+  "request" : {
+    "url" : "/1995/1996/1997/1998",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-1995-1996-1997-1998-uEkTh.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "0c5ed5219a3a4af2447373d243521bfe",
+      "Date" : "Fri, 21 Aug 2020 15:49:09 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "a197d5a5-d9c7-3e04-8c16-40c40550965c"
+}

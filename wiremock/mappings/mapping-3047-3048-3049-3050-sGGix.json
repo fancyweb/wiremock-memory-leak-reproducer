@@ -1,0 +1,18 @@
+{
+  "id" : "80832675-dbbb-33fb-98ca-69967f1ce859",
+  "request" : {
+    "url" : "/3047/3048/3049/3050",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-3047-3048-3049-3050-sGGix.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "a4fca0588a8740b0862d992737c49080",
+      "Date" : "Fri, 21 Aug 2020 15:52:02 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "80832675-dbbb-33fb-98ca-69967f1ce859"
+}

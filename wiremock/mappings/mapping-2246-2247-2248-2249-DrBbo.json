@@ -1,0 +1,18 @@
+{
+  "id" : "38241f5c-870c-301e-b0c3-c5196fa16861",
+  "request" : {
+    "url" : "/2246/2247/2248/2249",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-2246-2247-2248-2249-DrBbo.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "25a02d944459d2b2676baae1d2bf3b4e",
+      "Date" : "Fri, 21 Aug 2020 15:44:28 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "38241f5c-870c-301e-b0c3-c5196fa16861"
+}

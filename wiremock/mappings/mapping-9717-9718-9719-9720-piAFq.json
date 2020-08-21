@@ -1,0 +1,18 @@
+{
+  "id" : "4f4581bf-a849-3c7e-bb76-77745d33df47",
+  "request" : {
+    "url" : "/9717/9718/9719/9720",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-9717-9718-9719-9720-piAFq.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "86633e69b9f3ce61e8f4856d3a94bc2c",
+      "Date" : "Fri, 21 Aug 2020 15:57:40 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "4f4581bf-a849-3c7e-bb76-77745d33df47"
+}

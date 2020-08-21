@@ -1,0 +1,18 @@
+{
+  "id" : "ff7da0c1-a68f-34fe-84bc-4c95989fe106",
+  "request" : {
+    "url" : "/3607/3608/3609/3610",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-3607-3608-3609-3610-MgyX9.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "72b6864ba311906ac75e4e5aaf587e70",
+      "Date" : "Fri, 21 Aug 2020 15:54:38 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "ff7da0c1-a68f-34fe-84bc-4c95989fe106"
+}

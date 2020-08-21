@@ -1,0 +1,18 @@
+{
+  "id" : "1382d7f0-7510-3d66-9679-e383ed56a14f",
+  "request" : {
+    "url" : "/5021/5022/5023/5024",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-5021-5022-5023-5024-TZRDW.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "d15ccc0ca3fbe146471a88f438a5ee13",
+      "Date" : "Fri, 21 Aug 2020 15:55:15 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "1382d7f0-7510-3d66-9679-e383ed56a14f"
+}

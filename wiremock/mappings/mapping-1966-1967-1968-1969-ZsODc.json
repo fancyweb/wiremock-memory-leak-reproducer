@@ -1,0 +1,18 @@
+{
+  "id" : "1a4d9cbf-2e27-339f-9ecd-ef03cde6192e",
+  "request" : {
+    "url" : "/1966/1967/1968/1969",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-1966-1967-1968-1969-ZsODc.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "X-Cloud-Trace-Context" : "f66ed6196e324523fa1a94498a43e2ea",
+      "Date" : "Fri, 21 Aug 2020 15:50:52 GMT",
+      "Server" : "Google Frontend"
+    }
+  },
+  "uuid" : "1a4d9cbf-2e27-339f-9ecd-ef03cde6192e"
+}
